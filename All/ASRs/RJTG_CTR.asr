@@ -1,0 +1,544 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:RJTG.sct
+Airports:RJOT:name
+Airports:RJOT:symbol
+ARTCC boundary:RJBG_CTR:
+ARTCC boundary:RJCG_CTR:
+ARTCC boundary:RJDG_CTR:
+ARTCC boundary:RJJJ_FIR:
+ARTCC boundary:RJTG_CTR:
+ARTCC high boundary:RJAH_ACA:
+ARTCC high boundary:RJBB_ACA:
+ARTCC high boundary:RJGG_ACA:
+ARTCC high boundary:RJNK_ACA:
+ARTCC high boundary:RJSN_ACA:
+ARTCC high boundary:RJSS_ACA:
+ARTCC high boundary:RJST_ACA:
+ARTCC high boundary:RJTT_ACA:
+ARTCC high boundary:RJTU_ACA:
+ARTCC high boundary:RJTY_ACA:
+ARTCC low boundary:RJBB_MVA:
+ARTCC low boundary:RJGG_MVA:
+ARTCC low boundary:RJNK_MVA:
+ARTCC low boundary:RJTG_E_CTR:
+ARTCC low boundary:TOKYO_MVA:
+Fixes:ORVIL:name
+Fixes:ORVIL:symbol
+Fixes:QUEST:name
+Fixes:QUEST:symbol
+Free Text:INFO_RJAH_ACA\100:freetext
+Free Text:INFO_RJAH_ACA\130:freetext
+Free Text:INFO_RJAH_ACA\18:freetext
+Free Text:INFO_RJAH_ACA\230:freetext
+Free Text:INFO_RJAH_ACA\25:freetext
+Free Text:INFO_RJAH_ACA\30:freetext
+Free Text:INFO_RJAH_ACA\40:freetext
+Free Text:INFO_RJAH_ACA\40:freetext
+Free Text:INFO_RJAH_ACA\50:freetext
+Free Text:INFO_RJAH_ACA\60:freetext
+Free Text:INFO_RJAH_ACA\60:freetext
+Free Text:INFO_RJAH_ACA\70:freetext
+Free Text:INFO_RJAH_ACA\80:freetext
+Free Text:INFO_RJAH_ACA\80:freetext
+Free Text:INFO_RJAH_ACA\80:freetext
+Free Text:INFO_RJAW_ACA\200:freetext
+Free Text:INFO_RJBB_ACA\030/200:freetext
+Free Text:INFO_RJBB_ACA\050/180:freetext
+Free Text:INFO_RJBB_ACA\050/200:freetext
+Free Text:INFO_RJBB_ACA\060/120:freetext
+Free Text:INFO_RJBB_ACA\060/150:freetext
+Free Text:INFO_RJBB_ACA\060/180:freetext
+Free Text:INFO_RJBB_ACA\060/200:freetext
+Free Text:INFO_RJBB_ACA\120:freetext
+Free Text:INFO_RJBB_ACA\120:freetext
+Free Text:INFO_RJBB_ACA\120:freetext
+Free Text:INFO_RJBB_ACA\150:freetext
+Free Text:INFO_RJBB_ACA\150:freetext
+Free Text:INFO_RJBB_ACA\160:freetext
+Free Text:INFO_RJBB_ACA\180:freetext
+Free Text:INFO_RJBB_ACA\180:freetext
+Free Text:INFO_RJBB_ACA\190:freetext
+Free Text:INFO_RJBB_ACA\200:freetext
+Free Text:INFO_RJBB_ACA\90:freetext
+Free Text:INFO_RJBB_MVA\10:freetext
+Free Text:INFO_RJBB_MVA\100:freetext
+Free Text:INFO_RJBB_MVA\100:freetext
+Free Text:INFO_RJBB_MVA\100:freetext
+Free Text:INFO_RJBB_MVA\100:freetext
+Free Text:INFO_RJBB_MVA\15:freetext
+Free Text:INFO_RJBB_MVA\20:freetext
+Free Text:INFO_RJBB_MVA\20:freetext
+Free Text:INFO_RJBB_MVA\25:freetext
+Free Text:INFO_RJBB_MVA\27:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\30:freetext
+Free Text:INFO_RJBB_MVA\31:freetext
+Free Text:INFO_RJBB_MVA\35:freetext
+Free Text:INFO_RJBB_MVA\35:freetext
+Free Text:INFO_RJBB_MVA\36:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\40:freetext
+Free Text:INFO_RJBB_MVA\45:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\50:freetext
+Free Text:INFO_RJBB_MVA\55:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\60:freetext
+Free Text:INFO_RJBB_MVA\70:freetext
+Free Text:INFO_RJBB_MVA\70:freetext
+Free Text:INFO_RJBB_MVA\70:freetext
+Free Text:INFO_RJBB_MVA\70:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\80:freetext
+Free Text:INFO_RJBB_MVA\85:freetext
+Free Text:INFO_RJBB_MVA\90:freetext
+Free Text:INFO_RJGG_ACA\025/120:freetext
+Free Text:INFO_RJGG_ACA\040/120:freetext
+Free Text:INFO_RJGG_ACA\040/150:freetext
+Free Text:INFO_RJGG_ACA\050/120:freetext
+Free Text:INFO_RJGG_ACA\060/150:freetext
+Free Text:INFO_RJGG_ACA\120:freetext
+Free Text:INFO_RJGG_ACA\120:freetext
+Free Text:INFO_RJGG_ACA\150:freetext
+Free Text:INFO_RJGG_MVA\100 :freetext
+Free Text:INFO_RJGG_MVA\110 :freetext
+Free Text:INFO_RJGG_MVA\110 :freetext
+Free Text:INFO_RJGG_MVA\110 :freetext
+Free Text:INFO_RJGG_MVA\120 :freetext
+Free Text:INFO_RJGG_MVA\15 :freetext
+Free Text:INFO_RJGG_MVA\150 :freetext
+Free Text:INFO_RJGG_MVA\150 :freetext
+Free Text:INFO_RJGG_MVA\150 :freetext
+Free Text:INFO_RJGG_MVA\18 :freetext
+Free Text:INFO_RJGG_MVA\19 :freetext
+Free Text:INFO_RJGG_MVA\20 :freetext
+Free Text:INFO_RJGG_MVA\25 :freetext
+Free Text:INFO_RJGG_MVA\25 :freetext
+Free Text:INFO_RJGG_MVA\25 :freetext
+Free Text:INFO_RJGG_MVA\30 :freetext
+Free Text:INFO_RJGG_MVA\35 :freetext
+Free Text:INFO_RJGG_MVA\35 :freetext
+Free Text:INFO_RJGG_MVA\35 :freetext
+Free Text:INFO_RJGG_MVA\40 :freetext
+Free Text:INFO_RJGG_MVA\40 :freetext
+Free Text:INFO_RJGG_MVA\40 :freetext
+Free Text:INFO_RJGG_MVA\50 :freetext
+Free Text:INFO_RJGG_MVA\50 :freetext
+Free Text:INFO_RJGG_MVA\50 :freetext
+Free Text:INFO_RJGG_MVA\50 :freetext
+Free Text:INFO_RJGG_MVA\50 :freetext
+Free Text:INFO_RJGG_MVA\60 :freetext
+Free Text:INFO_RJGG_MVA\60 :freetext
+Free Text:INFO_RJGG_MVA\70 :freetext
+Free Text:INFO_RJGG_MVA\70 :freetext
+Free Text:INFO_RJGG_MVA\70 :freetext
+Free Text:INFO_RJGG_MVA\80 :freetext
+Free Text:INFO_RJGG_MVA\80 :freetext
+Free Text:INFO_RJGG_MVA\80 :freetext
+Free Text:INFO_RJGG_MVA\80 :freetext
+Free Text:INFO_RJNH_ACA\140:freetext
+Free Text:INFO_RJNH_ACA\40:freetext
+Free Text:INFO_RJNH_ACA\60:freetext
+Free Text:INFO_RJNK_ACA\150:freetext
+Free Text:INFO_RJNK_ACA\230:freetext
+Free Text:INFO_RJNK_ACA\70:freetext
+Free Text:INFO_RJNK_MVA\100:freetext
+Free Text:INFO_RJNK_MVA\100:freetext
+Free Text:INFO_RJNK_MVA\120:freetext
+Free Text:INFO_RJNK_MVA\120:freetext
+Free Text:INFO_RJNK_MVA\15:freetext
+Free Text:INFO_RJNK_MVA\150:freetext
+Free Text:INFO_RJNK_MVA\17:freetext
+Free Text:INFO_RJNK_MVA\20:freetext
+Free Text:INFO_RJNK_MVA\200:freetext
+Free Text:INFO_RJNK_MVA\30:freetext
+Free Text:INFO_RJNK_MVA\30:freetext
+Free Text:INFO_RJNK_MVA\30:freetext
+Free Text:INFO_RJNK_MVA\30:freetext
+Free Text:INFO_RJNK_MVA\30:freetext
+Free Text:INFO_RJNK_MVA\35:freetext
+Free Text:INFO_RJNK_MVA\40:freetext
+Free Text:INFO_RJNK_MVA\40:freetext
+Free Text:INFO_RJNK_MVA\40:freetext
+Free Text:INFO_RJNK_MVA\50:freetext
+Free Text:INFO_RJNK_MVA\50:freetext
+Free Text:INFO_RJNK_MVA\50:freetext
+Free Text:INFO_RJNK_MVA\50:freetext
+Free Text:INFO_RJNK_MVA\50:freetext
+Free Text:INFO_RJNK_MVA\50:freetext
+Free Text:INFO_RJNK_MVA\60:freetext
+Free Text:INFO_RJNK_MVA\60:freetext
+Free Text:INFO_RJNK_MVA\60:freetext
+Free Text:INFO_RJNK_MVA\60:freetext
+Free Text:INFO_RJNK_MVA\70:freetext
+Free Text:INFO_RJNK_MVA\70:freetext
+Free Text:INFO_RJNK_MVA\70:freetext
+Free Text:INFO_RJNK_MVA\80:freetext
+Free Text:INFO_RJNK_MVA\80:freetext
+Free Text:INFO_RJNK_MVA\80:freetext
+Free Text:INFO_RJSM_ACA\090/200:freetext
+Free Text:INFO_RJSM_ACA\150:freetext
+Free Text:INFO_RJSM_ACA\170:freetext
+Free Text:INFO_RJSM_ACA\200:freetext
+Free Text:INFO_RJSN_ACA\140:freetext
+Free Text:INFO_RJSN_ACA\80:freetext
+Free Text:INFO_RJSS_ACA\160:freetext
+Free Text:INFO_RJSS_ACA\160:freetext
+Free Text:INFO_RJSS_ACA\160:freetext
+Free Text:INFO_RJST_ACA\100:freetext
+Free Text:INFO_RJST_ACA\140:freetext
+Free Text:INFO_RJST_ACA\60:freetext
+Free Text:INFO_RJTT_ACA\018/240:freetext
+Free Text:INFO_RJTT_ACA\025/240:freetext
+Free Text:INFO_RJTT_ACA\030/240:freetext
+Free Text:INFO_RJTT_ACA\040/240:freetext
+Free Text:INFO_RJTT_ACA\040/240:freetext
+Free Text:INFO_RJTT_ACA\040/240:freetext
+Free Text:INFO_RJTT_ACA\050/240:freetext
+Free Text:INFO_RJTT_ACA\060/240:freetext
+Free Text:INFO_RJTT_ACA\060/240:freetext
+Free Text:INFO_RJTT_ACA\070/240:freetext
+Free Text:INFO_RJTT_ACA\080/240:freetext
+Free Text:INFO_RJTT_ACA\080/240:freetext
+Free Text:INFO_RJTT_ACA\080/240:freetext
+Free Text:INFO_RJTT_ACA\100/240:freetext
+Free Text:INFO_RJTT_ACA\120/240:freetext
+Free Text:INFO_RJTT_ACA\140/240:freetext
+Free Text:INFO_RJTT_ACA\180/240:freetext
+Free Text:INFO_RJTT_ACA\230:freetext
+Free Text:INFO_RJTT_ACA\240:freetext
+Free Text:INFO_RJTT_ACA\240:freetext
+Free Text:INFO_RJTT_ACA\240:freetext
+Free Text:INFO_RJTT_ACA\240:freetext
+Free Text:INFO_RJTU_ACA\40:freetext
+Free Text:INFO_RJTU_ACA\70:freetext
+Free Text:INFO_RJTY_ACA\120:freetext
+Free Text:INFO_RJTY_ACA\140:freetext
+Free Text:INFO_RJTY_ACA\160:freetext
+Free Text:INFO_RJTY_ACA\180:freetext
+Free Text:INFO_RJTY_ACA\230:freetext
+Free Text:INFO_RJTY_ACA\80:freetext
+Free Text:INFO_TOKYO_MVA\100:freetext
+Free Text:INFO_TOKYO_MVA\100:freetext
+Free Text:INFO_TOKYO_MVA\100:freetext
+Free Text:INFO_TOKYO_MVA\110:freetext
+Free Text:INFO_TOKYO_MVA\120:freetext
+Free Text:INFO_TOKYO_MVA\130:freetext
+Free Text:INFO_TOKYO_MVA\150:freetext
+Free Text:INFO_TOKYO_MVA\16 :freetext
+Free Text:INFO_TOKYO_MVA\160:freetext
+Free Text:INFO_TOKYO_MVA\17 :freetext
+Free Text:INFO_TOKYO_MVA\18 :freetext
+Free Text:INFO_TOKYO_MVA\18 :freetext
+Free Text:INFO_TOKYO_MVA\18 :freetext
+Free Text:INFO_TOKYO_MVA\18 :freetext
+Free Text:INFO_TOKYO_MVA\19 :freetext
+Free Text:INFO_TOKYO_MVA\20 :freetext
+Free Text:INFO_TOKYO_MVA\20 :freetext
+Free Text:INFO_TOKYO_MVA\20 :freetext
+Free Text:INFO_TOKYO_MVA\20 :freetext
+Free Text:INFO_TOKYO_MVA\20 :freetext
+Free Text:INFO_TOKYO_MVA\21 :freetext
+Free Text:INFO_TOKYO_MVA\22 :freetext
+Free Text:INFO_TOKYO_MVA\25 :freetext
+Free Text:INFO_TOKYO_MVA\28 :freetext
+Free Text:INFO_TOKYO_MVA\30 :freetext
+Free Text:INFO_TOKYO_MVA\30 :freetext
+Free Text:INFO_TOKYO_MVA\30 :freetext
+Free Text:INFO_TOKYO_MVA\30 :freetext
+Free Text:INFO_TOKYO_MVA\31 :freetext
+Free Text:INFO_TOKYO_MVA\32 :freetext
+Free Text:INFO_TOKYO_MVA\35 :freetext
+Free Text:INFO_TOKYO_MVA\36 :freetext
+Free Text:INFO_TOKYO_MVA\40 :freetext
+Free Text:INFO_TOKYO_MVA\40 :freetext
+Free Text:INFO_TOKYO_MVA\50 :freetext
+Free Text:INFO_TOKYO_MVA\50 :freetext
+Free Text:INFO_TOKYO_MVA\50 :freetext
+Free Text:INFO_TOKYO_MVA\50 :freetext
+Free Text:INFO_TOKYO_MVA\60 :freetext
+Free Text:INFO_TOKYO_MVA\60 :freetext
+Free Text:INFO_TOKYO_MVA\60 :freetext
+Free Text:INFO_TOKYO_MVA\60 :freetext
+Free Text:INFO_TOKYO_MVA\60　:freetext
+Free Text:INFO_TOKYO_MVA\60　:freetext
+Free Text:INFO_TOKYO_MVA\70 :freetext
+Free Text:INFO_TOKYO_MVA\70　:freetext
+Free Text:INFO_TOKYO_MVA\70　:freetext
+Free Text:INFO_TOKYO_MVA\70　:freetext
+Free Text:INFO_TOKYO_MVA\80　:freetext
+Free Text:INFO_TOKYO_MVA\90　:freetext
+Free Text:RJGG\1:freetext
+Free Text:RJGG\10:freetext
+Free Text:RJGG\101:freetext
+Free Text:RJGG\102:freetext
+Free Text:RJGG\103:freetext
+Free Text:RJGG\104:freetext
+Free Text:RJGG\105:freetext
+Free Text:RJGG\106:freetext
+Free Text:RJGG\107:freetext
+Free Text:RJGG\108:freetext
+Free Text:RJGG\109:freetext
+Free Text:RJGG\11:freetext
+Free Text:RJGG\110:freetext
+Free Text:RJGG\111:freetext
+Free Text:RJGG\112:freetext
+Free Text:RJGG\113:freetext
+Free Text:RJGG\114:freetext
+Free Text:RJGG\115:freetext
+Free Text:RJGG\116:freetext
+Free Text:RJGG\117:freetext
+Free Text:RJGG\118:freetext
+Free Text:RJGG\119:freetext
+Free Text:RJGG\12:freetext
+Free Text:RJGG\14:freetext
+Free Text:RJGG\15:freetext
+Free Text:RJGG\16:freetext
+Free Text:RJGG\17:freetext
+Free Text:RJGG\18:freetext
+Free Text:RJGG\19:freetext
+Free Text:RJGG\2:freetext
+Free Text:RJGG\20:freetext
+Free Text:RJGG\201:freetext
+Free Text:RJGG\202:freetext
+Free Text:RJGG\203:freetext
+Free Text:RJGG\204:freetext
+Free Text:RJGG\205:freetext
+Free Text:RJGG\206:freetext
+Free Text:RJGG\21:freetext
+Free Text:RJGG\22:freetext
+Free Text:RJGG\23:freetext
+Free Text:RJGG\24:freetext
+Free Text:RJGG\25:freetext
+Free Text:RJGG\3:freetext
+Free Text:RJGG\301:freetext
+Free Text:RJGG\302:freetext
+Free Text:RJGG\303:freetext
+Free Text:RJGG\304:freetext
+Free Text:RJGG\305:freetext
+Free Text:RJGG\306:freetext
+Free Text:RJGG\4:freetext
+Free Text:RJGG\400D:freetext
+Free Text:RJGG\400E:freetext
+Free Text:RJGG\400F:freetext
+Free Text:RJGG\401:freetext
+Free Text:RJGG\402:freetext
+Free Text:RJGG\403:freetext
+Free Text:RJGG\405:freetext
+Free Text:RJGG\406:freetext
+Free Text:RJGG\407:freetext
+Free Text:RJGG\408:freetext
+Free Text:RJGG\5:freetext
+Free Text:RJGG\500A:freetext
+Free Text:RJGG\500B:freetext
+Free Text:RJGG\500C:freetext
+Free Text:RJGG\500D:freetext
+Free Text:RJGG\500E:freetext
+Free Text:RJGG\500F:freetext
+Free Text:RJGG\501:freetext
+Free Text:RJGG\502:freetext
+Free Text:RJGG\503:freetext
+Free Text:RJGG\504:freetext
+Free Text:RJGG\505:freetext
+Free Text:RJGG\506:freetext
+Free Text:RJGG\507:freetext
+Free Text:RJGG\508:freetext
+Free Text:RJGG\6:freetext
+Free Text:RJGG\601E:freetext
+Free Text:RJGG\601W:freetext
+Free Text:RJGG\7:freetext
+Free Text:RJGG\71:freetext
+Free Text:RJGG\72:freetext
+Free Text:RJGG\72A:freetext
+Free Text:RJGG\73:freetext
+Free Text:RJGG\74:freetext
+Free Text:RJGG\74A:freetext
+Free Text:RJGG\75:freetext
+Free Text:RJGG\76:freetext
+Free Text:RJGG\77:freetext
+Free Text:RJGG\78:freetext
+Free Text:RJGG\79:freetext
+Free Text:RJGG\8:freetext
+Free Text:RJGG\80:freetext
+Free Text:RJGG\9:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A:freetext
+Free Text:RJGG\A1:freetext
+Free Text:RJGG\A10:freetext
+Free Text:RJGG\A2:freetext
+Free Text:RJGG\A3:freetext
+Free Text:RJGG\A3S:freetext
+Free Text:RJGG\A4:freetext
+Free Text:RJGG\A5:freetext
+Free Text:RJGG\A6:freetext
+Free Text:RJGG\A7:freetext
+Free Text:RJGG\A8:freetext
+Free Text:RJGG\A8N:freetext
+Free Text:RJGG\A9:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B:freetext
+Free Text:RJGG\B1:freetext
+Free Text:RJGG\B10:freetext
+Free Text:RJGG\B2:freetext
+Free Text:RJGG\B3:freetext
+Free Text:RJGG\B4:freetext
+Free Text:RJGG\B5:freetext
+Free Text:RJGG\B6:freetext
+Free Text:RJGG\B6N:freetext
+Free Text:RJGG\B7:freetext
+Free Text:RJGG\B8:freetext
+Free Text:RJGG\B9:freetext
+Free Text:RJGG\C:freetext
+Free Text:RJGG\C:freetext
+Free Text:RJGG\C:freetext
+Free Text:RJGG\C:freetext
+Free Text:RJGG\C10:freetext
+Free Text:RJGG\C7:freetext
+Free Text:RJGG\C8:freetext
+Free Text:RJGG\C9:freetext
+Free Text:RJGG\D:freetext
+Free Text:RJGG\D5:freetext
+Free Text:RJGG\D6:freetext
+Free Text:RJGG\D7:freetext
+Free Text:RJGG\E:freetext
+Free Text:RJGG\E:freetext
+Free Text:RJGG\E:freetext
+Free Text:RJGG\E2:freetext
+Free Text:RJGG\E3:freetext
+Free Text:RJGG\E4:freetext
+Free Text:RJGG\E5:freetext
+Free Text:RJGG\E6:freetext
+Free Text:RJGG\J:freetext
+Free Text:RJGG\K3:freetext
+Free Text:RJGG\N1:freetext
+Free Text:RJGG\N2:freetext
+Free Text:RJGG\N3:freetext
+Free Text:RJGG\N4:freetext
+Free Text:RJGG\N5:freetext
+Free Text:RJGG\N6:freetext
+Free Text:RJGG\P:freetext
+Free Text:RJOT\P1:freetext
+Free Text:RJOT\P2:freetext
+Free Text:RJOT\P3:freetext
+Free Text:RJOT\P4:freetext
+Free Text:RJOT\P5:freetext
+Free Text:RJOT\P6:freetext
+Free Text:RJOT\T1:freetext
+Free Text:RJOT\T2:freetext
+Free Text:RJOT\T3:freetext
+Free Text:RJOT\T4:freetext
+Free Text:RJOT\T5:freetext
+Geo:RJAA @Mika/Sijia Huang:
+Geo:RJBB @yuuki_hj:
+Geo:RJBE @Inoue:
+Geo:RJGG @Mika/Sijia Huang:
+Geo:RJTT @Mika/Sijia Huang:
+Geo:RJTY @Mika/Sijia Huang:
+Regions:RJAA @Mika/Sijia Huang:polygon
+Regions:RJBB @yuuki_hj:polygon
+Regions:RJBE @Inoue:polygon
+Regions:RJGG @Mika/Sijia Huang:polygon
+Regions:RJTT @Mika/Sijia Huang:polygon
+Regions:RJTY @Mika/Sijia Huang:polygon
+Runways:RJGG Chubu Centrair Intl 18-36:centerline
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1 left base
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1 left ticks
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1 left vectoring
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1 right base
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1 right ticks
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 1 right vectoring
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2 left base
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2 left ticks
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2 left vectoring
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2 right base
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2 right ticks
+Runways:RJGG Chubu Centrair Intl 18-36:extended centerline 2 right vectoring
+Runways:RJGG Chubu Centrair Intl 18-36:name
+Runways:RJOT Takamatsu 08-26:centerline
+Runways:RJOT Takamatsu 08-26:extended centerline 1
+Runways:RJOT Takamatsu 08-26:extended centerline 1 left base
+Runways:RJOT Takamatsu 08-26:extended centerline 1 left ticks
+Runways:RJOT Takamatsu 08-26:extended centerline 1 left vectoring
+Runways:RJOT Takamatsu 08-26:extended centerline 1 right base
+Runways:RJOT Takamatsu 08-26:extended centerline 1 right ticks
+Runways:RJOT Takamatsu 08-26:extended centerline 1 right vectoring
+Runways:RJOT Takamatsu 08-26:extended centerline 2
+Runways:RJOT Takamatsu 08-26:extended centerline 2 left base
+Runways:RJOT Takamatsu 08-26:extended centerline 2 left ticks
+Runways:RJOT Takamatsu 08-26:extended centerline 2 left vectoring
+Runways:RJOT Takamatsu 08-26:extended centerline 2 right base
+Runways:RJOT Takamatsu 08-26:extended centerline 2 right ticks
+Runways:RJOT Takamatsu 08-26:extended centerline 2 right vectoring
+Runways:RJOT Takamatsu 08-26:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias Mika
+WINDOWAREA:25.875411:122.871245:41.095539:140.336337
