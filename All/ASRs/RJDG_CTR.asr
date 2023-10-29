@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\MISAWA\Desktop\VATSIM Sector\セクター公表用\TOKYO ES 2309v4\All\Sectors\RJTG.sct
 SECTORTITLE:RJTG.sct
 ARTCC boundary:RJBG_CTR:
 ARTCC boundary:RJCG_CTR:
@@ -459,6 +460,7 @@ Free Text:RJFF\E7:freetext
 Free Text:RJFF\E8:freetext
 Free Text:RJFF\E9:freetext
 Free Text:RJFF\G:freetext
+Free Text:RJFF\ILSz27 SINWA 2000ft:freetext
 Free Text:RJFF\J1:freetext
 Free Text:RJFF\J2:freetext
 Free Text:RJFF\J3:freetext
@@ -886,14 +888,11 @@ Free Text:ROIG\6:freetext
 Free Text:ROIG\7:freetext
 Free Text:ROIG\8:freetext
 Free Text:ROIG\9:freetext
-Geo:RJAW @Mika/Sijia Huang:
-Geo:RJFF @TOKYO ES Team:
-Geo:RJFK @Mika/Sijia Huang:
-Geo:RJFM @Mika/Sijia Huang:
-Geo:RJFO @Mika/Sijia Huang:
-Geo:RJFU @Ryo Matsuno:
-Geo:RJOA @Mika/Sijia Huang:
-Geo:RJOM @Ryo Matsuno:
+Geo:RJFF:
+Geo:RJFK:
+Geo:RJFM:
+Geo:RJFO:
+Geo:RJOA:
 High airways:M750-150:line
 High airways:M750-150:name
 High airways:M750-160:line
@@ -988,16 +987,11 @@ Low airways:V28-120:line
 Low airways:V28-120:name
 Low airways:V28-170:line
 Low airways:V28-170:name
-Regions:RJAW @Mika/Sijia Huang:polygon
-Regions:RJFF @TOKYO ES Team:polygon
-Regions:RJFK @Mika/Sijia Huang:polygon
-Regions:RJFM @Mika/Sijia Huang:polygon
-Regions:RJFO @Mika/Sijia Huang:polygon
-Regions:RJFU @Ryo Matsuno:polygon
-Regions:RJOA @Mika/Sijia Huang:polygon
-Regions:RJOM @Ryo Matsuno:polygon
-Regions:ROAH @yuuki_hj:polygon
-Regions:ROKJ @Ryo Matsuno:polygon
+Regions:RJFF:polygon
+Regions:RJFK:polygon
+Regions:RJFM:polygon
+Regions:RJFO:polygon
+Regions:RJOA:polygon
 Runways:RJFF Fukuoka 16-34:centerline
 Runways:RJFF Fukuoka 16-34:extended centerline 1
 Runways:RJFF Fukuoka 16-34:extended centerline 1 left base
@@ -1567,4 +1561,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias Mika
-WINDOWAREA:33.523801:130.381838:33.636104:130.510705
+WINDOWAREA:34.321416:132.802738:34.540758:133.054433

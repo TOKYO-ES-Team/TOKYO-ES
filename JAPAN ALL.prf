@@ -54,7 +54,7 @@ LastSession	simdatapublish	0
 LastSession	atis_letter	67
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Standard ES radar screen
-LastSession	callsign	RJFF_TWR
+LastSession	callsign	RJOA_I_TWR
 Plugins	Plugin2	\All\Plugins\VCH.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Settings	AselKey	5111808
