@@ -1,3 +1,6 @@
 version.txt
 Settings/
 ASRs/
+.idea/
+.vscode/
+.DS_Store
