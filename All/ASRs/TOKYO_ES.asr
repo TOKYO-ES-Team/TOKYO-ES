@@ -1,0 +1,86 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\TOKYO-ES\All\Sectors\TOKYO_ES.sct
+SECTORTITLE:TOKYO_ES.sct
+ARTCC boundary:A01:
+ARTCC boundary:A02:
+ARTCC boundary:A03:
+ARTCC boundary:A04:
+ARTCC boundary:A05:
+ARTCC boundary:ES_RJJJ:
+ARTCC boundary:F01:
+ARTCC boundary:F01(335+):
+ARTCC boundary:F02:
+ARTCC boundary:F02(335+):
+ARTCC boundary:F03:
+ARTCC boundary:F03(335+):
+ARTCC boundary:F04:
+ARTCC boundary:F04(335+):
+ARTCC boundary:F05(335+):
+ARTCC boundary:F06:
+ARTCC boundary:F06(335+):
+ARTCC boundary:F07:
+ARTCC boundary:F07(335+):
+ARTCC boundary:F08:
+ARTCC boundary:F08(335+):
+ARTCC boundary:F11:
+ARTCC boundary:F12(335+):
+ARTCC boundary:F13:
+ARTCC boundary:F13(335+):
+ARTCC boundary:F14(335+):
+ARTCC boundary:F15:
+ARTCC boundary:F16:
+ARTCC boundary:F16(335+):
+ARTCC boundary:F17:
+ARTCC boundary:F19(335+):
+ARTCC boundary:F20(335+):
+ARTCC boundary:N43:
+ARTCC boundary:N44:
+ARTCC boundary:N47:
+ARTCC boundary:N48:
+ARTCC boundary:N49:
+ARTCC boundary:N49(235+)/N48(235-):
+ARTCC boundary:N50:
+ARTCC boundary:N50(285+)/N54(285-):
+ARTCC boundary:N51:
+ARTCC boundary:N52:
+ARTCC boundary:N53:
+ARTCC boundary:N54:
+ARTCC boundary:N55:
+ARTCC boundary:N55(275+)/N54(275-):
+ARTCC boundary:T25(285+)/T45(285-):
+ARTCC boundary:T30:
+ARTCC boundary:T31:
+ARTCC boundary:T31(245+)/T32(245-):
+ARTCC boundary:T32:
+ARTCC boundary:T33:
+ARTCC boundary:T34:
+ARTCC boundary:T35:
+ARTCC boundary:T36:
+ARTCC boundary:T38:
+ARTCC boundary:T38(195-)/N44(195+):
+ARTCC boundary:T38(215-)/T44(215+):
+ARTCC boundary:T39:
+ARTCC boundary:T40:
+ARTCC boundary:T41:
+ARTCC boundary:T42:
+ARTCC boundary:T45:
+ARTCC boundary:T46:
+ARTCC high boundary:RJFK_ACA:
+ARTCC low boundary:RJGG_MVA:
+ARTCC low boundary:TOKYO_MVA:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:
+WINDOWAREA:0.000000:0.000000:0.000000:0.000000
