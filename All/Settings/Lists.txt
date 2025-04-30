@@ -28,8 +28,8 @@ m_Column:ASSR:5:1:60:31:31:1::::1:0.0
 END
 SEL
 m_Visible:1
-m_X:450
-m_Y:1025
+m_X:770
+m_Y:1060
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:5
@@ -49,7 +49,7 @@ m_Column:A/S:4:1:60:31:31:1::::1:0.0
 m_Column:S/Pad:7:1:19:29:0:1::::1:0.0
 END
 DEP
-m_Visible:1
+m_Visible:0
 m_X:228
 m_Y:950
 m_LineNumber:6
