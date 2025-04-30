@@ -55,18 +55,17 @@ LastSession	atis_letter	67
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Standard ES radar screen
 LastSession	callsign	RJOA_I_TWR
-Plugins	Plugin2	\All\Plugins\VCH.dll
-Plugins	Plugin2Display0	Standard ES radar screen
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-RecentFiles	Recent1	\All\ASRs\RJDG_CTR.asr
-RecentFiles	Recent2	\All\ASRs\RJTG_FSS.asr
-RecentFiles	Recent3	\All\ASRs\RJTT_APP.asr
-RecentFiles	Recent4	\All\ASRs\RJTG_CTR.asr
-RecentFiles	Recent5	\All\ASRs\RJBG_T_CTR.asr
-RecentFiles	Recent6	\All\ASRs\RJCC_APP.asr
-RecentFiles	Recent7	\All\ASRs\RJFF_APP.asr
+RecentFiles	Recent1	\All\ASRs\RJTG_CTR.asr
+RecentFiles	Recent2	\All\ASRs\RJTT_APP.asr
+RecentFiles	Recent3	\All\ASRs\RJTG_FSS.asr
+RecentFiles	Recent4	\All\ASRs\RJBG_T_CTR.asr
+RecentFiles	Recent5	\All\ASRs\RJDG_CTR.asr
+RecentFiles	Recent6	\All\ASRs\RJFF_APP.asr
+RecentFiles	Recent7	\All\ASRs\RJCC_APP.asr
 RecentFiles	Recent8	\All\ASRs\RJFK_APP.asr
 RecentFiles	Recent9	\All\ASRs\RJFO_APP.asr
 RecentFiles	Recent10	\All\ASRs\RJFO_APP.asr
 LastSession	server	AUTOMATIC
+LastSession	atis_freq4	118000

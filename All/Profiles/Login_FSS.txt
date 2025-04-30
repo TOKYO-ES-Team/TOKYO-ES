@@ -1,0 +1,9 @@
+PROFILE
+PROFILE:**_FSS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:RJTG_FSS:600:6
+ATIS2:Callsign Tokyo, oceanic only, cover NONE airports.
+ATIS3:
+ATIS4:
