@@ -1,0 +1,11 @@
+{
+  "name": "tokyo-es",
+  "version": "1.0.0",
+  "description": "VATJPN Sector File for Euroscope  \r by 東京洋上TOKYO ES Team\r （Discord:mika0202）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
