@@ -7,3 +7,47 @@
 ;VRC and EuroScope ATC sector file for VATSIM Japan
 ;AIRAC cycle 2504(2025-04 - 23)
 
+#define AGATE-C 16711680
+#define AQUA 16776960
+#define BLACK 0
+#define BLUE 16711680
+#define BRVO-C 8388608
+#define BUILD-C 106
+#define CHRLI-C 4194432
+#define COAST-C 16384
+#define CTR-C1 55552
+#define CTR-C2 38144
+#define CTR-C3 3825920
+#define CTRLN-C 21845
+#define DGATE-C 16711935
+#define DGRAY 1973790
+#define FIXES-C 44444
+#define FUCHSIA 16711935
+#define FUEL-C 32896
+#define GRAY 8421504
+#define GREEN 32768
+#define HOLD-C 32896
+#define LABEL-C 5263440
+#define LABELR-C 5263472
+#define LABELG-C 5271632
+#define LABELB-C 7360592
+#define LAKE-C 4210688
+#define LIME 65280
+#define MAROON 128
+#define MOA-C 5865472
+#define MVA 16448
+#define OLIVE 32896
+#define PURPLE 8388736
+#define RADAR-C 44444
+#define RED 255
+#define RESTR-C 128
+#define RWAY-C 5592405
+#define SILVER 12632256
+#define TEAL 8421376
+#define TRACON-C 32896
+#define TWAY-C 4210688
+#define WARN-C 3757312
+#define WHITE 16777215
+#define YELLOW 65535
+#define ZLAHI-C 4144959
+#define ZLALO-C 5592405

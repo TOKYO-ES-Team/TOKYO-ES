@@ -1,5 +1,8 @@
 const fs = require('fs');
 const licenseText = require('./licenses.js');
+const defineText = require('./define.js');
 
-fs.writeFileSync('TEST.sct', licenseText, 'utf8');
-console.log('RJTG.sct 파일이 생성되었습니다.');
+const fullText = licenseText + defineText;
+
+fs.writeFileSync('TEST.sct', fullText, 'utf8');
+console.log('TEST.sct file is generated successfully!');
