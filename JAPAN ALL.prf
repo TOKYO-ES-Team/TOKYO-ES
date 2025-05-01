@@ -1,4 +1,4 @@
-Settings	sector	\All\Sectors\TOKYO_ES.sct
+Settings	sector	\All\Sectors\RJTG.sct
 Settings	SettingsfileSYMBOLOGY	\All\Settings\Symbology Night.txt
 Settings	SettingsfileVOICE	\All\Profiles\Channels_RJTG.txt
 Settings	SettingsfilePROFILE	\All\Profiles\Login_CTR.txt
@@ -57,16 +57,8 @@ Plugins	Plugin1Display0	Standard ES radar screen
 LastSession	callsign	RJOA_I_TWR
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-RecentFiles	Recent1	\All\ASRs\ALL.asr
-RecentFiles	Recent2	\All\ASRs\TOKYO_ES.asr
-RecentFiles	Recent3	\All\ASRs\RJFK_APP.asr
-RecentFiles	Recent4	\All\ASRs\RJTG_CTR.asr
-RecentFiles	Recent5	\All\ASRs\RJTT_APP.asr
-RecentFiles	Recent6	\All\ASRs\RJTG_FSS.asr
-RecentFiles	Recent7	\All\ASRs\RJBG_T_CTR.asr
-RecentFiles	Recent8	\All\ASRs\RJDG_CTR.asr
-RecentFiles	Recent9	\All\ASRs\RJFF_APP.asr
-RecentFiles	Recent10	\All\ASRs\RJCC_APP.asr
+RecentFiles	Recent1	\All\ASRs\JAPAN.asr
+RecentFiles	Recent3	\All\Sectors\RJTG.sct
 LastSession	server	AUTOMATIC
 LastSession	atis_freq4	118000
-RecentFiles	Recent11	\All\ASRs\RJCC_APP.asr
+LastSession	atis_freq3	118000
