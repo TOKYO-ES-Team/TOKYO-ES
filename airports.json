@@ -36,7 +36,7 @@
     "FREQ": "199.998",
     "LAT": "N024.17.23.000",
     "LOT": "E153.58.45.000",
-    "AIRSPACE": "D",
+    "AIRSPACE": "X",
     "NAME": "Minami Torishima"
   },
   {
@@ -68,7 +68,7 @@
     "FREQ": "199.998",
     "LAT": "N034.26.03.000",
     "LOT": "E135.13.58.000",
-    "AIRSPACE": "C",
+    "AIRSPACE": "D",
     "NAME": "Kansai Intl"
   },
   {
@@ -84,7 +84,7 @@
     "FREQ": "199.998",
     "LAT": "N034.37.58.000",
     "LOT": "E135.13.26.000",
-    "AIRSPACE": "C",
+    "AIRSPACE": "D",
     "NAME": "Kobe"
   },
   {
@@ -92,7 +92,7 @@
     "FREQ": "199.998",
     "LAT": "N034.22.01.000",
     "LOT": "E132.24.50.000",
-    "AIRSPACE": "E",
+    "AIRSPACE": "X",
     "NAME": "Hiroshima-Nishi"
   },
   {
@@ -100,7 +100,7 @@
     "FREQ": "199.998",
     "LAT": "N034.35.27.010",
     "LOT": "E133.55.59.610",
-    "AIRSPACE": "E",
+    "AIRSPACE": "X",
     "NAME": "Kohnan"
   },
   {
@@ -108,7 +108,7 @@
     "FREQ": "199.998",
     "LAT": "N035.30.46.000",
     "LOT": "E134.47.13.000",
-    "AIRSPACE": "E",
+    "AIRSPACE": "X",
     "NAME": "Tajima"
   },
   {
@@ -164,7 +164,7 @@
     "FREQ": "199.998",
     "LAT": "N043.34.39.000",
     "LOT": "E144.57.36.000",
-    "AIRSPACE": "D",
+    "AIRSPACE": "E",
     "NAME": "Nakashibetsu"
   },
   {
@@ -180,7 +180,7 @@
     "FREQ": "199.998",
     "LAT": "N045.27.18.000",
     "LOT": "E141.02.21.000",
-    "AIRSPACE": "G",
+    "AIRSPACE": "X",
     "NAME": "Rebun"
   },
   {
@@ -204,7 +204,7 @@
     "FREQ": "199.998",
     "LAT": "N032.28.56.000",
     "LOT": "E130.09.32.000",
-    "AIRSPACE": "G",
+    "AIRSPACE": "X",
     "NAME": "Amakusa"
   },
   {
@@ -228,7 +228,7 @@
     "FREQ": "199.998",
     "LAT": "N033.00.49.000",
     "LOT": "E129.11.33.000",
-    "AIRSPACE": "G",
+    "AIRSPACE": "X",
     "NAME": "Kamigoto"
   },
   {
@@ -236,7 +236,7 @@
     "FREQ": "199.998",
     "LAT": "N033.19.31.000",
     "LOT": "E130.24.49.000",
-    "AIRSPACE": "E",
+    "AIRSPACE": "D",
     "NAME": "Metabaru"
   },
   {
@@ -244,7 +244,7 @@
     "FREQ": "199.998",
     "LAT": "N033.11.27.000",
     "LOT": "E129.05.25.000",
-    "AIRSPACE": "G",
+    "AIRSPACE": "X",
     "NAME": "Ojika"
   },
   {
@@ -260,7 +260,7 @@
     "FREQ": "199.998",
     "LAT": "N032.55.41.000",
     "LOT": "E129.56.03.000",
-    "AIRSPACE": "E",
+    "AIRSPACE": "D",
     "NAME": "Omura Aero"
   },
   {
@@ -284,7 +284,7 @@
     "FREQ": "199.998",
     "LAT": "N042.04.18.000",
     "LOT": "E139.25.58.000",
-    "AIRSPACE": "E",
+    "AIRSPACE": "X",
     "NAME": "Okushiri"
   },
   {
@@ -308,7 +308,7 @@
     "FREQ": "199.998",
     "LAT": "N030.23.08.000",
     "LOT": "E130.39.33.000",
-    "AIRSPACE": "D",
+    "AIRSPACE": "E",
     "NAME": "Yakushima"
   },
   {
@@ -324,7 +324,7 @@
     "FREQ": "199.998",
     "LAT": "N033.35.04.000",
     "LOT": "E130.27.06.000",
-    "AIRSPACE": "D",
+    "AIRSPACE": "C",
     "NAME": "Fukuoka"
   },
   {
@@ -340,629 +340,711 @@
     "FREQ": "199.998",
     "LAT": "N033.40.39.000",
     "LOT": "E130.23.27.000",
-    "AIRSPACE": "G"
+    "AIRSPACE": "X",
+    "NAME": "Nata Heliport"
   },
   {
     "ICAO": "RJFK",
     "FREQ": "199.998",
     "LAT": "N031.48.12.000",
     "LOT": "E130.43.10.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "C",
+    "NAME": "Kagoshima"
   },
   {
     "ICAO": "RJFM",
     "FREQ": "199.998",
     "LAT": "N031.52.38.000",
     "LOT": "E131.26.55.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "C",
+    "NAME": "Miyazaki"
   },
   {
     "ICAO": "RJFN",
     "FREQ": "199.998",
     "LAT": "N032.05.01.000",
     "LOT": "E131.27.05.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Nyutabaru AB"
   },
   {
     "ICAO": "RJFO",
     "FREQ": "199.998",
     "LAT": "N033.28.46.000",
     "LOT": "E131.44.14.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Oita"
   },
   {
     "ICAO": "RJFR",
     "FREQ": "199.998",
     "LAT": "N033.50.44.000",
     "LOT": "E131.02.06.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kitakyushu"
   },
   {
     "ICAO": "RJFS",
     "FREQ": "199.998",
     "LAT": "N033.08.59.000",
     "LOT": "E130.18.08.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Saga"
   },
   {
     "ICAO": "RJFT",
     "FREQ": "199.998",
     "LAT": "N032.50.14.000",
     "LOT": "E130.51.19.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kumamoto"
   },
   {
     "ICAO": "RJFU",
     "FREQ": "199.998",
     "LAT": "N032.55.01.000",
     "LOT": "E129.54.49.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Nagasaki"
   },
   {
     "ICAO": "RJFY",
     "FREQ": "199.998",
     "LAT": "N031.22.05.000",
     "LOT": "E130.50.17.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kanoya AB"
   },
   {
     "ICAO": "RJFZ",
     "FREQ": "199.998",
     "LAT": "N033.41.06.000",
     "LOT": "E131.02.25.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Tsuiki AB"
   },
   {
     "ICAO": "RJGG",
     "FREQ": "199.998",
     "LAT": "N034.51.30.000",
     "LOT": "E136.48.19.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Chubu Centrair Intl"
   },
   {
     "ICAO": "RJKA",
     "FREQ": "199.998",
     "LAT": "N028.25.50.280",
     "LOT": "E129.42.45.150",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Amami"
   },
   {
     "ICAO": "RJKB",
     "FREQ": "199.998",
     "LAT": "N027.25.54.000",
     "LOT": "E128.42.20.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Okinoerabu"
   },
   {
     "ICAO": "RJKI",
     "FREQ": "199.998",
     "LAT": "N028.19.17.000",
     "LOT": "E129.55.41.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Kikai"
   },
   {
     "ICAO": "RJKN",
     "FREQ": "199.998",
     "LAT": "N027.50.10.970",
     "LOT": "E128.52.52.510",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Tokunoshima"
   },
   {
     "ICAO": "RJNA",
     "FREQ": "199.998",
     "LAT": "N035.15.18.000",
     "LOT": "E136.55.28.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Nagoya"
   },
   {
     "ICAO": "RJNF",
     "FREQ": "199.998",
     "LAT": "N036.08.34.000",
     "LOT": "E136.13.26.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Fukui"
   },
   {
     "ICAO": "RJNG",
     "FREQ": "199.998",
     "LAT": "N035.23.38.680",
     "LOT": "E136.52.10.800",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Gifu AB"
   },
   {
     "ICAO": "RJNH",
     "FREQ": "199.998",
     "LAT": "N034.45.00.860",
     "LOT": "E137.42.11.100",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Hamamatsu AB"
   },
   {
     "ICAO": "RJNK",
     "FREQ": "199.998",
     "LAT": "N036.23.38.000",
     "LOT": "E136.24.27.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Komatsu"
   },
   {
     "ICAO": "RJNO",
     "FREQ": "199.998",
     "LAT": "N036.10.42.000",
     "LOT": "E133.19.24.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Oki"
   },
   {
     "ICAO": "RJNS",
     "FREQ": "199.998",
     "LAT": "N034.47.46.000",
     "LOT": "E138.11.22.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Shizuoka"
   },
   {
     "ICAO": "RJNT",
     "FREQ": "199.998",
     "LAT": "N036.38.54.000",
     "LOT": "E137.11.15.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Toyama"
   },
   {
     "ICAO": "RJNW",
     "FREQ": "199.998",
     "LAT": "N037.17.31.820",
     "LOT": "E136.57.32.320",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Noto"
   },
   {
     "ICAO": "RJNY",
     "FREQ": "199.998",
     "LAT": "N034.48.46.000",
     "LOT": "E138.17.53.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Shizuhama AB"
   },
   {
     "ICAO": "RJOA",
     "FREQ": "199.998",
     "LAT": "N034.26.10.000",
     "LOT": "E132.55.10.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Hiroshima"
   },
   {
     "ICAO": "RJOB",
     "FREQ": "199.998",
     "LAT": "N034.45.25.000",
     "LOT": "E133.51.19.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Okayama"
   },
   {
     "ICAO": "RJOC",
     "FREQ": "199.998",
     "LAT": "N035.24.49.000",
     "LOT": "E132.53.24.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Izumo"
   },
   {
     "ICAO": "RJOE",
     "FREQ": "199.998",
     "LAT": "N034.32.02.000",
     "LOT": "E136.40.20.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "D",
+    "NAME": "Akeno AB"
   },
   {
     "ICAO": "RJOF",
     "FREQ": "199.998",
     "LAT": "N034.02.04.000",
     "LOT": "E131.32.47.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Hofu AB"
   },
   {
     "ICAO": "RJOH",
     "FREQ": "199.998",
     "LAT": "N035.29.32.000",
     "LOT": "E133.14.11.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Miho AB"
   },
   {
     "ICAO": "RJOI",
     "FREQ": "199.998",
     "LAT": "N034.08.42.000",
     "LOT": "E132.14.49.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Iwakuni AB"
   },
   {
     "ICAO": "RJOK",
     "FREQ": "199.998",
     "LAT": "N033.32.46.000",
     "LOT": "E133.40.10.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kochi"
   },
   {
     "ICAO": "RJOM",
     "FREQ": "199.998",
     "LAT": "N033.49.38.000",
     "LOT": "E132.41.59.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Matsuyama"
   },
   {
     "ICAO": "RJOO",
     "FREQ": "199.998",
     "LAT": "N034.47.04.000",
     "LOT": "E135.26.21.000",
-    "AIRSPACE": "C"
+    "AIRSPACE": "C",
+    "NAME": "Osaka Intl"
   },
   {
     "ICAO": "RJOR",
     "FREQ": "199.998",
     "LAT": "N035.31.48.000",
     "LOT": "E134.09.54.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Tottori"
   },
   {
     "ICAO": "RJOS",
     "FREQ": "199.998",
     "LAT": "N034.07.58.000",
     "LOT": "E134.36.23.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Tokushima"
   },
   {
     "ICAO": "RJOT",
     "FREQ": "199.998",
     "LAT": "N034.12.51.000",
     "LOT": "E134.00.56.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "C",
+    "NAME": "Takamatsu"
   },
   {
     "ICAO": "RJOW",
     "FREQ": "199.998",
     "LAT": "N034.40.35.000",
     "LOT": "E131.47.25.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Iwami"
   },
   {
     "ICAO": "RJOY",
     "FREQ": "199.998",
     "LAT": "N034.35.48.000",
     "LOT": "E135.36.02.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Yao"
   },
   {
     "ICAO": "RJOZ",
     "FREQ": "199.998",
     "LAT": "N034.02.43.160",
     "LOT": "E131.03.07.720",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Ozuki AB"
   },
   {
     "ICAO": "RJSA",
     "FREQ": "199.998",
     "LAT": "N040.44.00.000",
     "LOT": "E140.41.19.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Aomori"
   },
   {
     "ICAO": "RJSC",
     "FREQ": "199.998",
     "LAT": "N038.24.43.000",
     "LOT": "E140.22.16.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Yamagata"
   },
   {
     "ICAO": "RJSD",
     "FREQ": "199.998",
     "LAT": "N038.03.40.000",
     "LOT": "E138.24.51.000",
-    "AIRSPACE": "G"
+    "AIRSPACE": "X",
+    "NAME": "Sado"
   },
   {
     "ICAO": "RJSF",
     "FREQ": "199.998",
     "LAT": "N037.13.39.000",
     "LOT": "E140.25.41.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Fukushima"
   },
   {
     "ICAO": "RJSH",
     "FREQ": "199.998",
     "LAT": "N040.33.07.000",
     "LOT": "E141.28.02.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Hachinohe"
   },
   {
     "ICAO": "RJSI",
     "FREQ": "199.998",
     "LAT": "N039.25.43.000",
     "LOT": "E141.08.07.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Hanamaki"
   },
   {
     "ICAO": "RJSK",
     "FREQ": "199.998",
     "LAT": "N039.36.56.000",
     "LOT": "E140.13.07.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Akita"
   },
   {
     "ICAO": "RJSM",
     "FREQ": "199.998",
     "LAT": "N040.42.11.000",
     "LOT": "E141.22.06.000",
-    "AIRSPACE": "C"
+    "AIRSPACE": "C",
+    "NAME": "Misawa AB"
   },
   {
     "ICAO": "RJSN",
     "FREQ": "199.998",
     "LAT": "N037.57.21.000",
     "LOT": "E139.06.42.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Niigata"
   },
   {
     "ICAO": "RJSO",
     "FREQ": "199.998",
     "LAT": "N041.14.04.000",
     "LOT": "E141.08.00.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "D",
+    "NAME": "Ominato"
   },
   {
     "ICAO": "RJSR",
     "FREQ": "199.998",
     "LAT": "N040.11.31.000",
     "LOT": "E140.22.18.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Odate-Noshiro"
   },
   {
     "ICAO": "RJSS",
     "FREQ": "199.998",
     "LAT": "N038.08.23.000",
     "LOT": "E140.55.01.000",
-    "AIRSPACE": "C"
+    "AIRSPACE": "C",
+    "NAME": "Sendai"
   },
   {
     "ICAO": "RJST",
     "FREQ": "199.998",
     "LAT": "N038.24.11.000",
     "LOT": "E141.12.43.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Matsuhima"
   },
   {
     "ICAO": "RJSU",
     "FREQ": "199.998",
     "LAT": "N038.14.08.000",
     "LOT": "E140.55.23.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kasuminome"
   },
   {
     "ICAO": "RJSY",
     "FREQ": "199.998",
     "LAT": "N038.48.44.000",
     "LOT": "E139.47.14.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Shonai"
   },
   {
     "ICAO": "RJTA",
     "FREQ": "199.998",
     "LAT": "N035.27.16.600",
     "LOT": "E139.27.00.600",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Atsugi"
   },
   {
     "ICAO": "RJTC",
     "FREQ": "199.998",
     "LAT": "N035.42.39.000",
     "LOT": "E139.24.11.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Tachikawa"
   },
   {
     "ICAO": "RJTE",
     "FREQ": "199.998",
     "LAT": "N034.59.13.390",
     "LOT": "E139.49.45.150",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Tateyama"
   },
   {
     "ICAO": "RJTF",
     "FREQ": "199.998",
     "LAT": "N035.40.18.000",
     "LOT": "E139.31.40.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "X",
+    "NAME": "Chofu"
   },
   {
     "ICAO": "RJTH",
     "FREQ": "199.998",
     "LAT": "N033.06.54.000",
     "LOT": "E139.47.09.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Hachijojima"
   },
   {
     "ICAO": "RJTI",
     "FREQ": "199.998",
     "LAT": "N035.38.09.321",
     "LOT": "E139.50.22.092",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Tokyo Heliport"
   },
   {
     "ICAO": "RJTJ",
     "FREQ": "199.998",
     "LAT": "N035.50.31.000",
     "LOT": "E139.24.38.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Iruma"
   },
   {
     "ICAO": "RJTK",
     "FREQ": "199.998",
     "LAT": "N035.23.53.810",
     "LOT": "E139.54.35.340",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kisarazu"
   },
   {
     "ICAO": "RJTL",
     "FREQ": "199.998",
     "LAT": "N035.47.56.000",
     "LOT": "E140.00.44.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Shimofusa"
   },
   {
     "ICAO": "RJTO",
     "FREQ": "199.998",
     "LAT": "N034.46.55.000",
     "LOT": "E139.21.37.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Oshima"
   },
   {
     "ICAO": "RJTQ",
     "FREQ": "199.998",
     "LAT": "N034.04.25.000",
     "LOT": "E139.33.37.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Miyakejima"
   },
   {
     "ICAO": "RJTR",
     "FREQ": "199.998",
     "LAT": "N035.30.49.570",
     "LOT": "E139.23.37.230",
-    "AIRSPACE": "D"
+    "AIRSPACE": "X",
+    "NAME": "Zama/Kastner"
   },
   {
     "ICAO": "RJTT",
     "FREQ": "199.998",
     "LAT": "N035.33.12.000",
     "LOT": "E139.46.52.000",
-    "AIRSPACE": "C"
+    "AIRSPACE": "C",
+    "NAME": "Tokyo Intl"
   },
   {
     "ICAO": "RJTU",
     "FREQ": "199.998",
     "LAT": "N036.30.52.360",
     "LOT": "E139.52.15.370",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Utsunomiya"
   },
   {
     "ICAO": "RJTY",
     "FREQ": "199.998",
     "LAT": "N035.44.55.000",
     "LOT": "E139.20.55.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Yokota AB"
   },
   {
     "ICAO": "ROAH",
     "FREQ": "199.998",
     "LAT": "N026.11.36.000",
     "LOT": "E127.38.23.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Naha"
   },
   {
     "ICAO": "RODE",
     "FREQ": "199.998",
     "LAT": "N026.43.43.590",
     "LOT": "E127.45.42.390",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Ie Shima Aux AB"
   },
   {
     "ICAO": "RODN",
     "FREQ": "199.998",
     "LAT": "N026.21.06.000",
     "LOT": "E127.46.10.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Kadena AB"
   },
   {
     "ICAO": "ROIG",
     "FREQ": "199.998",
     "LAT": "N024.23.47.000",
     "LOT": "E124.14.42.000",
-    "AIRSPACE": "D"
-  },
-  {
-    "ICAO": "ROIX",
-    "FREQ": "199.998",
-    "LAT": "N024.20.41.000",
-    "LOT": "E124.11.13.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "New Ishigaki"
   },
   {
     "ICAO": "ROKJ",
     "FREQ": "199.998",
     "LAT": "N026.21.49.000",
     "LOT": "E126.42.50.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Kumejima"
   },
   {
     "ICAO": "ROKR",
     "FREQ": "199.998",
     "LAT": "N026.10.06.000",
     "LOT": "E127.17.36.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "X",
+    "NAME": "Kerama"
   },
   {
     "ICAO": "ROMD",
     "FREQ": "199.998",
     "LAT": "N025.50.48.000",
     "LOT": "E131.15.49.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Minami Daito"
   },
   {
     "ICAO": "ROMY",
     "FREQ": "199.998",
     "LAT": "N024.46.58.000",
     "LOT": "E125.17.42.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Miyako"
   },
   {
     "ICAO": "RORA",
     "FREQ": "199.998",
     "LAT": "N026.35.34.000",
     "LOT": "E127.14.25.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "X",
+    "NAME": "Aguni"
   },
   {
     "ICAO": "RORE",
     "FREQ": "199.998",
     "LAT": "N026.43.21.000",
     "LOT": "E127.47.13.000",
-    "AIRSPACE": "G"
+    "AIRSPACE": "X",
+    "NAME": "Iejima"
   },
   {
     "ICAO": "RORH",
     "FREQ": "199.998",
     "LAT": "N024.03.30.000",
     "LOT": "E123.48.14.000",
-    "AIRSPACE": "G"
+    "AIRSPACE": "X",
+    "NAME": "Hateruma"
   },
   {
     "ICAO": "RORK",
     "FREQ": "199.998",
     "LAT": "N025.56.41.000",
     "LOT": "E131.19.37.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Kitadaito"
   },
   {
     "ICAO": "RORS",
     "FREQ": "199.998",
     "LAT": "N024.49.36.000",
     "LOT": "E125.08.41.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Shimojishima"
   },
   {
     "ICAO": "RORT",
     "FREQ": "199.998",
     "LAT": "N024.39.14.000",
     "LOT": "E124.40.31.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Tarama"
   },
   {
     "ICAO": "RORY",
     "FREQ": "199.998",
     "LAT": "N027.02.38.000",
     "LOT": "E128.24.06.000",
-    "AIRSPACE": "E"
+    "AIRSPACE": "E",
+    "NAME": "Yoron"
   },
   {
     "ICAO": "ROTM",
     "FREQ": "199.998",
     "LAT": "N026.16.36.000",
     "LOT": "E127.45.30.000",
-    "AIRSPACE": "D"
+    "AIRSPACE": "D",
+    "NAME": "Futenma AB"
   },
   {
     "ICAO": "ROYN",
     "FREQ": "199.998",
     "LAT": "N024.28.03.000",
     "LOT": "E122.58.47.000",
-    "AIRSPACE": "G"
+    "AIRSPACE": "X",
+    "NAME": "Yonaguni"
   }
 ]

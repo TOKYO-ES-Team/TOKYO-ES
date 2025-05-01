@@ -5,7 +5,7 @@ const raw = fs.readFileSync('airports.json');
 const airports = JSON.parse(raw);
 
 const airportText = airports.map(airport => {
-    return `${airport.ICAO} ${airport.FREQ} ${airport.LAT} ${airport.LOT} ${airport.AIRSPACE}`;
+    return `${airport.ICAO} ${airport.FREQ} ${airport.LAT} ${airport.LOT} ${airport.AIRSPACE} ;- ${airport.NAME}`;
 }).join('\n');
 
 const fullText = licenseText + defineText + "\n[AIRPORT]\n" + airportText;
