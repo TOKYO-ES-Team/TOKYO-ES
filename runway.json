@@ -1,1227 +1,1361 @@
 [
     {
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "176",
-            "ENDHDG": "356",
-            "STARTLATON": "N034.52.27.390 E136.48.05.590",
-            "ENDLATON": "N034.50.32.690 E136.48.33.290",
-            "ICAO": "RJGG"
-        },
-        {
-            "STARTRWY": "16L",
-            "ENDRWY": "34R",
-            "STARTHDG": "157",
-            "ENDHDG": "337",
-            "STARTLATON": "N033.35.48.910 E130.26.35.470",
-            "ENDLATON": "N033.34.29.880 E130.27.29.470",
-            "ICAO": "RJFF"
-        },
-        {
-            "STARTRWY": "16R",
-            "ENDRWY": "34L",
-            "STARTHDG": "157",
-            "ENDHDG": "337",
-            "STARTLATON": "N033.35.45.490 E130.26.28.390",
-            "ENDLATON": "N033.34.35.050 E130.27.16.520",
-            "ICAO": "RJFF"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "117",
-            "ENDHDG": "297",
-            "STARTLATON": "N041.46.27.620 E140.48.17.610",
-            "ENDLATON": "N041.45.57.540 E140.50.21.000",
-            "ICAO": "RJCH"
-        },
-        {
-            "STARTRWY": "16",
-            "ENDRWY": "34",
-            "STARTHDG": "156",
-            "ENDHDG": "336",
-            "STARTLATON": "N031.48.54.410 E130.42.41.340",
-            "ENDLATON": "N031.47.30.070 E130.43.38.380",
-            "ICAO": "RJFK"
-        },
-        {
-            "STARTRWY": "06L",
-            "ENDRWY": "24R",
-            "STARTHDG": "058",
-            "ENDHDG": "238",
-            "STARTLATON": "N034.25.42.859 E135.12.22.331",
-            "ENDLATON": "N034.27.04.579 E135.14.24.079",
-            "ICAO": "RJBB"
-        },
-        {
-            "STARTRWY": "06R",
-            "ENDRWY": "24L",
-            "STARTHDG": "058",
-            "ENDHDG": "238",
-            "STARTLATON": "N034.25.02.560 E135.13.45.400",
-            "ENDLATON": "N034.26.14.040 E135.15.31.920",
-            "ICAO": "RJBB"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "071",
-            "ENDHDG": "251",
-            "STARTLATON": "N032.49.53.450 E130.50.26.090",
-            "ENDLATON": "N032.50.35.240 E130.52.10.280",
-            "ICAO": "RJFT"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "144",
-            "ENDHDG": "324",
-            "STARTLATON": "N032.55.37.280 E129.54.09.770",
-            "ENDLATON": "N032.54.24.910 E129.55.27.040",
-            "ICAO": "RJFU"
-        }
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "180",
-            "ENDHDG": "360",
-            "STARTLATON": "N032.55.43.054 E129.56.03.500",
-            "ENDLATON": "N032.55.05.725 E129.56.08.163",
-            "ICAO": "RJDU"
-        },
-        {
-            "STARTRWY": "18L",
-            "ENDRWY": "36R",
-            "STARTHDG": "184",
-            "ENDHDG": "004",
-            "STARTLATON": "N026.12.33.630 E127.38.42.840",
-            "ENDLATON": "N026.10.56.240 E127.38.47.410",
-            "ICAO": "ROAH"
-        },
-        {
-            "STARTRWY": "18R",
-            "ENDRWY": "36L",
-            "STARTHDG": "184",
-            "ENDHDG": "004",
-            "STARTLATON": "N026.12.11.000 E127.37.56.640",
-            "ENDLATON": "N026.10.43.340 E127.38.00.770",
-            "ICAO": "ROAH"
-        },
-        {
-            "STARTRWY": "16R",
-            "ENDRWY": "34L",
-            "STARTHDG": "156",
-            "ENDHDG": "336",
-            "STARTLATON": "N035.46.27.800 E140.22.05.850",
-            "ENDLATON": "N035.44.35.960 E140.23.26.660",
-            "ICAO": "RJAA"
-        },
-        {
-            "STARTRWY": "16L",
-            "ENDRWY": "34R",
-            "STARTHDG": "156",
-            "ENDHDG": "336",
-            "STARTLATON": "N035.48.18.720 E140.22.41.190",
-            "ENDLATON": "N035.47.08.820 E140.23.31.720",
-            "ICAO": "RJAA"
-        },
-        {
-            "STARTRWY": "01L",
-            "ENDRWY": "19R",
-            "STARTHDG": "002",
-            "ENDHDG": "182",
-            "STARTLATON": "N042.45.41.900 E141.41.34.170",
-            "ENDLATON": "N042.47.18.360 E141.41.17.180",
-            "ICAO": "RJCC"
-        },
-        {
-            "STARTRWY": "01R",
-            "ENDRWY": "19L",
-            "STARTHDG": "002",
-            "ENDHDG": "182",
-            "STARTLATON": "N042.45.43.150 E141.41.47.250",
-            "ENDLATON": "N042.47.19.560 E141.41.30.280",
-            "ICAO": "RJCC"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "039",
-            "ENDHDG": "219",
-            "STARTLATON": "N037.56.53.730 E139.06.52.820",
-            "ENDLATON": "N037.57.29.960 E139.07.21.310",
-            "ICAO": "RJSN"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "100",
-            "ENDHDG": "280",
-            "STARTLATON": "N037.57.24.640 E139.05.44.230",
-            "ENDLATON": "N037.57.20.840 E139.07.26.530",
-            "ICAO": "RJSN"
-        }
-        {
-            "STARTRWY": "14R",
-            "ENDRWY": "32L",
-            "STARTHDG": "142",
-            "ENDHDG": "322",
-            "STARTLATON": "N034.47.28.770 E135.25.43.340",
-            "ENDLATON": "N034.46.19.920 E135.27.06.760",
-            "ICAO": "RJOO"
-        },
-        {
-            "STARTRWY": "14L",
-            "ENDRWY": "32R",
-            "STARTHDG": "142",
-            "ENDHDG": "322",
-            "STARTLATON": "N034.47.42.970 E135.25.43.270",
-            "ENDLATON": "N034.47.01.020 E135.26.34.110",
-            "ICAO": "RJOO"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "090",
-            "ENDHDG": "270",
-            "STARTLATON": "N038.08.19.580 E140.53.55.400",
-            "ENDLATON": "N038.08.32.180 E140.55.57.560",
-            "ICAO": "RJSS"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "125",
-            "ENDHDG": "305",
-            "STARTLATON": "N038.08.22.050 E140.54.53.090",
-            "ENDLATON": "N038.08.03.960 E140.55.36.720",
-            "ICAO": "RJSS"
-        }
-        {
-            "STARTRWY": "16L",
-            "ENDRWY": "34R",
-            "STARTHDG": "157",
-            "ENDHDG": "337",
-            "STARTLATON": "N035.33.57.230 E139.47.11.590",
-            "ENDLATON": "N035.32.33.020 E139.48.11.340",
-            "ICAO": "RJTT"
-        },
-        {
-            "STARTRWY": "16R",
-            "ENDRWY": "34L",
-            "STARTHDG": "157",
-            "ENDHDG": "337",
-            "STARTLATON": "N035.33.35.950 E139.46.08.640",
-            "ENDLATON": "N035.32.11.760 E139.47.08.410",
-            "ICAO": "RJTT"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "042",
-            "ENDHDG": "222",
-            "STARTLATON": "N035.32.56.470 E139.45.40.600",
-            "ENDLATON": "N035.34.02.880 E139.46.37.610",
-            "ICAO": "RJTT"
-        },
-        {
-            "STARTRWY": "05",
-            "ENDRWY": "23",
-            "STARTHDG": "050",
-            "ENDHDG": "230",
-            "STARTLATON": "N035.31.26.410 E139.48.12.470",
-            "ENDLATON": "N035.32.26.150 E139.49.19.610",
-            "ICAO": "RJTT"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "009",
-            "ENDHDG": "189",
-            "STARTLATON": "N026.35.22.341 E127.14.23.930",
-            "ENDLATON": "N026.35.46.348 E127.14.26.266",
-            "ICAO": "RORA"
-        },
-        {
-            "STARTRWY": "13",
-            "ENDRWY": "31",
-            "STARTHDG": "131",
-            "ENDHDG": "311",
-            "STARTLATON": "N034.32.07.530 E136.40.11.100",
-            "ENDLATON": "N034.31.59.040 E136.40.28.060",
-            "ICAO": "RJOE"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "041",
-            "ENDHDG": "221",
-            "STARTLATON": "N034.31.55.600 E136.40.28.150",
-            "ENDLATON": "N034.31.59.420 E136.40.30.850",
-            "ICAO": "RJOE"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "105",
-            "ENDHDG": "285",
-            "STARTLATON": "N039.37.00.980 E140.12.15.140",
-            "ENDLATON": "N039.36.51.660 E140.13.59.250",
-            "ICAO": "RJSK"
-        },
-        {
-            "STARTRWY": "13",
-            "ENDRWY": "31",
-            "STARTHDG": "131",
-            "ENDHDG": "311",
-            "STARTLATON": "N032.29.06.210 E130.09.16.150",
-            "ENDLATON": "N032.28.47.800 E130.09.47.700",
-            "ICAO": "RJDA"
-        },
-        {
-            "STARTRWY": "03",
-            "ENDRWY": "21",
-            "STARTHDG": "031",
-            "ENDHDG": "211",
-            "STARTLATON": "N028.25.22.600 E129.42.29.298",
-            "ENDLATON": "N028.26.19.066 E129.43.01.147",
-            "ICAO": "RJKA"
-        },
-        {
-            "STARTRWY": "06",
-            "ENDRWY": "24",
-            "STARTHDG": "061",
-            "ENDHDG": "241",
-            "STARTLATON": "N040.43.29.770 E140.40.28.610",
-            "ENDLATON": "N040.44.29.790 E140.42.09.270",
-            "ICAO": "RJSA"
-        },
-        {
-            "STARTRWY": "16",
-            "ENDRWY": "34",
-            "STARTHDG": "163",
-            "ENDHDG": "343",
-            "STARTLATON": "N043.40.51.040 E142.26.26.960",
-            "ENDLATON": "N043.39.38.120 E142.27.15.590",
-            "ICAO": "RJEC"
-        },
-        {
-            "STARTRWY": "08",
-            "ENDRWY": "26",
-            "STARTHDG": "083",
-            "ENDHDG": "263",
-            "STARTLATON": "N043.47.31.863 E142.21.43.339",
-            "ENDLATON": "N043.47.40.128 E142.22.17.170",
-            "ICAO": "RJCA"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "123",
-            "ENDHDG": "303",
-            "STARTLATON": "N033.53.08.871 E130.38.46.705",
-            "ENDLATON": "N033.52.45.880 E130.39.44.102",
-            "ICAO": "RJFA"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "005",
-            "ENDHDG": "185",
-            "STARTLATON": "N035.26.26.751 E139.26.59.273",
-            "ENDLATON": "N035.27.44.006 E139.26.56.827",
-            "ICAO": "RJTA"
-        },
-        {
-            "STARTRWY": "18L",
-            "ENDRWY": "36R",
-            "STARTHDG": "182",
-            "ENDHDG": "002",
-            "STARTLATON": "N042.48.07.040 E141.40.02.080",
-            "ENDLATON": "N042.46.30.970 E141.40.18.940",
-            "ICAO": "RJCJ"
-        },
-        {
-            "STARTRWY": "18R",
-            "ENDRWY": "36L",
-            "STARTHDG": "182",
-            "ENDHDG": "002",
-            "STARTLATON": "N042.48.37.880 E141.39.43.300",
-            "ENDLATON": "N042.47.11.480 E141.39.58.510",
-            "ICAO": "RJCJ"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "171",
-            "ENDHDG": "351",
-            "STARTLATON": "N035.40.05.140 E139.31.45.160",
-            "ENDLATON": "N035.40.29.990 E139.31.35.970",
-            "ICAO": "RJTF"
-        },
-        {
-            "STARTRWY": "03",
-            "ENDRWY": "21",
-            "STARTHDG": "032",
-            "ENDHDG": "212",
-            "STARTLATON": "N032.39.29.340 E128.49.41.440",
-            "ENDLATON": "N032.40.27.810 E128.50.14.790",
-            "ICAO": "RJFE"
-        },
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "181",
-            "ENDHDG": "001",
-            "STARTLATON": "N036.08.53.670 E136.13.24.410",
-            "ENDLATON": "N036.08.14.840 E136.13.27.840",
-            "ICAO": "RJNF"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "009",
-            "ENDHDG": "189",
-            "STARTLATON": "N037.12.58.230 E140.25.38.760",
-            "ENDLATON": "N037.14.19.260 E140.25.42.650",
-            "ICAO": "RJSF"
-        },
-        {
-            "STARTRWY": "06",
-            "ENDRWY": "24",
-            "STARTHDG": "062",
-            "ENDHDG": "242",
-            "STARTLATON": "N026.16.53.065 E127.46.03.903",
-            "ENDLATON": "N026.16.01.898 E127.44.42.859",
-            "ICAO": "ROTM"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "099",
-            "ENDHDG": "279",
-            "STARTLATON": "N035.23.40.414 E136.51.17.173",
-            "ENDLATON": "N035.23.36.990 E136.53.04.303",
-            "ICAO": "RJNG"
-        },
-        {
-            "STARTRWY": "08",
-            "ENDRWY": "26",
-            "STARTHDG": "075",
-            "ENDHDG": "255",
-            "STARTLATON": "N033.06.43.030 E139.46.33.070",
-            "ENDLATON": "N033.07.05.720 E139.47.45.360",
-            "ICAO": "RJTH"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "072",
-            "ENDHDG": "252",
-            "STARTLATON": "N040.32.51.098 E141.27.19.192",
-            "ENDLATON": "N040.33.23.407 E141.28.44.459",
-            "ICAO": "RJSH"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "097",
-            "ENDHDG": "277",
-            "STARTLATON": "N034.45.02.173 E137.41.21.912",
-            "ENDLATON": "N034.45.01.514 E137.43.02.155",
-            "ICAO": "RJNH"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "019",
-            "ENDHDG": "199",
-            "STARTLATON": "N039.25.03.580 E141.07.57.620",
-            "ENDLATON": "N039.26.23.240 E141.08.17.110",
-            "ICAO": "RJSI"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "025",
-            "ENDHDG": "205",
-            "STARTLATON": "N024.03.23.142 E123.48.14.902",
-            "ENDLATON": "N024.03.46.961 E123.48.25.196",
-            "ICAO": "RORH"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "097",
-            "ENDHDG": "277",
-            "STARTLATON": "N034.26.09.690 E132.54.11.250",
-            "ENDLATON": "N034.26.09.690 E132.56.08.750",
-            "ICAO": "RJOA"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "035",
-            "ENDHDG": "215",
-            "STARTLATON": "N034.21.34.720 E132.24.33.100",
-            "ENDLATON": "N034.22.25.950 E132.25.06.960",
-            "ICAO": "RJBH"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "115",
-            "ENDHDG": "295",
-            "STARTLATON": "N034.02.17.797 E131.32.10.045",
-            "ENDLATON": "N034.02.01.103 E131.33.09.464",
-            "ICAO": "RJOF"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "006",
-            "ENDHDG": "186",
-            "STARTLATON": "N034.01.36.915 E131.32.55.767",
-            "ENDLATON": "N034.02.19.121 E131.32.55.259",
-            "ICAO": "RJOF"
-        },
-        {
-            "STARTRWY": "03L",
-            "ENDRWY": "21R",
-            "STARTHDG": "026",
-            "ENDHDG": "206",
-            "STARTLATON": "N036.10.13.368 E140.24.31.320",
-            "ENDLATON": "N036.11.34.368 E140.25.05.520",
-            "ICAO": "RJAH"
-        },
-        {
-            "STARTRWY": "03R",
-            "ENDRWY": "21L",
-            "STARTHDG": "026",
-            "ENDHDG": "206",
-            "STARTLATON": "N036.10.11.129 E140.24.39.079",
-            "ENDLATON": "N036.11.32.150 E140.25.13.525",
-            "ICAO": "RJAH"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "043",
-            "ENDHDG": "223",
-            "STARTLATON": "N026.43.02.497 E127.46.56.257",
-            "ENDLATON": "N026.43.39.536 E127.47.29.781",
-            "ICAO": "RORE"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "020",
-            "ENDHDG": "200",
-            "STARTLATON": "N033.45.15.740 E129.47.12.290",
-            "ENDLATON": "N033.44.37.310 E129.47.04.700",
-            "ICAO": "RJDB"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "175",
-            "ENDHDG": "355",
-            "STARTLATON": "N035.51.01.823 E139.24.25.866",
-            "ENDLATON": "N035.50.02.538 E139.24.52.105",
-            "ICAO": "RJTJ"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "045",
-            "ENDHDG": "225",
-            "STARTLATON": "N024.20.22.210 E124.10.55.280",
-            "ENDLATON": "N024.20.58.360 E124.11.31.000",
-            "ICAO": "ROIX"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "036",
-            "ENDHDG": "216",
-            "STARTLATON": "N024.23.20.910 E124.14.21.640",
-            "ENDLATON": "N024.24.13.590 E124.15.03.240",
-            "ICAO": "ROIG"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "017",
-            "ENDHDG": "197",
-            "STARTLATON": "N034.08.02.655 E132.14.41.579",
-            "ENDLATON": "N034.09.20.736 E132.14.56.715",
-            "ICAO": "RJOI"
-        },
-        {
-            "STARTRWY": "11",
-            "ENDRWY": "29",
-            "STARTHDG": "112",
-            "ENDHDG": "292",
-            "STARTLATON": "N034.40.43.300 E131.46.47.130",
-            "ENDLATON": "N034.40.26.740 E131.48.03.100",
-            "ICAO": "RJOW"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "073",
-            "ENDHDG": "253",
-            "STARTLATON": "N024.47.13.767 E141.18.45.723",
-            "ENDLATON": "N024.47.42.175 E141.20.12.496",
-            "ICAO": "RJAW"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "066",
-            "ENDHDG": "246",
-            "STARTLATON": "N035.24.32.830 E132.52.49.800",
-            "ENDLATON": "N035.25.05.820 E132.53.58.070",
-            "ICAO": "RJOC"
-        },
-        {
-            "STARTRWY": "05L",
-            "ENDRWY": "23R",
-            "STARTHDG": "055",
-            "ENDHDG": "235",
-            "STARTLATON": "N026.20.47.516 E127.45.05.945",
-            "ENDLATON": "N026.22.01.871 E127.46.47.627",
-            "ICAO": "RODN"
-        },
-        {
-            "STARTRWY": "05R",
-            "ENDRWY": "23L",
-            "STARTHDG": "055",
-            "ENDHDG": "235",
-            "STARTLATON": "N026.20.39.655 E127.45.18.739",
-            "ENDLATON": "N026.21.53.979 E127.47.00.342",
-            "ICAO": "RODN"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "174",
-            "ENDHDG": "354",
-            "STARTLATON": "N033.01.01.640 E129.11.29.350",
-            "ENDLATON": "N033.00.36.260 E129.11.35.850",
-            "ICAO": "RJDK"
-        },
-        {
-            "STARTRWY": "08L",
-            "ENDRWY": "26R",
-            "STARTHDG": "085",
-            "ENDHDG": "265",
-            "STARTLATON": "N031.22.03.255 E130.49.47.897",
-            "ENDLATON": "N031.22.10.610 E130.50.33.013",
-            "ICAO": "RJFY"
-        },
-        {
-            "STARTRWY": "08R",
-            "ENDRWY": "26L",
-            "STARTHDG": "085",
-            "ENDHDG": "265",
-            "STARTLATON": "N031.21.53.542 E130.49.38.748",
-            "ENDLATON": "N031.22.07.084 E130.51.02.456",
-            "ICAO": "RJFY"
-        },
-        {
-            "STARTRWY": "06",
-            "ENDRWY": "24",
-            "STARTHDG": "062",
-            "ENDHDG": "242",
-            "STARTLATON": "N036.02.00.053 E140.11.25.261",
-            "ENDLATON": "N036.02.09.923 E140.11.42.662",
-            "ICAO": "RJAK"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "140",
-            "ENDHDG": "320",
-            "STARTLATON": "N038.14.14.999 E140.55.12.256",
-            "ENDLATON": "N038.13.58.234 E140.55.33.884",
-            "ICAO": "RJSU"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "020",
-            "ENDHDG": "200",
-            "STARTLATON": "N026.09.54.018 E127.17.32.186",
-            "ENDLATON": "N026.10.17.991 E127.17.39.833",
-            "ICAO": "ROKR"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "070",
-            "ENDHDG": "250",
-            "STARTLATON": "N028.19.09.062 E129.55.19.032",
-            "ENDLATON": "N028.19.26.198 E129.56.02.126",
-            "ICAO": "RJKI"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "017",
-            "ENDHDG": "197",
-            "STARTLATON": "N035.23.25.301 E139.54.29.099",
-            "ENDLATON": "N035.24.22.729 E139.54.41.690",
-            "ICAO": "RJTK"
-        },
-        {
-            "STARTRWY": "03",
-            "ENDRWY": "21",
-            "STARTHDG": "030",
-            "ENDHDG": "210",
-            "STARTLATON": "N025.57.02.559 E131.19.47.596",
-            "ENDLATON": "N025.56.18.897 E131.19.24.557",
-            "ICAO": "RORK"
-        },
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "177",
-            "ENDHDG": "357",
-            "STARTLATON": "N033.51.23.920 E131.01.57.830",
-            "ENDLATON": "N033.50.05.080 E131.02.14.170",
-            "ICAO": "RJFR"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "092",
-            "ENDHDG": "272",
-            "STARTLATON": "N034.37.53.910 E135.12.37.120",
-            "ENDLATON": "N034.38.01.530 E135.14.14.840",
-            "ICAO": "RJBE"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "137",
-            "ENDHDG": "317",
-            "STARTLATON": "N033.33.12.040 E133.39.32.980",
-            "ENDLATON": "N033.32.19.330 E133.40.46.670",
-            "ICAO": "RJOK"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "092",
-            "ENDHDG": "272",
-            "STARTLATON": "N034.35.25.666 E133.55.36.495",
-            "ENDLATON": "N034.35.28.367 E133.56.23.506",
-            "ICAO": "RJBK"
-        },
-        {
-            "STARTRWY": "06",
-            "ENDRWY": "24",
-            "STARTHDG": "063",
-            "ENDHDG": "243",
-            "STARTLATON": "N036.23.13.268 E136.23.44.167",
-            "ENDLATON": "N036.24.02.449 E136.25.11.440",
-            "ICAO": "RJNK"
-        },
-        {
-            "STARTRWY": "11",
-            "ENDRWY": "29",
-            "STARTHDG": "111",
-            "ENDHDG": "291",
-            "STARTLATON": "N034.11.25.370 E139.07.45.480",
-            "ENDLATON": "N034.11.18.610 E139.08.15.650",
-            "ICAO": "RJAZ"
-        },
-        {
-            "STARTRWY": "03",
-            "ENDRWY": "21",
-            "STARTHDG": "025",
-            "ENDHDG": "205",
-            "STARTLATON": "N026.21.18.320 E126.42.36.670",
-            "ENDLATON": "N026.22.18.920 E126.43.02.730",
-            "ICAO": "ROKJ"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "168",
-            "ENDHDG": "348",
-            "STARTLATON": "N043.03.05.300 E144.11.14.920",
-            "ENDLATON": "N043.01.49.680 E144.11.54.580",
-            "ICAO": "RJCK"
-        },
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "178",
-            "ENDHDG": "358",
-            "STARTLATON": "N036.10.32.370 E137.55.15.370",
-            "ENDLATON": "N036.09.28.290 E137.55.27.850",
-            "ICAO": "RJAF"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "066",
-            "ENDHDG": "246",
-            "STARTLATON": "N038.23.42.929 E141.11.53.819",
-            "ENDLATON": "N038.24.29.168 E141.13.28.355",
-            "ICAO": "RJST"
-        },
-        {
-            "STARTRWY": "15",
-            "ENDRWY": "33",
-            "STARTHDG": "145",
-            "ENDHDG": "325",
-            "STARTLATON": "N038.24.49.474 E141.12.35.036",
-            "ENDLATON": "N038.24.12.337 E141.13.14.929",
-            "ICAO": "RJST"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "137",
-            "ENDHDG": "317",
-            "STARTLATON": "N033.50.04.500 E132.41.21.730",
-            "ENDLATON": "N033.49.11.750 E132.42.35.610",
-            "ICAO": "RJOM"
-        },
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "184",
-            "ENDHDG": "004",
-            "STARTLATON": "N043.53.30.510 E144.09.45.380",
-            "ENDLATON": "N043.52.09.850 E144.09.55.800",
-            "ICAO": "RJCM"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "040",
-            "ENDHDG": "220",
-            "STARTLATON": "N033.19.22.996 E130.24.42.541",
-            "ENDLATON": "N033.19.39.049 E130.24.55.478",
-            "ICAO": "RJDM"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "072",
-            "ENDHDG": "252",
-            "STARTLATON": "N035.29.18.877 E133.13.37.954",
-            "ENDLATON": "N035.29.45.605 E133.14.48.172",
-            "ICAO": "RJOH"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "021",
-            "ENDHDG": "201",
-            "STARTLATON": "N025.50.24.214 E131.15.41.287",
-            "ENDLATON": "N025.51.10.767 E131.15.55.659",
-            "ICAO": "ROMD"
-        },
-        {
-            "STARTRWY": "05",
-            "ENDRWY": "23",
-            "STARTHDG": "049",
-            "ENDHDG": "229",
-            "STARTLATON": "N024.17.08.985 E153.58.26.641",
-            "ENDLATON": "N024.17.36.903 E153.59.03.082",
-            "ICAO": "RJAM"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "101",
-            "ENDHDG": "281",
-            "STARTLATON": "N040.42.15.928 E141.21.01.460",
-            "ENDLATON": "N040.42.07.119 E141.23.10.700",
-            "ICAO": "RJSM"
-        },
-        {
-            "STARTRWY": "02",
-            "ENDRWY": "20",
-            "STARTHDG": "020",
-            "ENDHDG": "200",
-            "STARTLATON": "N034.04.00.960 E139.33.28.610",
-            "ENDLATON": "N034.04.38.230 E139.33.42.200",
-            "ICAO": "RJTQ"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "042",
-            "ENDHDG": "222",
-            "STARTLATON": "N024.46.32.650 E125.17.20.410",
-            "ENDLATON": "N024.47.23.660 E125.18.04.560",
-            "ICAO": "ROMY"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "091",
-            "ENDHDG": "271",
-            "STARTLATON": "N031.52.34.260 E131.26.07.020",
-            "ENDLATON": "N031.52.41.060 E131.27.41.800",
-            "ICAO": "RJFM"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "141",
-            "ENDHDG": "321",
-            "STARTLATON": "N044.18.35.730 E143.23.40.930",
-            "ENDLATON": "N044.17.52.440 E143.24.48.060",
-            "ICAO": "RJEB"
-        },
-        {
-            "STARTRWY": "16",
-            "ENDRWY": "34",
-            "STARTHDG": "159",
-            "ENDHDG": "339",
-            "STARTLATON": "N035.15.59.160 E136.55.02.690",
-            "ENDLATON": "N035.14.40.360 E136.55.52.860",
-            "ICAO": "RJNA"
-        },
-        {
-            "STARTRWY": "08",
-            "ENDRWY": "26",
-            "STARTHDG": "080",
-            "ENDHDG": "260",
-            "STARTLATON": "N043.34.28.200 E144.56.53.100",
-            "ENDLATON": "N043.34.49.270 E144.58.17.400",
-            "ICAO": "RJCN"
-        },
-        {
-            "STARTRWY": "15",
-            "ENDRWY": "33",
-            "STARTHDG": "146",
-            "ENDHDG": "326",
-            "STARTLATON": "N033.40.09.540 E135.21.27.850",
-            "ENDLATON": "N033.39.19.110 E135.22.16.740",
-            "ICAO": "RJBD"
-        },
-        {
-            "STARTRWY": "13",
-            "ENDRWY": "31",
-            "STARTHDG": "129",
-            "ENDHDG": "309",
-            "STARTLATON": "N030.36.36.000 E130.58.58.000",
-            "ENDLATON": "N030.36.01.000 E131.00.01.000",
-            "ICAO": "RJFG"
-        },
-        {
-            "STARTRWY": "11",
-            "ENDRWY": "29",
-            "STARTHDG": "109",
-            "ENDHDG": "289",
-            "STARTLATON": "N034.22.13.110 E139.15.51.440",
-            "ENDLATON": "N034.22.07.570 E139.16.22.040",
-            "ICAO": "RJAN"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "075",
-            "ENDHDG": "255",
-            "STARTLATON": "N037.17.22.920 E136.57.06.380",
-            "ENDLATON": "N037.17.48.520 E136.58.21.000",
-            "ICAO": "RJNW"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "107",
-            "ENDHDG": "287",
-            "STARTLATON": "N032.05.10.307 E131.26.17.872",
-            "ENDLATON": "N032.04.53.855 E131.27.56.751",
-            "ICAO": "RJFN"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "168",
-            "ENDHDG": "348",
-            "STARTLATON": "N042.44.38.860 E143.12.43.310",
-            "ENDLATON": "N042.43.23.070 E143.13.22.160",
-            "ICAO": "RJCB"
-        },
-        {
-            "STARTRWY": "11",
-            "ENDRWY": "29",
-            "STARTHDG": "109",
-            "ENDHDG": "289",
-            "STARTLATON": "N040.11.36.370 E140.21.35.510",
-            "ENDLATON": "N040.11.25.100 E140.22.58.780",
-            "ICAO": "RJSR"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "007",
-            "ENDHDG": "187",
-            "STARTLATON": "N033.27.57.530 E131.44.13.220",
-            "ENDLATON": "N033.29.34.890 E131.44.14.080",
-            "ICAO": "RJFO"
-        },
-        {
-            "STARTRWY": "03",
-            "ENDRWY": "21",
-            "STARTHDG": "030",
-            "ENDHDG": "210",
-            "STARTLATON": "N033.11.14.880 E129.05.19.930",
-            "ENDLATON": "N033.11.39.230 E129.05.30.660",
-            "ICAO": "RJDO"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "066",
-            "ENDHDG": "246",
-            "STARTLATON": "N034.45.00.070 E133.50.28.890",
-            "ENDLATON": "N034.45.49.880 E133.52.10.240",
-            "ICAO": "RJOB"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "072",
-            "ENDHDG": "252",
-            "STARTLATON": "N036.10.41.660 E133.19.02.310",
-            "ENDLATON": "N036.11.02.450 E133.19.56.580",
-            "ICAO": "RJNO"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "039",
-            "ENDHDG": "219",
-            "STARTLATON": "N027.25.33.922 E128.42.03.688",
-            "ENDLATON": "N027.26.04.294 E128.42.27.529",
-            "ICAO": "RJKB"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "120",
-            "ENDHDG": "300",
-            "STARTLATON": "N042.04.29.890 E139.25.30.710",
-            "ENDLATON": "N042.04.16.860 E139.26.00.800",
-            "ICAO": "RJEO"
-        },
-        {
-            "STARTRWY": "04",
-            "ENDRWY": "22",
-            "STARTHDG": "040",
-            "ENDHDG": "220",
-            "STARTLATON": "N041.13.51.534 E141.07.50.038",
-            "ENDLATON": "N041.14.04.703 E141.08.02.214",
-            "ICAO": "RJSO"
-        },
-        {
-            "STARTRWY": "03",
-            "ENDRWY": "21",
-            "STARTHDG": "027",
-            "ENDHDG": "207",
-            "STARTLATON": "N034.46.27.000 E139.21.24.870",
-            "ENDLATON": "N034.47.22.840 E139.21.49.250",
-            "ICAO": "RJTO"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "167",
-            "ENDHDG": "347",
-            "STARTLATON": "N034.03.19.959 E131.02.51.908",
-            "ENDLATON": "N034.02.39.541 E131.03.09.242",
-            "ICAO": "RJOZ"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "121",
-            "ENDHDG": "301",
-            "STARTLATON": "N034.02.46.548 E131.02.59.439",
-            "ENDLATON": "N034.02.32.946 E131.03.35.610",
-            "ICAO": "RJOZ"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "142",
-            "ENDHDG": "322",
-            "STARTLATON": "N045.27.26.700 E141.02.08.240",
-            "ENDLATON": "N045.27.09.250 E141.02.35.460",
-            "ICAO": "RJCR"
-        },
-        {
-            "STARTRWY": "07",
-            "ENDRWY": "25",
-            "STARTHDG": "067",
-            "ENDHDG": "247",
-            "STARTLATON": "N045.14.15.350 E141.10.40.770",
-            "ENDLATON": "N045.14.47.080 E141.11.50.010",
-            "ICAO": "RJER"
-        },
-        {
-            "STARTRWY": "10",
-            "ENDRWY": "28",
-            "STARTHDG": "103",
-            "ENDHDG": "283",
-            "STARTLATON": "N038.03.39.339 E138.24.36.254",
-            "ENDLATON": "N038.03.35.644 E138.25.12.413",
-            "ICAO": "RJSD"
-        },
-        {
-            "STARTRWY": "11",
-            "ENDRWY": "29",
-            "STARTHDG": "106",
-            "ENDHDG": "286",
-            "STARTLATON": "N033.09.04.200 E130.17.29.910",
-            "ENDLATON": "N033.08.53.770 E130.18.46.080",
-            "ICAO": "RJFS"
-        },
-        {
-            "STARTRWY": "14",
-            "ENDRWY": "32",
-            "STARTHDG": "142",
-            "ENDHDG": "322",
-            "STARTLATON": "N043.07.19.764 E141.22.31.149",
-            "ENDLATON": "N043.06.47.306 E141.23.18.815",
-            "ICAO": "RJCO"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "007",
-            "ENDHDG": "187",
-            "STARTLATON": "N035.47.28.748 E140.00.44.300",
-            "ENDLATON": "N035.48.31.903 E140.00.44.300",
-            "ICAO": "RJTL"
-        },
-        {
-            "STARTRWY": "17",
-            "ENDRWY": "35",
-            "STARTHDG": "169",
-            "ENDHDG": "349",
-            "STARTLATON": "N024.50.24.160 E125.08.28.870",
-            "ENDLATON": "N024.48.49.550 E125.08.54.740",
-            "ICAO": "RORS"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "093",
-            "ENDHDG": "273",
-            "STARTLATON": "N034.48.44.036 E138.17.23.378",
-            "ENDLATON": "N034.48.46.609 E138.18.22.390",
-            "ICAO": "RJNY"
-        },
-        {
-            "STARTRWY": "12",
-            "ENDRWY": "30",
-            "STARTHDG": "119",
-            "ENDHDG": "299",
-            "STARTLATON": "N034.48.00.730 E138.10.36.520",
-            "ENDLATON": "N034.47.30.340 E138.12.07.700",
-            "ICAO": "RJNS"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "088",
-            "ENDHDG": "268",
-            "STARTLATON": "N038.48.38.580 E139.46.33.120",
-            "ENDLATON": "N038.48.50.460 E139.47.54.610",
-            "ICAO": "RJSY"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "011",
-            "ENDHDG": "191",
-            "STARTLATON": "N035.42.24.604 E139.24.10.341",
-            "ENDLATON": "N035.42.52.408 E139.24.12.659",
-            "ICAO": "RJTC"
-        },
-        {
-            "STARTRWY": "01",
-            "ENDRWY": "19",
-            "STARTHDG": "010",
-            "ENDHDG": "190",
-            "STARTLATON": "N035.30.26.830 E134.47.11.940",
-            "ENDLATON": "N035.31.05.710 E134.47.14.430",
-            "ICAO": "RJBT"
-        },
-        {
-            "STARTRWY": "08",
-            "ENDRWY": "26",
-            "STARTHDG": "080",
-            "ENDHDG": "260",
-            "STARTLATON": "N034.12.38.660 E134.00.10.110",
-            "ENDLATON": "N034.13.02.520 E134.01.43.450",
-            "ICAO": "RJOT"
-        },
-        {
-            "STARTRWY": "13",
-            "ENDRWY": "31",
-            "STARTHDG": "125",
-            "ENDHDG": "305",
-            "STARTLATON": "N030.32.59.863 E130.56.36.998",
-            "ENDLATON": "N030.32.36.195 E130.57.24.465",
-            "ICAO": "RJFG"
-        },
-        {
-            "STARTRWY": "18",
-            "ENDRWY": "36",
-            "STARTHDG": "176",
-            "ENDHDG": "356",
-            "STARTLATON": "N024.39.38.000 E124.40.28.000",
-            "ENDLATON": "N024.38.50.000 E124.40.35.000",
-            "ICAO": "RORT"
-        },
-        {
-            "STARTRWY": "09",
-            "ENDRWY": "27",
-            "STARTHDG": "090",
-            "ENDHDG": "270",
-            "STARTLATON": "N034.59.14.278 E139.50.28.430",
-            "ENDLATON": "N034.59.15.190 E139.50.39.011",
-            "ICAO": "RJTE"
-        },
-        {
-            "STARTRWY": "13",
-            "ENDRWY": "31",
-            "STARTHDG": "130",
-            "ENDHDG": "310",
-            "STARTLATON": "N042.53.38.744 E143.09.03.405",
-            "ENDLATON": "N042.53.12.395 E143.09.58.266",
-            "ICAO": "RJCT"
-        },
-    ]
-13  31  130 310 N042.53.38.744 E143.09.03.405 N042.53.12.395 E143.09.58.266 RJCT
-01  19  011 191 N027.49.39.104 E128.52.49.189 N027.50.42.518 E128.52.56.751 RJKN
-11  29  109 289 N034.08.04.785 E134.35.46.577 N034.07.47.121 E134.37.21.788 RJOS
-10  28  101 281 N035.31.50.320 E134.09.14.570 N035.31.46.030 E134.10.33.790 RJOR
-02  20  021 201 N036.38.22.790 E137.11.05.230 N036.39.25.860 E137.11.24.140 RJNT
-07  25  070 250 N033.40.49.303 E131.01.44.605 N033.41.22.584 E131.03.06.294 RJFZ
-14  32  142 322 N034.17.27.790 E129.19.24.190 N034.16.43.410 E129.20.15.770 RJDT
-01  19  011 191 N036.30.30.414 E139.52.14.078 N036.31.23.652 E139.52.18.714 RJTU
-08  26  079 259 N045.24.03.140 E141.47.20.430 N045.24.26.460 E141.48.46.240 RJCW
-14  32  140 320 N030.23.24.619 E130.39.13.674 N030.22.51.508 E130.39.51.856 RJFC
-01  19  015 195 N038.24.10.610 E140.22.12.060 N038.25.15.040 E140.22.21.520 RJSC
-07  25  069 249 N033.55.28.810 E131.16.00.470 N033.56.06.560 E131.17.26.640 RJDC
-09  27  093 273 N034.35.44.180 E135.35.21.750 N034.35.47.000 E135.36.20.140 RJOY
-13  31  134 314 N034.36.02.400 E135.35.45.250 N034.35.38.780 E135.36.22.690 RJOY
-18  36  178 358 N035.45.46.496 E139.20.44.457 N035.44.00.920 E139.21.04.601 RJTY
-08  26  078 258 N024.27.54.800 E122.58.14.590 N024.28.07.190 E122.59.06.110 ROYN
-14  32  142 322 N027.02.52.009 E128.23.51.886 N027.02.24.464 E128.24.19.576 RORY
-02  20  021 201 N035.31.03.016 E139.23.45.830 N035.31.20.361 E139.23.51.134 RJTR
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "176",
+        "ENDHDG": "356",
+        "STARTLATON": "N034.52.27.390 E136.48.05.590",
+        "ENDLATON": "N034.50.32.690 E136.48.33.290",
+        "ICAO": "RJGG"
+    },
+    {
+        "STARTRWY": "16L",
+        "ENDRWY": "34R",
+        "STARTHDG": "157",
+        "ENDHDG": "337",
+        "STARTLATON": "N033.35.48.910 E130.26.35.470",
+        "ENDLATON": "N033.34.29.880 E130.27.29.470",
+        "ICAO": "RJFF"
+    },
+    {
+        "STARTRWY": "16R",
+        "ENDRWY": "34L",
+        "STARTHDG": "157",
+        "ENDHDG": "337",
+        "STARTLATON": "N033.35.45.490 E130.26.28.390",
+        "ENDLATON": "N033.34.35.050 E130.27.16.520",
+        "ICAO": "RJFF"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "117",
+        "ENDHDG": "297",
+        "STARTLATON": "N041.46.27.620 E140.48.17.610",
+        "ENDLATON": "N041.45.57.540 E140.50.21.000",
+        "ICAO": "RJCH"
+    },
+    {
+        "STARTRWY": "16",
+        "ENDRWY": "34",
+        "STARTHDG": "156",
+        "ENDHDG": "336",
+        "STARTLATON": "N031.48.54.410 E130.42.41.340",
+        "ENDLATON": "N031.47.30.070 E130.43.38.380",
+        "ICAO": "RJFK"
+    },
+    {
+        "STARTRWY": "06L",
+        "ENDRWY": "24R",
+        "STARTHDG": "058",
+        "ENDHDG": "238",
+        "STARTLATON": "N034.25.42.859 E135.12.22.331",
+        "ENDLATON": "N034.27.04.579 E135.14.24.079",
+        "ICAO": "RJBB"
+    },
+    {
+        "STARTRWY": "06R",
+        "ENDRWY": "24L",
+        "STARTHDG": "058",
+        "ENDHDG": "238",
+        "STARTLATON": "N034.25.02.560 E135.13.45.400",
+        "ENDLATON": "N034.26.14.040 E135.15.31.920",
+        "ICAO": "RJBB"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "071",
+        "ENDHDG": "251",
+        "STARTLATON": "N032.49.53.450 E130.50.26.090",
+        "ENDLATON": "N032.50.35.240 E130.52.10.280",
+        "ICAO": "RJFT"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "144",
+        "ENDHDG": "324",
+        "STARTLATON": "N032.55.37.280 E129.54.09.770",
+        "ENDLATON": "N032.54.24.910 E129.55.27.040",
+        "ICAO": "RJFU"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "180",
+        "ENDHDG": "360",
+        "STARTLATON": "N032.55.43.054 E129.56.03.500",
+        "ENDLATON": "N032.55.05.725 E129.56.08.163",
+        "ICAO": "RJDU"
+    },
+    {
+        "STARTRWY": "18L",
+        "ENDRWY": "36R",
+        "STARTHDG": "184",
+        "ENDHDG": "004",
+        "STARTLATON": "N026.12.33.630 E127.38.42.840",
+        "ENDLATON": "N026.10.56.240 E127.38.47.410",
+        "ICAO": "ROAH"
+    },
+    {
+        "STARTRWY": "18R",
+        "ENDRWY": "36L",
+        "STARTHDG": "184",
+        "ENDHDG": "004",
+        "STARTLATON": "N026.12.11.000 E127.37.56.640",
+        "ENDLATON": "N026.10.43.340 E127.38.00.770",
+        "ICAO": "ROAH"
+    },
+    {
+        "STARTRWY": "16R",
+        "ENDRWY": "34L",
+        "STARTHDG": "156",
+        "ENDHDG": "336",
+        "STARTLATON": "N035.46.27.800 E140.22.05.850",
+        "ENDLATON": "N035.44.35.960 E140.23.26.660",
+        "ICAO": "RJAA"
+    },
+    {
+        "STARTRWY": "16L",
+        "ENDRWY": "34R",
+        "STARTHDG": "156",
+        "ENDHDG": "336",
+        "STARTLATON": "N035.48.18.720 E140.22.41.190",
+        "ENDLATON": "N035.47.08.820 E140.23.31.720",
+        "ICAO": "RJAA"
+    },
+    {
+        "STARTRWY": "01L",
+        "ENDRWY": "19R",
+        "STARTHDG": "002",
+        "ENDHDG": "182",
+        "STARTLATON": "N042.45.41.900 E141.41.34.170",
+        "ENDLATON": "N042.47.18.360 E141.41.17.180",
+        "ICAO": "RJCC"
+    },
+    {
+        "STARTRWY": "01R",
+        "ENDRWY": "19L",
+        "STARTHDG": "002",
+        "ENDHDG": "182",
+        "STARTLATON": "N042.45.43.150 E141.41.47.250",
+        "ENDLATON": "N042.47.19.560 E141.41.30.280",
+        "ICAO": "RJCC"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "039",
+        "ENDHDG": "219",
+        "STARTLATON": "N037.56.53.730 E139.06.52.820",
+        "ENDLATON": "N037.57.29.960 E139.07.21.310",
+        "ICAO": "RJSN"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "100",
+        "ENDHDG": "280",
+        "STARTLATON": "N037.57.24.640 E139.05.44.230",
+        "ENDLATON": "N037.57.20.840 E139.07.26.530",
+        "ICAO": "RJSN"
+    },
+    {
+        "STARTRWY": "14R",
+        "ENDRWY": "32L",
+        "STARTHDG": "142",
+        "ENDHDG": "322",
+        "STARTLATON": "N034.47.28.770 E135.25.43.340",
+        "ENDLATON": "N034.46.19.920 E135.27.06.760",
+        "ICAO": "RJOO"
+    },
+    {
+        "STARTRWY": "14L",
+        "ENDRWY": "32R",
+        "STARTHDG": "142",
+        "ENDHDG": "322",
+        "STARTLATON": "N034.47.42.970 E135.25.43.270",
+        "ENDLATON": "N034.47.01.020 E135.26.34.110",
+        "ICAO": "RJOO"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "090",
+        "ENDHDG": "270",
+        "STARTLATON": "N038.08.19.580 E140.53.55.400",
+        "ENDLATON": "N038.08.32.180 E140.55.57.560",
+        "ICAO": "RJSS"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "125",
+        "ENDHDG": "305",
+        "STARTLATON": "N038.08.22.050 E140.54.53.090",
+        "ENDLATON": "N038.08.03.960 E140.55.36.720",
+        "ICAO": "RJSS"
+    },
+    {
+        "STARTRWY": "16L",
+        "ENDRWY": "34R",
+        "STARTHDG": "157",
+        "ENDHDG": "337",
+        "STARTLATON": "N035.33.57.230 E139.47.11.590",
+        "ENDLATON": "N035.32.33.020 E139.48.11.340",
+        "ICAO": "RJTT"
+    },
+    {
+        "STARTRWY": "16R",
+        "ENDRWY": "34L",
+        "STARTHDG": "157",
+        "ENDHDG": "337",
+        "STARTLATON": "N035.33.35.950 E139.46.08.640",
+        "ENDLATON": "N035.32.11.760 E139.47.08.410",
+        "ICAO": "RJTT"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "042",
+        "ENDHDG": "222",
+        "STARTLATON": "N035.32.56.470 E139.45.40.600",
+        "ENDLATON": "N035.34.02.880 E139.46.37.610",
+        "ICAO": "RJTT"
+    },
+    {
+        "STARTRWY": "05",
+        "ENDRWY": "23",
+        "STARTHDG": "050",
+        "ENDHDG": "230",
+        "STARTLATON": "N035.31.26.410 E139.48.12.470",
+        "ENDLATON": "N035.32.26.150 E139.49.19.610",
+        "ICAO": "RJTT"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "009",
+        "ENDHDG": "189",
+        "STARTLATON": "N026.35.22.341 E127.14.23.930",
+        "ENDLATON": "N026.35.46.348 E127.14.26.266",
+        "ICAO": "RORA"
+    },
+    {
+        "STARTRWY": "13",
+        "ENDRWY": "31",
+        "STARTHDG": "131",
+        "ENDHDG": "311",
+        "STARTLATON": "N034.32.07.530 E136.40.11.100",
+        "ENDLATON": "N034.31.59.040 E136.40.28.060",
+        "ICAO": "RJOE"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "041",
+        "ENDHDG": "221",
+        "STARTLATON": "N034.31.55.600 E136.40.28.150",
+        "ENDLATON": "N034.31.59.420 E136.40.30.850",
+        "ICAO": "RJOE"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "105",
+        "ENDHDG": "285",
+        "STARTLATON": "N039.37.00.980 E140.12.15.140",
+        "ENDLATON": "N039.36.51.660 E140.13.59.250",
+        "ICAO": "RJSK"
+    },
+    {
+        "STARTRWY": "13",
+        "ENDRWY": "31",
+        "STARTHDG": "131",
+        "ENDHDG": "311",
+        "STARTLATON": "N032.29.06.210 E130.09.16.150",
+        "ENDLATON": "N032.28.47.800 E130.09.47.700",
+        "ICAO": "RJDA"
+    },
+    {
+        "STARTRWY": "03",
+        "ENDRWY": "21",
+        "STARTHDG": "031",
+        "ENDHDG": "211",
+        "STARTLATON": "N028.25.22.600 E129.42.29.298",
+        "ENDLATON": "N028.26.19.066 E129.43.01.147",
+        "ICAO": "RJKA"
+    },
+    {
+        "STARTRWY": "06",
+        "ENDRWY": "24",
+        "STARTHDG": "061",
+        "ENDHDG": "241",
+        "STARTLATON": "N040.43.29.770 E140.40.28.610",
+        "ENDLATON": "N040.44.29.790 E140.42.09.270",
+        "ICAO": "RJSA"
+    },
+    {
+        "STARTRWY": "16",
+        "ENDRWY": "34",
+        "STARTHDG": "163",
+        "ENDHDG": "343",
+        "STARTLATON": "N043.40.51.040 E142.26.26.960",
+        "ENDLATON": "N043.39.38.120 E142.27.15.590",
+        "ICAO": "RJEC"
+    },
+    {
+        "STARTRWY": "08",
+        "ENDRWY": "26",
+        "STARTHDG": "083",
+        "ENDHDG": "263",
+        "STARTLATON": "N043.47.31.863 E142.21.43.339",
+        "ENDLATON": "N043.47.40.128 E142.22.17.170",
+        "ICAO": "RJCA"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "123",
+        "ENDHDG": "303",
+        "STARTLATON": "N033.53.08.871 E130.38.46.705",
+        "ENDLATON": "N033.52.45.880 E130.39.44.102",
+        "ICAO": "RJFA"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "005",
+        "ENDHDG": "185",
+        "STARTLATON": "N035.26.26.751 E139.26.59.273",
+        "ENDLATON": "N035.27.44.006 E139.26.56.827",
+        "ICAO": "RJTA"
+    },
+    {
+        "STARTRWY": "18L",
+        "ENDRWY": "36R",
+        "STARTHDG": "182",
+        "ENDHDG": "002",
+        "STARTLATON": "N042.48.07.040 E141.40.02.080",
+        "ENDLATON": "N042.46.30.970 E141.40.18.940",
+        "ICAO": "RJCJ"
+    },
+    {
+        "STARTRWY": "18R",
+        "ENDRWY": "36L",
+        "STARTHDG": "182",
+        "ENDHDG": "002",
+        "STARTLATON": "N042.48.37.880 E141.39.43.300",
+        "ENDLATON": "N042.47.11.480 E141.39.58.510",
+        "ICAO": "RJCJ"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "171",
+        "ENDHDG": "351",
+        "STARTLATON": "N035.40.05.140 E139.31.45.160",
+        "ENDLATON": "N035.40.29.990 E139.31.35.970",
+        "ICAO": "RJTF"
+    },
+    {
+        "STARTRWY": "03",
+        "ENDRWY": "21",
+        "STARTHDG": "032",
+        "ENDHDG": "212",
+        "STARTLATON": "N032.39.29.340 E128.49.41.440",
+        "ENDLATON": "N032.40.27.810 E128.50.14.790",
+        "ICAO": "RJFE"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "181",
+        "ENDHDG": "001",
+        "STARTLATON": "N036.08.53.670 E136.13.24.410",
+        "ENDLATON": "N036.08.14.840 E136.13.27.840",
+        "ICAO": "RJNF"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "009",
+        "ENDHDG": "189",
+        "STARTLATON": "N037.12.58.230 E140.25.38.760",
+        "ENDLATON": "N037.14.19.260 E140.25.42.650",
+        "ICAO": "RJSF"
+    },
+    {
+        "STARTRWY": "06",
+        "ENDRWY": "24",
+        "STARTHDG": "062",
+        "ENDHDG": "242",
+        "STARTLATON": "N026.16.53.065 E127.46.03.903",
+        "ENDLATON": "N026.16.01.898 E127.44.42.859",
+        "ICAO": "ROTM"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "099",
+        "ENDHDG": "279",
+        "STARTLATON": "N035.23.40.414 E136.51.17.173",
+        "ENDLATON": "N035.23.36.990 E136.53.04.303",
+        "ICAO": "RJNG"
+    },
+    {
+        "STARTRWY": "08",
+        "ENDRWY": "26",
+        "STARTHDG": "075",
+        "ENDHDG": "255",
+        "STARTLATON": "N033.06.43.030 E139.46.33.070",
+        "ENDLATON": "N033.07.05.720 E139.47.45.360",
+        "ICAO": "RJTH"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "072",
+        "ENDHDG": "252",
+        "STARTLATON": "N040.32.51.098 E141.27.19.192",
+        "ENDLATON": "N040.33.23.407 E141.28.44.459",
+        "ICAO": "RJSH"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "097",
+        "ENDHDG": "277",
+        "STARTLATON": "N034.45.02.173 E137.41.21.912",
+        "ENDLATON": "N034.45.01.514 E137.43.02.155",
+        "ICAO": "RJNH"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "019",
+        "ENDHDG": "199",
+        "STARTLATON": "N039.25.03.580 E141.07.57.620",
+        "ENDLATON": "N039.26.23.240 E141.08.17.110",
+        "ICAO": "RJSI"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "025",
+        "ENDHDG": "205",
+        "STARTLATON": "N024.03.23.142 E123.48.14.902",
+        "ENDLATON": "N024.03.46.961 E123.48.25.196",
+        "ICAO": "RORH"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "097",
+        "ENDHDG": "277",
+        "STARTLATON": "N034.26.09.690 E132.54.11.250",
+        "ENDLATON": "N034.26.09.690 E132.56.08.750",
+        "ICAO": "RJOA"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "035",
+        "ENDHDG": "215",
+        "STARTLATON": "N034.21.34.720 E132.24.33.100",
+        "ENDLATON": "N034.22.25.950 E132.25.06.960",
+        "ICAO": "RJBH"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "115",
+        "ENDHDG": "295",
+        "STARTLATON": "N034.02.17.797 E131.32.10.045",
+        "ENDLATON": "N034.02.01.103 E131.33.09.464",
+        "ICAO": "RJOF"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "006",
+        "ENDHDG": "186",
+        "STARTLATON": "N034.01.36.915 E131.32.55.767",
+        "ENDLATON": "N034.02.19.121 E131.32.55.259",
+        "ICAO": "RJOF"
+    },
+    {
+        "STARTRWY": "03L",
+        "ENDRWY": "21R",
+        "STARTHDG": "026",
+        "ENDHDG": "206",
+        "STARTLATON": "N036.10.13.368 E140.24.31.320",
+        "ENDLATON": "N036.11.34.368 E140.25.05.520",
+        "ICAO": "RJAH"
+    },
+    {
+        "STARTRWY": "03R",
+        "ENDRWY": "21L",
+        "STARTHDG": "026",
+        "ENDHDG": "206",
+        "STARTLATON": "N036.10.11.129 E140.24.39.079",
+        "ENDLATON": "N036.11.32.150 E140.25.13.525",
+        "ICAO": "RJAH"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "043",
+        "ENDHDG": "223",
+        "STARTLATON": "N026.43.02.497 E127.46.56.257",
+        "ENDLATON": "N026.43.39.536 E127.47.29.781",
+        "ICAO": "RORE"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "020",
+        "ENDHDG": "200",
+        "STARTLATON": "N033.45.15.740 E129.47.12.290",
+        "ENDLATON": "N033.44.37.310 E129.47.04.700",
+        "ICAO": "RJDB"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "175",
+        "ENDHDG": "355",
+        "STARTLATON": "N035.51.01.823 E139.24.25.866",
+        "ENDLATON": "N035.50.02.538 E139.24.52.105",
+        "ICAO": "RJTJ"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "045",
+        "ENDHDG": "225",
+        "STARTLATON": "N024.20.22.210 E124.10.55.280",
+        "ENDLATON": "N024.20.58.360 E124.11.31.000",
+        "ICAO": "ROIX"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "036",
+        "ENDHDG": "216",
+        "STARTLATON": "N024.23.20.910 E124.14.21.640",
+        "ENDLATON": "N024.24.13.590 E124.15.03.240",
+        "ICAO": "ROIG"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "017",
+        "ENDHDG": "197",
+        "STARTLATON": "N034.08.02.655 E132.14.41.579",
+        "ENDLATON": "N034.09.20.736 E132.14.56.715",
+        "ICAO": "RJOI"
+    },
+    {
+        "STARTRWY": "11",
+        "ENDRWY": "29",
+        "STARTHDG": "112",
+        "ENDHDG": "292",
+        "STARTLATON": "N034.40.43.300 E131.46.47.130",
+        "ENDLATON": "N034.40.26.740 E131.48.03.100",
+        "ICAO": "RJOW"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "073",
+        "ENDHDG": "253",
+        "STARTLATON": "N024.47.13.767 E141.18.45.723",
+        "ENDLATON": "N024.47.42.175 E141.20.12.496",
+        "ICAO": "RJAW"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "066",
+        "ENDHDG": "246",
+        "STARTLATON": "N035.24.32.830 E132.52.49.800",
+        "ENDLATON": "N035.25.05.820 E132.53.58.070",
+        "ICAO": "RJOC"
+    },
+    {
+        "STARTRWY": "05L",
+        "ENDRWY": "23R",
+        "STARTHDG": "055",
+        "ENDHDG": "235",
+        "STARTLATON": "N026.20.47.516 E127.45.05.945",
+        "ENDLATON": "N026.22.01.871 E127.46.47.627",
+        "ICAO": "RODN"
+    },
+    {
+        "STARTRWY": "05R",
+        "ENDRWY": "23L",
+        "STARTHDG": "055",
+        "ENDHDG": "235",
+        "STARTLATON": "N026.20.39.655 E127.45.18.739",
+        "ENDLATON": "N026.21.53.979 E127.47.00.342",
+        "ICAO": "RODN"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "174",
+        "ENDHDG": "354",
+        "STARTLATON": "N033.01.01.640 E129.11.29.350",
+        "ENDLATON": "N033.00.36.260 E129.11.35.850",
+        "ICAO": "RJDK"
+    },
+    {
+        "STARTRWY": "08L",
+        "ENDRWY": "26R",
+        "STARTHDG": "085",
+        "ENDHDG": "265",
+        "STARTLATON": "N031.22.03.255 E130.49.47.897",
+        "ENDLATON": "N031.22.10.610 E130.50.33.013",
+        "ICAO": "RJFY"
+    },
+    {
+        "STARTRWY": "08R",
+        "ENDRWY": "26L",
+        "STARTHDG": "085",
+        "ENDHDG": "265",
+        "STARTLATON": "N031.21.53.542 E130.49.38.748",
+        "ENDLATON": "N031.22.07.084 E130.51.02.456",
+        "ICAO": "RJFY"
+    },
+    {
+        "STARTRWY": "06",
+        "ENDRWY": "24",
+        "STARTHDG": "062",
+        "ENDHDG": "242",
+        "STARTLATON": "N036.02.00.053 E140.11.25.261",
+        "ENDLATON": "N036.02.09.923 E140.11.42.662",
+        "ICAO": "RJAK"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "140",
+        "ENDHDG": "320",
+        "STARTLATON": "N038.14.14.999 E140.55.12.256",
+        "ENDLATON": "N038.13.58.234 E140.55.33.884",
+        "ICAO": "RJSU"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "020",
+        "ENDHDG": "200",
+        "STARTLATON": "N026.09.54.018 E127.17.32.186",
+        "ENDLATON": "N026.10.17.991 E127.17.39.833",
+        "ICAO": "ROKR"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "070",
+        "ENDHDG": "250",
+        "STARTLATON": "N028.19.09.062 E129.55.19.032",
+        "ENDLATON": "N028.19.26.198 E129.56.02.126",
+        "ICAO": "RJKI"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "017",
+        "ENDHDG": "197",
+        "STARTLATON": "N035.23.25.301 E139.54.29.099",
+        "ENDLATON": "N035.24.22.729 E139.54.41.690",
+        "ICAO": "RJTK"
+    },
+    {
+        "STARTRWY": "03",
+        "ENDRWY": "21",
+        "STARTHDG": "030",
+        "ENDHDG": "210",
+        "STARTLATON": "N025.57.02.559 E131.19.47.596",
+        "ENDLATON": "N025.56.18.897 E131.19.24.557",
+        "ICAO": "RORK"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "177",
+        "ENDHDG": "357",
+        "STARTLATON": "N033.51.23.920 E131.01.57.830",
+        "ENDLATON": "N033.50.05.080 E131.02.14.170",
+        "ICAO": "RJFR"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "092",
+        "ENDHDG": "272",
+        "STARTLATON": "N034.37.53.910 E135.12.37.120",
+        "ENDLATON": "N034.38.01.530 E135.14.14.840",
+        "ICAO": "RJBE"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "137",
+        "ENDHDG": "317",
+        "STARTLATON": "N033.33.12.040 E133.39.32.980",
+        "ENDLATON": "N033.32.19.330 E133.40.46.670",
+        "ICAO": "RJOK"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "092",
+        "ENDHDG": "272",
+        "STARTLATON": "N034.35.25.666 E133.55.36.495",
+        "ENDLATON": "N034.35.28.367 E133.56.23.506",
+        "ICAO": "RJBK"
+    },
+    {
+        "STARTRWY": "06",
+        "ENDRWY": "24",
+        "STARTHDG": "063",
+        "ENDHDG": "243",
+        "STARTLATON": "N036.23.13.268 E136.23.44.167",
+        "ENDLATON": "N036.24.02.449 E136.25.11.440",
+        "ICAO": "RJNK"
+    },
+    {
+        "STARTRWY": "11",
+        "ENDRWY": "29",
+        "STARTHDG": "111",
+        "ENDHDG": "291",
+        "STARTLATON": "N034.11.25.370 E139.07.45.480",
+        "ENDLATON": "N034.11.18.610 E139.08.15.650",
+        "ICAO": "RJAZ"
+    },
+    {
+        "STARTRWY": "03",
+        "ENDRWY": "21",
+        "STARTHDG": "025",
+        "ENDHDG": "205",
+        "STARTLATON": "N026.21.18.320 E126.42.36.670",
+        "ENDLATON": "N026.22.18.920 E126.43.02.730",
+        "ICAO": "ROKJ"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "168",
+        "ENDHDG": "348",
+        "STARTLATON": "N043.03.05.300 E144.11.14.920",
+        "ENDLATON": "N043.01.49.680 E144.11.54.580",
+        "ICAO": "RJCK"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "178",
+        "ENDHDG": "358",
+        "STARTLATON": "N036.10.32.370 E137.55.15.370",
+        "ENDLATON": "N036.09.28.290 E137.55.27.850",
+        "ICAO": "RJAF"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "066",
+        "ENDHDG": "246",
+        "STARTLATON": "N038.23.42.929 E141.11.53.819",
+        "ENDLATON": "N038.24.29.168 E141.13.28.355",
+        "ICAO": "RJST"
+    },
+    {
+        "STARTRWY": "15",
+        "ENDRWY": "33",
+        "STARTHDG": "145",
+        "ENDHDG": "325",
+        "STARTLATON": "N038.24.49.474 E141.12.35.036",
+        "ENDLATON": "N038.24.12.337 E141.13.14.929",
+        "ICAO": "RJST"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "137",
+        "ENDHDG": "317",
+        "STARTLATON": "N033.50.04.500 E132.41.21.730",
+        "ENDLATON": "N033.49.11.750 E132.42.35.610",
+        "ICAO": "RJOM"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "184",
+        "ENDHDG": "004",
+        "STARTLATON": "N043.53.30.510 E144.09.45.380",
+        "ENDLATON": "N043.52.09.850 E144.09.55.800",
+        "ICAO": "RJCM"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "040",
+        "ENDHDG": "220",
+        "STARTLATON": "N033.19.22.996 E130.24.42.541",
+        "ENDLATON": "N033.19.39.049 E130.24.55.478",
+        "ICAO": "RJDM"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "072",
+        "ENDHDG": "252",
+        "STARTLATON": "N035.29.18.877 E133.13.37.954",
+        "ENDLATON": "N035.29.45.605 E133.14.48.172",
+        "ICAO": "RJOH"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "021",
+        "ENDHDG": "201",
+        "STARTLATON": "N025.50.24.214 E131.15.41.287",
+        "ENDLATON": "N025.51.10.767 E131.15.55.659",
+        "ICAO": "ROMD"
+    },
+    {
+        "STARTRWY": "05",
+        "ENDRWY": "23",
+        "STARTHDG": "049",
+        "ENDHDG": "229",
+        "STARTLATON": "N024.17.08.985 E153.58.26.641",
+        "ENDLATON": "N024.17.36.903 E153.59.03.082",
+        "ICAO": "RJAM"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "101",
+        "ENDHDG": "281",
+        "STARTLATON": "N040.42.15.928 E141.21.01.460",
+        "ENDLATON": "N040.42.07.119 E141.23.10.700",
+        "ICAO": "RJSM"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "020",
+        "ENDHDG": "200",
+        "STARTLATON": "N034.04.00.960 E139.33.28.610",
+        "ENDLATON": "N034.04.38.230 E139.33.42.200",
+        "ICAO": "RJTQ"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "042",
+        "ENDHDG": "222",
+        "STARTLATON": "N024.46.32.650 E125.17.20.410",
+        "ENDLATON": "N024.47.23.660 E125.18.04.560",
+        "ICAO": "ROMY"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "091",
+        "ENDHDG": "271",
+        "STARTLATON": "N031.52.34.260 E131.26.07.020",
+        "ENDLATON": "N031.52.41.060 E131.27.41.800",
+        "ICAO": "RJFM"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "141",
+        "ENDHDG": "321",
+        "STARTLATON": "N044.18.35.730 E143.23.40.930",
+        "ENDLATON": "N044.17.52.440 E143.24.48.060",
+        "ICAO": "RJEB"
+    },
+    {
+        "STARTRWY": "16",
+        "ENDRWY": "34",
+        "STARTHDG": "159",
+        "ENDHDG": "339",
+        "STARTLATON": "N035.15.59.160 E136.55.02.690",
+        "ENDLATON": "N035.14.40.360 E136.55.52.860",
+        "ICAO": "RJNA"
+    },
+    {
+        "STARTRWY": "08",
+        "ENDRWY": "26",
+        "STARTHDG": "080",
+        "ENDHDG": "260",
+        "STARTLATON": "N043.34.28.200 E144.56.53.100",
+        "ENDLATON": "N043.34.49.270 E144.58.17.400",
+        "ICAO": "RJCN"
+    },
+    {
+        "STARTRWY": "15",
+        "ENDRWY": "33",
+        "STARTHDG": "146",
+        "ENDHDG": "326",
+        "STARTLATON": "N033.40.09.540 E135.21.27.850",
+        "ENDLATON": "N033.39.19.110 E135.22.16.740",
+        "ICAO": "RJBD"
+    },
+    {
+        "STARTRWY": "13",
+        "ENDRWY": "31",
+        "STARTHDG": "129",
+        "ENDHDG": "309",
+        "STARTLATON": "N030.36.36.000 E130.58.58.000",
+        "ENDLATON": "N030.36.01.000 E131.00.01.000",
+        "ICAO": "RJFG"
+    },
+    {
+        "STARTRWY": "11",
+        "ENDRWY": "29",
+        "STARTHDG": "109",
+        "ENDHDG": "289",
+        "STARTLATON": "N034.22.13.110 E139.15.51.440",
+        "ENDLATON": "N034.22.07.570 E139.16.22.040",
+        "ICAO": "RJAN"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "075",
+        "ENDHDG": "255",
+        "STARTLATON": "N037.17.22.920 E136.57.06.380",
+        "ENDLATON": "N037.17.48.520 E136.58.21.000",
+        "ICAO": "RJNW"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "107",
+        "ENDHDG": "287",
+        "STARTLATON": "N032.05.10.307 E131.26.17.872",
+        "ENDLATON": "N032.04.53.855 E131.27.56.751",
+        "ICAO": "RJFN"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "168",
+        "ENDHDG": "348",
+        "STARTLATON": "N042.44.38.860 E143.12.43.310",
+        "ENDLATON": "N042.43.23.070 E143.13.22.160",
+        "ICAO": "RJCB"
+    },
+    {
+        "STARTRWY": "11",
+        "ENDRWY": "29",
+        "STARTHDG": "109",
+        "ENDHDG": "289",
+        "STARTLATON": "N040.11.36.370 E140.21.35.510",
+        "ENDLATON": "N040.11.25.100 E140.22.58.780",
+        "ICAO": "RJSR"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "007",
+        "ENDHDG": "187",
+        "STARTLATON": "N033.27.57.530 E131.44.13.220",
+        "ENDLATON": "N033.29.34.890 E131.44.14.080",
+        "ICAO": "RJFO"
+    },
+    {
+        "STARTRWY": "03",
+        "ENDRWY": "21",
+        "STARTHDG": "030",
+        "ENDHDG": "210",
+        "STARTLATON": "N033.11.14.880 E129.05.19.930",
+        "ENDLATON": "N033.11.39.230 E129.05.30.660",
+        "ICAO": "RJDO"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "066",
+        "ENDHDG": "246",
+        "STARTLATON": "N034.45.00.070 E133.50.28.890",
+        "ENDLATON": "N034.45.49.880 E133.52.10.240",
+        "ICAO": "RJOB"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "072",
+        "ENDHDG": "252",
+        "STARTLATON": "N036.10.41.660 E133.19.02.310",
+        "ENDLATON": "N036.11.02.450 E133.19.56.580",
+        "ICAO": "RJNO"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "039",
+        "ENDHDG": "219",
+        "STARTLATON": "N027.25.33.922 E128.42.03.688",
+        "ENDLATON": "N027.26.04.294 E128.42.27.529",
+        "ICAO": "RJKB"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "120",
+        "ENDHDG": "300",
+        "STARTLATON": "N042.04.29.890 E139.25.30.710",
+        "ENDLATON": "N042.04.16.860 E139.26.00.800",
+        "ICAO": "RJEO"
+    },
+    {
+        "STARTRWY": "04",
+        "ENDRWY": "22",
+        "STARTHDG": "040",
+        "ENDHDG": "220",
+        "STARTLATON": "N041.13.51.534 E141.07.50.038",
+        "ENDLATON": "N041.14.04.703 E141.08.02.214",
+        "ICAO": "RJSO"
+    },
+    {
+        "STARTRWY": "03",
+        "ENDRWY": "21",
+        "STARTHDG": "027",
+        "ENDHDG": "207",
+        "STARTLATON": "N034.46.27.000 E139.21.24.870",
+        "ENDLATON": "N034.47.22.840 E139.21.49.250",
+        "ICAO": "RJTO"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "167",
+        "ENDHDG": "347",
+        "STARTLATON": "N034.03.19.959 E131.02.51.908",
+        "ENDLATON": "N034.02.39.541 E131.03.09.242",
+        "ICAO": "RJOZ"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "121",
+        "ENDHDG": "301",
+        "STARTLATON": "N034.02.46.548 E131.02.59.439",
+        "ENDLATON": "N034.02.32.946 E131.03.35.610",
+        "ICAO": "RJOZ"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "142",
+        "ENDHDG": "322",
+        "STARTLATON": "N045.27.26.700 E141.02.08.240",
+        "ENDLATON": "N045.27.09.250 E141.02.35.460",
+        "ICAO": "RJCR"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "067",
+        "ENDHDG": "247",
+        "STARTLATON": "N045.14.15.350 E141.10.40.770",
+        "ENDLATON": "N045.14.47.080 E141.11.50.010",
+        "ICAO": "RJER"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "103",
+        "ENDHDG": "283",
+        "STARTLATON": "N038.03.39.339 E138.24.36.254",
+        "ENDLATON": "N038.03.35.644 E138.25.12.413",
+        "ICAO": "RJSD"
+    },
+    {
+        "STARTRWY": "11",
+        "ENDRWY": "29",
+        "STARTHDG": "106",
+        "ENDHDG": "286",
+        "STARTLATON": "N033.09.04.200 E130.17.29.910",
+        "ENDLATON": "N033.08.53.770 E130.18.46.080",
+        "ICAO": "RJFS"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "142",
+        "ENDHDG": "322",
+        "STARTLATON": "N043.07.19.764 E141.22.31.149",
+        "ENDLATON": "N043.06.47.306 E141.23.18.815",
+        "ICAO": "RJCO"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "007",
+        "ENDHDG": "187",
+        "STARTLATON": "N035.47.28.748 E140.00.44.300",
+        "ENDLATON": "N035.48.31.903 E140.00.44.300",
+        "ICAO": "RJTL"
+    },
+    {
+        "STARTRWY": "17",
+        "ENDRWY": "35",
+        "STARTHDG": "169",
+        "ENDHDG": "349",
+        "STARTLATON": "N024.50.24.160 E125.08.28.870",
+        "ENDLATON": "N024.48.49.550 E125.08.54.740",
+        "ICAO": "RORS"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "093",
+        "ENDHDG": "273",
+        "STARTLATON": "N034.48.44.036 E138.17.23.378",
+        "ENDLATON": "N034.48.46.609 E138.18.22.390",
+        "ICAO": "RJNY"
+    },
+    {
+        "STARTRWY": "12",
+        "ENDRWY": "30",
+        "STARTHDG": "119",
+        "ENDHDG": "299",
+        "STARTLATON": "N034.48.00.730 E138.10.36.520",
+        "ENDLATON": "N034.47.30.340 E138.12.07.700",
+        "ICAO": "RJNS"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "088",
+        "ENDHDG": "268",
+        "STARTLATON": "N038.48.38.580 E139.46.33.120",
+        "ENDLATON": "N038.48.50.460 E139.47.54.610",
+        "ICAO": "RJSY"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "011",
+        "ENDHDG": "191",
+        "STARTLATON": "N035.42.24.604 E139.24.10.341",
+        "ENDLATON": "N035.42.52.408 E139.24.12.659",
+        "ICAO": "RJTC"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "010",
+        "ENDHDG": "190",
+        "STARTLATON": "N035.30.26.830 E134.47.11.940",
+        "ENDLATON": "N035.31.05.710 E134.47.14.430",
+        "ICAO": "RJBT"
+    },
+    {
+        "STARTRWY": "08",
+        "ENDRWY": "26",
+        "STARTHDG": "080",
+        "ENDHDG": "260",
+        "STARTLATON": "N034.12.38.660 E134.00.10.110",
+        "ENDLATON": "N034.13.02.520 E134.01.43.450",
+        "ICAO": "RJOT"
+    },
+    {
+        "STARTRWY": "13",
+        "ENDRWY": "31",
+        "STARTHDG": "125",
+        "ENDHDG": "305",
+        "STARTLATON": "N030.32.59.863 E130.56.36.998",
+        "ENDLATON": "N030.32.36.195 E130.57.24.465",
+        "ICAO": "RJFG"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "176",
+        "ENDHDG": "356",
+        "STARTLATON": "N024.39.38.000 E124.40.28.000",
+        "ENDLATON": "N024.38.50.000 E124.40.35.000",
+        "ICAO": "RORT"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "090",
+        "ENDHDG": "270",
+        "STARTLATON": "N034.59.14.278 E139.50.28.430",
+        "ENDLATON": "N034.59.15.190 E139.50.39.011",
+        "ICAO": "RJTE"
+    },
+    {
+        "STARTRWY": "13",
+        "ENDRWY": "31",
+        "STARTHDG": "130",
+        "ENDHDG": "310",
+        "STARTLATON": "N042.53.38.744 E143.09.03.405",
+        "ENDLATON": "N042.53.12.395 E143.09.58.266",
+        "ICAO": "RJCT"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "011",
+        "ENDHDG": "191",
+        "STARTLATON": "N027.49.39.104 E128.52.49.189",
+        "ENDLATON": "N027.50.42.518 E128.52.56.751",
+        "ICAO": "RJKN"
+    },
+    {
+        "STARTRWY": "11",
+        "ENDRWY": "29",
+        "STARTHDG": "109",
+        "ENDHDG": "289",
+        "STARTLATON": "N034.08.04.785 E134.35.46.577",
+        "ENDLATON": "N034.07.47.121 E134.37.21.788",
+        "ICAO": "RJOS"
+    },
+    {
+        "STARTRWY": "10",
+        "ENDRWY": "28",
+        "STARTHDG": "101",
+        "ENDHDG": "281",
+        "STARTLATON": "N035.31.50.320 E134.09.14.570",
+        "ENDLATON": "N035.31.46.030 E134.10.33.790",
+        "ICAO": "RJOR"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "021",
+        "ENDHDG": "201",
+        "STARTLATON": "N036.38.22.790 E137.11.05.230",
+        "ENDLATON": "N036.39.25.860 E137.11.24.140",
+        "ICAO": "RJNT"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "070",
+        "ENDHDG": "250",
+        "STARTLATON": "N033.40.49.303 E131.01.44.605",
+        "ENDLATON": "N033.41.22.584 E131.03.06.294",
+        "ICAO": "RJFZ"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "142",
+        "ENDHDG": "322",
+        "STARTLATON": "N034.17.27.790 E129.19.24.190",
+        "ENDLATON": "N034.16.43.410 E129.20.15.770",
+        "ICAO": "RJDT"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "011",
+        "ENDHDG": "191",
+        "STARTLATON": "N036.30.30.414 E139.52.14.078",
+        "ENDLATON": "N036.31.23.652 E139.52.18.714",
+        "ICAO": "RJTU"
+    },
+    {
+        "STARTRWY": "08",
+        "ENDRWY": "26",
+        "STARTHDG": "080",
+        "ENDHDG": "260",
+        "STARTLATON": "N045.24.03.140 E141.47.20.430",
+        "ENDLATON": "N045.24.26.460 E141.48.46.240",
+        "ICAO": "RJCW"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "140",
+        "ENDHDG": "320",
+        "STARTLATON": "N030.23.24.619 E130.39.13.674",
+        "ENDLATON": "N030.22.51.508 E130.39.51.856",
+        "ICAO": "RJFC"
+    },
+    {
+        "STARTRWY": "01",
+        "ENDRWY": "19",
+        "STARTHDG": "015",
+        "ENDHDG": "195",
+        "STARTLATON": "N038.24.10.610 E140.22.12.060",
+        "ENDLATON": "N038.25.15.040 E140.22.21.520",
+        "ICAO": "RJSC"
+    },
+    {
+        "STARTRWY": "07",
+        "ENDRWY": "25",
+        "STARTHDG": "069",
+        "ENDHDG": "249",
+        "STARTLATON": "N033.55.28.810 E131.16.00.470",
+        "ENDLATON": "N033.56.06.560 E131.17.26.640",
+        "ICAO": "RJDC"
+    },
+    {
+        "STARTRWY": "09",
+        "ENDRWY": "27",
+        "STARTHDG": "093",
+        "ENDHDG": "273",
+        "STARTLATON": "N034.35.44.180 E135.35.21.750",
+        "ENDLATON": "N034.35.47.000 E135.36.20.140",
+        "ICAO": "RJOY"
+    },
+    {
+        "STARTRWY": "13",
+        "ENDRWY": "31",
+        "STARTHDG": "134",
+        "ENDHDG": "314",
+        "STARTLATON": "N034.36.02.400 E135.35.45.250",
+        "ENDLATON": "N034.35.38.780 E135.36.22.690",
+        "ICAO": "RJOY"
+    },
+    {
+        "STARTRWY": "18",
+        "ENDRWY": "36",
+        "STARTHDG": "178",
+        "ENDHDG": "358",
+        "STARTLATON": "N035.45.46.496 E139.20.44.457",
+        "ENDLATON": "N035.44.00.920 E139.21.04.601",
+        "ICAO": "RJTY"
+    },
+    {
+        "STARTRWY": "08",
+        "ENDRWY": "26",
+        "STARTHDG": "078",
+        "ENDHDG": "258",
+        "STARTLATON": "N024.27.54.800 E122.58.14.590",
+        "ENDLATON": "N024.28.07.190 E122.59.06.110",
+        "ICAO": "ROYN"
+    },
+    {
+        "STARTRWY": "14",
+        "ENDRWY": "32",
+        "STARTHDG": "142",
+        "ENDHDG": "322",
+        "STARTLATON": "N027.02.52.009 E128.23.51.886",
+        "ENDLATON": "N027.02.24.464 E128.24.19.576",
+        "ICAO": "RORY"
+    },
+    {
+        "STARTRWY": "02",
+        "ENDRWY": "20",
+        "STARTHDG": "021",
+        "ENDHDG": "201",
+        "STARTLATON": "N035.31.03.016 E139.23.45.830",
+        "ENDLATON": "N035.31.20.361 E139.23.51.134",
+        "ICAO": "RJTR"
+    }
+]
