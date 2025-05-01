@@ -1,7 +1,7 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:28942:1.0:0:0:7
-Airports:name:28942:4.0:0:0:1
+Airports:symbol:14540287:1.0:0:0:7
+Airports:name:14540287:4.0:0:0:1
 Low airways:line:7425280:0.5:2:0:7
 Low airways:name:7819520:3.0:0:0:8
 High airways:line:8224125:2.0:4:0:7
@@ -84,6 +84,7 @@ Other:manual taxi line:16777215:5.0:0:3:2
 Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
 Other:predefined taxi line:65280:5.0:0:3:2
 Other:terminal taxi line:255:5.0:0:3:2
+Other:list title bar:16777215:0.0:0:0:7
 Other:list header:16777215:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
@@ -95,9 +96,9 @@ Chat:name unread:16776960:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
-Sector:line:78:4.0:0:2:7
+Sector:line:7039851:4.0:0:2:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:10132122:3.5:0:0:7
+Sector:active sector background:11513775:3.5:0:0:7
 Sector:inactive sector background:9737364:3.5:0:0:7
 SYMBOL:0
 SYMBOLITEM:MOVETO -4 -4
