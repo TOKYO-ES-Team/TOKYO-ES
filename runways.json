@@ -1323,8 +1323,8 @@
         "ICAO": "RJOY"
     },
     {
-        "STARTRWY": "18",
-        "ENDRWY": "36",
+        "STARTRWY": "18L",
+        "ENDRWY": "36R",
         "STARTHDG": "178",
         "ENDHDG": "358",
         "STARTLATON": "N035.45.46.496 E139.20.44.457",
