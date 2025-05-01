@@ -18,7 +18,7 @@ const runwayText = runways
     .join('\n');
 
 
-const fullText = licenseText + defineText + "\n\n[AIRPORT]\n" + airportText + "\n\n[RUNWAY]\n" + runwayText;
+const fullText = defineText + "\n" + licenseText + "\n[AIRPORT]\n" + airportText + "\n\n[RUNWAY]\n" + runwayText;
 
 fs.writeFileSync('TEST.sct', fullText, 'utf8');
 console.log('TEST.sct file is generated successfully!');
