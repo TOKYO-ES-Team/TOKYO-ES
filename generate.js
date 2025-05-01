@@ -1,7 +1,7 @@
 const fs = require('fs');
 const licenseText = require('./licenses.js');
 const defineText = require('./define.js');
-const raw = fs.readFileSync('airports.json');
+const raw = fs.readFileSync('./database/airports.json');
 const airports = JSON.parse(raw);
 
 const airportText = airports.map(airport => {
