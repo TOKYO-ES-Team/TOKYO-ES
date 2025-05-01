@@ -1,8 +1,8 @@
-DisplayTypeName:
+DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\TOKYO-ES\All\Sectors\TOKYO_ES.sct
-SECTORTITLE:TOKYO_ES.sct
+SECTORFILE:D:\TOKYO-ES\All\Sectors\RJTG.sct
+SECTORTITLE:RJTG.sct
 ARTCC boundary:A01:
 ARTCC boundary:A02:
 ARTCC boundary:A03:
@@ -67,9 +67,435 @@ ARTCC boundary:T41:
 ARTCC boundary:T42:
 ARTCC boundary:T45:
 ARTCC boundary:T46:
+ARTCC high boundary:RJAH_ACA:
+ARTCC high boundary:RJAW_ACA:
+ARTCC high boundary:RJBB_ACA:
+ARTCC high boundary:RJCC_ACA:
+ARTCC high boundary:RJCH_APP:
+ARTCC high boundary:RJCO_APP:
+ARTCC high boundary:RJEC_ACA:
+ARTCC high boundary:RJFF_ACA:
 ARTCC high boundary:RJFK_ACA:
+ARTCC high boundary:RJFO_ACA:
+ARTCC high boundary:RJFT_ACA:
+ARTCC high boundary:RJFU_ACA:
+ARTCC high boundary:RJFZ_ACA:
+ARTCC high boundary:RJGG_ACA:
+ARTCC high boundary:RJNH_ACA:
+ARTCC high boundary:RJNK_ACA:
+ARTCC high boundary:RJOA_ACA:
+ARTCC high boundary:RJOH_ACA:
+ARTCC high boundary:RJOI_ACA:
+ARTCC high boundary:RJOS_ACA:
+ARTCC high boundary:RJSK_ACA:
+ARTCC high boundary:RJSM_090:
+ARTCC high boundary:RJSM_150:
+ARTCC high boundary:RJSM_170:
+ARTCC high boundary:RJSM_200:
+ARTCC high boundary:RJSN_ACA:
+ARTCC high boundary:RJSS_ACA:
+ARTCC high boundary:RJST_ACA:
+ARTCC high boundary:RJTT_ACA:
+ARTCC high boundary:RJTU_ACA:
+ARTCC high boundary:RJTY_ACA:
+ARTCC high boundary:ROAH_ACA:
+ARTCC high boundary:RORS_ACA:
+ARTCC low boundary:AWE_10DME:
+ARTCC low boundary:AWE_15DME:
+ARTCC low boundary:AWE_30DME:
+ARTCC low boundary:AWE_5DME:
+ARTCC low boundary:AWE_R030:
+ARTCC low boundary:AWE_R071:
+ARTCC low boundary:AWE_R154:
+ARTCC low boundary:AWE_R183:
+ARTCC low boundary:AWE_R220:
+ARTCC low boundary:AWE_R249:
+ARTCC low boundary:AWE_R300:
+ARTCC low boundary:AWE_R360:
+ARTCC low boundary:HPE_15DME:
+ARTCC low boundary:HPE_20DME:
+ARTCC low boundary:HPE_30DME:
+ARTCC low boundary:HPE_R009:
+ARTCC low boundary:HPE_R029:
+ARTCC low boundary:HPE_R091:
+ARTCC low boundary:HPE_R195:
+ARTCC low boundary:HPE_R263:
+ARTCC low boundary:HPE_R309:
+ARTCC low boundary:JCO_10NM:
+ARTCC low boundary:JCO_14NM:
+ARTCC low boundary:JCO_15NM:
+ARTCC low boundary:JCO_17NM:
+ARTCC low boundary:JCO_21NM:
+ARTCC low boundary:JCO_30NM:
+ARTCC low boundary:JCO_4.5NM:
+ARTCC low boundary:JCO_40NM:
+ARTCC low boundary:JCO_5NM:
+ARTCC low boundary:JCO_8NM:
+ARTCC low boundary:JCO_9NM:
+ARTCC low boundary:JCO_R010:
+ARTCC low boundary:JCO_R055:
+ARTCC low boundary:JCO_R060:
+ARTCC low boundary:JCO_R075:
+ARTCC low boundary:JCO_R180:
+ARTCC low boundary:JCO_R205:
+ARTCC low boundary:JCO_R220:
+ARTCC low boundary:JCO_R290:
+ARTCC low boundary:JCO_R300:
+ARTCC low boundary:JCO_R305:
+ARTCC low boundary:JCO_R312:
+ARTCC low boundary:JCO_R359:
+ARTCC low boundary:KSE_15DME:
+ARTCC low boundary:KSE_25DME:
+ARTCC low boundary:KSE_30DME:
+ARTCC low boundary:KSE_7DME:
+ARTCC low boundary:KSE_R007:
+ARTCC low boundary:KSE_R020:
+ARTCC low boundary:KSE_R038:
+ARTCC low boundary:KSE_R140:
+ARTCC low boundary:KSE_R236:
+ARTCC low boundary:KSE_R255:
+ARTCC low boundary:KSE_R284:
+ARTCC low boundary:KSE_R335:
+ARTCC low boundary:MRE_10DME:
+ARTCC low boundary:MRE_15DME:
+ARTCC low boundary:MRE_25DME:
+ARTCC low boundary:MRE_30DME:
+ARTCC low boundary:MRE_R029:
+ARTCC low boundary:MRE_R245:
+ARTCC low boundary:MRE_R280:
+ARTCC low boundary:MRE_R325:
+ARTCC low boundary:MVE_30DME:
+ARTCC low boundary:NSE_30DME:
+ARTCC low boundary:NSE_R079:
+ARTCC low boundary:NSE_R240:
+ARTCC low boundary:NSE_R259:
+ARTCC low boundary:OBE_11DME:
+ARTCC low boundary:OBE_15DME:
+ARTCC low boundary:OBE_30DME:
+ARTCC low boundary:OBE_5DME:
+ARTCC low boundary:OBE_R169:
+ARTCC low boundary:OBE_R242:
+ARTCC low boundary:OBE_R345:
+ARTCC low boundary:ODE_25DME:
+ARTCC low boundary:ODE_30DME:
+ARTCC low boundary:ODE_5DME:
+ARTCC low boundary:ODE_R034:
+ARTCC low boundary:ODE_R120:
+ARTCC low boundary:ODE_R214:
+ARTCC low boundary:ODE_R300:
+ARTCC low boundary:RJBB_MVA:
+ARTCC low boundary:RJCB_MVA:
+ARTCC low boundary:RJCC_MVA:
+ARTCC low boundary:RJCH_MVA:
+ARTCC low boundary:RJCK_MVA:
+ARTCC low boundary:RJCN_MVA:
+ARTCC low boundary:RJCO1_3.2NM:
+ARTCC low boundary:RJCO2_3NM:
+ARTCC low boundary:RJCO_MVA:
+ARTCC low boundary:RJEB_MVA:
+ARTCC low boundary:RJFF_MVA:
+ARTCC low boundary:RJFK_MVA:
+ARTCC low boundary:RJFM_MVA:
+ARTCC low boundary:RJFO_MVA:
+ARTCC low boundary:RJFT_MVA:
+ARTCC low boundary:RJFU_MVA:
+ARTCC low boundary:RJFZ_MVA:
 ARTCC low boundary:RJGG_MVA:
+ARTCC low boundary:RJNK_MVA:
+ARTCC low boundary:RJOA_MVA:
+ARTCC low boundary:RJSA_MVA:
+ARTCC low boundary:RJSI_MVA:
+ARTCC low boundary:RJSR_MVA:
+ARTCC low boundary:ROAH_MVA:
+ARTCC low boundary:TBE_13DME:
+ARTCC low boundary:TBE_20DME:
+ARTCC low boundary:TBE_30DME:
+ARTCC low boundary:TBE_50DME:
+ARTCC low boundary:TBE_5DME:
+ARTCC low boundary:TBE_R080:
+ARTCC low boundary:TBE_R110:
+ARTCC low boundary:TBE_R127:
+ARTCC low boundary:TBE_R140:
+ARTCC low boundary:TBE_R187:
+ARTCC low boundary:TBE_R220:
+ARTCC low boundary:TBE_R269:
 ARTCC low boundary:TOKYO_MVA:
+ARTCC low boundary:UWE_20DME:
+ARTCC low boundary:UWE_25DME:
+ARTCC low boundary:UWE_30DME:
+ARTCC low boundary:UWE_5DME:
+ARTCC low boundary:UWE_8DME:
+ARTCC low boundary:UWE_R091:
+ARTCC low boundary:UWE_R112:
+ARTCC low boundary:UWE_R170:
+ARTCC low boundary:UWE_R190:
+ARTCC low boundary:UWE_R210:
+ARTCC low boundary:UWE_R230:
+ARTCC low boundary:UWE_R270:
+ARTCC low boundary:UWE_R310:
+ARTCC low boundary:UWE_R350:
+Airports:RJAA:name
+Airports:RJAA:symbol
+Airports:RJAF:name
+Airports:RJAF:symbol
+Airports:RJAH:name
+Airports:RJAH:symbol
+Airports:RJAK:name
+Airports:RJAK:symbol
+Airports:RJAM:name
+Airports:RJAM:symbol
+Airports:RJAN:name
+Airports:RJAN:symbol
+Airports:RJAW:name
+Airports:RJAW:symbol
+Airports:RJAZ:name
+Airports:RJAZ:symbol
+Airports:RJBB:name
+Airports:RJBB:symbol
+Airports:RJBD:name
+Airports:RJBD:symbol
+Airports:RJBE:name
+Airports:RJBE:symbol
+Airports:RJBH:name
+Airports:RJBH:symbol
+Airports:RJBK:name
+Airports:RJBK:symbol
+Airports:RJBT:name
+Airports:RJBT:symbol
+Airports:RJCB:name
+Airports:RJCB:symbol
+Airports:RJCC:name
+Airports:RJCC:symbol
+Airports:RJCH:name
+Airports:RJCH:symbol
+Airports:RJCJ:name
+Airports:RJCJ:symbol
+Airports:RJCK:name
+Airports:RJCK:symbol
+Airports:RJCM:name
+Airports:RJCM:symbol
+Airports:RJCN:name
+Airports:RJCN:symbol
+Airports:RJCO:name
+Airports:RJCO:symbol
+Airports:RJCR:name
+Airports:RJCR:symbol
+Airports:RJCT:name
+Airports:RJCT:symbol
+Airports:RJCW:name
+Airports:RJCW:symbol
+Airports:RJDA:name
+Airports:RJDA:symbol
+Airports:RJDB:name
+Airports:RJDB:symbol
+Airports:RJDC:name
+Airports:RJDC:symbol
+Airports:RJDK:name
+Airports:RJDK:symbol
+Airports:RJDM:name
+Airports:RJDM:symbol
+Airports:RJDO:name
+Airports:RJDO:symbol
+Airports:RJDT:name
+Airports:RJDT:symbol
+Airports:RJDU:name
+Airports:RJDU:symbol
+Airports:RJEB:name
+Airports:RJEB:symbol
+Airports:RJEC:name
+Airports:RJEC:symbol
+Airports:RJEO:name
+Airports:RJEO:symbol
+Airports:RJER:name
+Airports:RJER:symbol
+Airports:RJFA:name
+Airports:RJFA:symbol
+Airports:RJFC:name
+Airports:RJFC:symbol
+Airports:RJFE:name
+Airports:RJFE:symbol
+Airports:RJFF:name
+Airports:RJFF:symbol
+Airports:RJFG:name
+Airports:RJFG:symbol
+Airports:RJFH:name
+Airports:RJFH:symbol
+Airports:RJFK:name
+Airports:RJFK:symbol
+Airports:RJFM:name
+Airports:RJFM:symbol
+Airports:RJFN:name
+Airports:RJFN:symbol
+Airports:RJFO:name
+Airports:RJFO:symbol
+Airports:RJFR:name
+Airports:RJFR:symbol
+Airports:RJFS:name
+Airports:RJFS:symbol
+Airports:RJFT:name
+Airports:RJFT:symbol
+Airports:RJFU:name
+Airports:RJFU:symbol
+Airports:RJFY:name
+Airports:RJFY:symbol
+Airports:RJFZ:name
+Airports:RJFZ:symbol
+Airports:RJGG:name
+Airports:RJGG:symbol
+Airports:RJKA:name
+Airports:RJKA:symbol
+Airports:RJKB:name
+Airports:RJKB:symbol
+Airports:RJKI:name
+Airports:RJKI:symbol
+Airports:RJKN:name
+Airports:RJKN:symbol
+Airports:RJNA:name
+Airports:RJNA:symbol
+Airports:RJNF:name
+Airports:RJNF:symbol
+Airports:RJNG:name
+Airports:RJNG:symbol
+Airports:RJNH:name
+Airports:RJNH:symbol
+Airports:RJNK:name
+Airports:RJNK:symbol
+Airports:RJNO:name
+Airports:RJNO:symbol
+Airports:RJNS:name
+Airports:RJNS:symbol
+Airports:RJNT:name
+Airports:RJNT:symbol
+Airports:RJNW:name
+Airports:RJNW:symbol
+Airports:RJNY:name
+Airports:RJNY:symbol
+Airports:RJOA:name
+Airports:RJOA:symbol
+Airports:RJOB:name
+Airports:RJOB:symbol
+Airports:RJOC:name
+Airports:RJOC:symbol
+Airports:RJOE:name
+Airports:RJOE:symbol
+Airports:RJOF:name
+Airports:RJOF:symbol
+Airports:RJOH:name
+Airports:RJOH:symbol
+Airports:RJOI:name
+Airports:RJOI:symbol
+Airports:RJOK:name
+Airports:RJOK:symbol
+Airports:RJOM:name
+Airports:RJOM:symbol
+Airports:RJOO:name
+Airports:RJOO:symbol
+Airports:RJOR:name
+Airports:RJOR:symbol
+Airports:RJOS:name
+Airports:RJOS:symbol
+Airports:RJOT:name
+Airports:RJOT:symbol
+Airports:RJOW:name
+Airports:RJOW:symbol
+Airports:RJOY:name
+Airports:RJOY:symbol
+Airports:RJOZ:name
+Airports:RJOZ:symbol
+Airports:RJSA:name
+Airports:RJSA:symbol
+Airports:RJSC:name
+Airports:RJSC:symbol
+Airports:RJSD:name
+Airports:RJSD:symbol
+Airports:RJSF:name
+Airports:RJSF:symbol
+Airports:RJSH:name
+Airports:RJSH:symbol
+Airports:RJSI:name
+Airports:RJSI:symbol
+Airports:RJSK:name
+Airports:RJSK:symbol
+Airports:RJSM:name
+Airports:RJSM:symbol
+Airports:RJSN:name
+Airports:RJSN:symbol
+Airports:RJSO:name
+Airports:RJSO:symbol
+Airports:RJSR:name
+Airports:RJSR:symbol
+Airports:RJSS:name
+Airports:RJSS:symbol
+Airports:RJST:name
+Airports:RJST:symbol
+Airports:RJSU:name
+Airports:RJSU:symbol
+Airports:RJSY:name
+Airports:RJSY:symbol
+Airports:RJTA:name
+Airports:RJTA:symbol
+Airports:RJTC:name
+Airports:RJTC:symbol
+Airports:RJTE:name
+Airports:RJTE:symbol
+Airports:RJTF:name
+Airports:RJTF:symbol
+Airports:RJTH:name
+Airports:RJTH:symbol
+Airports:RJTI:name
+Airports:RJTI:symbol
+Airports:RJTJ:name
+Airports:RJTJ:symbol
+Airports:RJTK:name
+Airports:RJTK:symbol
+Airports:RJTL:name
+Airports:RJTL:symbol
+Airports:RJTO:name
+Airports:RJTO:symbol
+Airports:RJTQ:name
+Airports:RJTQ:symbol
+Airports:RJTR:name
+Airports:RJTR:symbol
+Airports:RJTT:name
+Airports:RJTT:symbol
+Airports:RJTU:name
+Airports:RJTU:symbol
+Airports:RJTY:name
+Airports:RJTY:symbol
+Airports:ROAH:name
+Airports:ROAH:symbol
+Airports:RODE:name
+Airports:RODE:symbol
+Airports:RODN:name
+Airports:RODN:symbol
+Airports:ROIG:name
+Airports:ROIG:symbol
+Airports:ROKJ:name
+Airports:ROKJ:symbol
+Airports:ROKR:name
+Airports:ROKR:symbol
+Airports:ROMD:name
+Airports:ROMD:symbol
+Airports:ROMY:name
+Airports:ROMY:symbol
+Airports:RORA:name
+Airports:RORA:symbol
+Airports:RORE:name
+Airports:RORE:symbol
+Airports:RORH:name
+Airports:RORH:symbol
+Airports:RORK:name
+Airports:RORK:symbol
+Airports:RORS:name
+Airports:RORS:symbol
+Airports:RORT:name
+Airports:RORT:symbol
+Airports:RORY:name
+Airports:RORY:symbol
+Airports:ROTM:name
+Airports:ROTM:symbol
+Airports:ROYN:name
+Airports:ROYN:symbol
 Free Text:INFO_RJAH_ACA\100:freetext
 Free Text:INFO_RJAH_ACA\130:freetext
 Free Text:INFO_RJAH_ACA\18:freetext
@@ -2419,6 +2845,550 @@ Regions:RJTT:polygon
 Regions:RJTY:polygon
 Regions:ROAH:polygon
 Regions:ROKJ @Ryo Matsuno:polygon
+Runways:01-19:centerline
+Runways:01-19:extended centerline 1
+Runways:01-19:extended centerline 1 left base
+Runways:01-19:extended centerline 1 left ticks
+Runways:01-19:extended centerline 1 left vectoring
+Runways:01-19:extended centerline 1 right base
+Runways:01-19:extended centerline 1 right ticks
+Runways:01-19:extended centerline 1 right vectoring
+Runways:01-19:extended centerline 2
+Runways:01-19:extended centerline 2 left base
+Runways:01-19:extended centerline 2 left ticks
+Runways:01-19:extended centerline 2 left vectoring
+Runways:01-19:extended centerline 2 right base
+Runways:01-19:extended centerline 2 right ticks
+Runways:01-19:extended centerline 2 right vectoring
+Runways:01-19:name
+Runways:01L-19R:centerline
+Runways:01L-19R:extended centerline 1
+Runways:01L-19R:extended centerline 1 left base
+Runways:01L-19R:extended centerline 1 left ticks
+Runways:01L-19R:extended centerline 1 left vectoring
+Runways:01L-19R:extended centerline 1 right base
+Runways:01L-19R:extended centerline 1 right ticks
+Runways:01L-19R:extended centerline 1 right vectoring
+Runways:01L-19R:extended centerline 2
+Runways:01L-19R:extended centerline 2 left base
+Runways:01L-19R:extended centerline 2 left ticks
+Runways:01L-19R:extended centerline 2 left vectoring
+Runways:01L-19R:extended centerline 2 right base
+Runways:01L-19R:extended centerline 2 right ticks
+Runways:01L-19R:extended centerline 2 right vectoring
+Runways:01L-19R:name
+Runways:01R-19L:centerline
+Runways:01R-19L:extended centerline 1
+Runways:01R-19L:extended centerline 1 left base
+Runways:01R-19L:extended centerline 1 left ticks
+Runways:01R-19L:extended centerline 1 left vectoring
+Runways:01R-19L:extended centerline 1 right base
+Runways:01R-19L:extended centerline 1 right ticks
+Runways:01R-19L:extended centerline 1 right vectoring
+Runways:01R-19L:extended centerline 2
+Runways:01R-19L:extended centerline 2 left base
+Runways:01R-19L:extended centerline 2 left ticks
+Runways:01R-19L:extended centerline 2 left vectoring
+Runways:01R-19L:extended centerline 2 right base
+Runways:01R-19L:extended centerline 2 right ticks
+Runways:01R-19L:extended centerline 2 right vectoring
+Runways:01R-19L:name
+Runways:02-20:centerline
+Runways:02-20:extended centerline 1
+Runways:02-20:extended centerline 1 left base
+Runways:02-20:extended centerline 1 left ticks
+Runways:02-20:extended centerline 1 left vectoring
+Runways:02-20:extended centerline 1 right base
+Runways:02-20:extended centerline 1 right ticks
+Runways:02-20:extended centerline 1 right vectoring
+Runways:02-20:extended centerline 2
+Runways:02-20:extended centerline 2 left base
+Runways:02-20:extended centerline 2 left ticks
+Runways:02-20:extended centerline 2 left vectoring
+Runways:02-20:extended centerline 2 right base
+Runways:02-20:extended centerline 2 right ticks
+Runways:02-20:extended centerline 2 right vectoring
+Runways:02-20:name
+Runways:03-21:centerline
+Runways:03-21:extended centerline 1
+Runways:03-21:extended centerline 1 left base
+Runways:03-21:extended centerline 1 left ticks
+Runways:03-21:extended centerline 1 left vectoring
+Runways:03-21:extended centerline 1 right base
+Runways:03-21:extended centerline 1 right ticks
+Runways:03-21:extended centerline 1 right vectoring
+Runways:03-21:extended centerline 2
+Runways:03-21:extended centerline 2 left base
+Runways:03-21:extended centerline 2 left ticks
+Runways:03-21:extended centerline 2 left vectoring
+Runways:03-21:extended centerline 2 right base
+Runways:03-21:extended centerline 2 right ticks
+Runways:03-21:extended centerline 2 right vectoring
+Runways:03-21:name
+Runways:03L-21R:centerline
+Runways:03L-21R:extended centerline 1
+Runways:03L-21R:extended centerline 1 left base
+Runways:03L-21R:extended centerline 1 left ticks
+Runways:03L-21R:extended centerline 1 left vectoring
+Runways:03L-21R:extended centerline 1 right base
+Runways:03L-21R:extended centerline 1 right ticks
+Runways:03L-21R:extended centerline 1 right vectoring
+Runways:03L-21R:extended centerline 2
+Runways:03L-21R:extended centerline 2 left base
+Runways:03L-21R:extended centerline 2 left ticks
+Runways:03L-21R:extended centerline 2 left vectoring
+Runways:03L-21R:extended centerline 2 right base
+Runways:03L-21R:extended centerline 2 right ticks
+Runways:03L-21R:extended centerline 2 right vectoring
+Runways:03L-21R:name
+Runways:03R-21L:centerline
+Runways:03R-21L:extended centerline 1
+Runways:03R-21L:extended centerline 1 left base
+Runways:03R-21L:extended centerline 1 left ticks
+Runways:03R-21L:extended centerline 1 left vectoring
+Runways:03R-21L:extended centerline 1 right base
+Runways:03R-21L:extended centerline 1 right ticks
+Runways:03R-21L:extended centerline 1 right vectoring
+Runways:03R-21L:extended centerline 2
+Runways:03R-21L:extended centerline 2 left base
+Runways:03R-21L:extended centerline 2 left ticks
+Runways:03R-21L:extended centerline 2 left vectoring
+Runways:03R-21L:extended centerline 2 right base
+Runways:03R-21L:extended centerline 2 right ticks
+Runways:03R-21L:extended centerline 2 right vectoring
+Runways:03R-21L:name
+Runways:04-22:centerline
+Runways:04-22:extended centerline 1
+Runways:04-22:extended centerline 1 left base
+Runways:04-22:extended centerline 1 left ticks
+Runways:04-22:extended centerline 1 left vectoring
+Runways:04-22:extended centerline 1 right base
+Runways:04-22:extended centerline 1 right ticks
+Runways:04-22:extended centerline 1 right vectoring
+Runways:04-22:extended centerline 2
+Runways:04-22:extended centerline 2 left base
+Runways:04-22:extended centerline 2 left ticks
+Runways:04-22:extended centerline 2 left vectoring
+Runways:04-22:extended centerline 2 right base
+Runways:04-22:extended centerline 2 right ticks
+Runways:04-22:extended centerline 2 right vectoring
+Runways:04-22:name
+Runways:05-23:centerline
+Runways:05-23:extended centerline 1
+Runways:05-23:extended centerline 1 left base
+Runways:05-23:extended centerline 1 left ticks
+Runways:05-23:extended centerline 1 left vectoring
+Runways:05-23:extended centerline 1 right base
+Runways:05-23:extended centerline 1 right ticks
+Runways:05-23:extended centerline 1 right vectoring
+Runways:05-23:extended centerline 2
+Runways:05-23:extended centerline 2 left base
+Runways:05-23:extended centerline 2 left ticks
+Runways:05-23:extended centerline 2 left vectoring
+Runways:05-23:extended centerline 2 right base
+Runways:05-23:extended centerline 2 right ticks
+Runways:05-23:extended centerline 2 right vectoring
+Runways:05-23:name
+Runways:05L-23R:centerline
+Runways:05L-23R:extended centerline 1
+Runways:05L-23R:extended centerline 1 left base
+Runways:05L-23R:extended centerline 1 left ticks
+Runways:05L-23R:extended centerline 1 left vectoring
+Runways:05L-23R:extended centerline 1 right base
+Runways:05L-23R:extended centerline 1 right ticks
+Runways:05L-23R:extended centerline 1 right vectoring
+Runways:05L-23R:extended centerline 2
+Runways:05L-23R:extended centerline 2 left base
+Runways:05L-23R:extended centerline 2 left ticks
+Runways:05L-23R:extended centerline 2 left vectoring
+Runways:05L-23R:extended centerline 2 right base
+Runways:05L-23R:extended centerline 2 right ticks
+Runways:05L-23R:extended centerline 2 right vectoring
+Runways:05L-23R:name
+Runways:05R-23L:centerline
+Runways:05R-23L:extended centerline 1
+Runways:05R-23L:extended centerline 1 left base
+Runways:05R-23L:extended centerline 1 left ticks
+Runways:05R-23L:extended centerline 1 left vectoring
+Runways:05R-23L:extended centerline 1 right base
+Runways:05R-23L:extended centerline 1 right ticks
+Runways:05R-23L:extended centerline 1 right vectoring
+Runways:05R-23L:extended centerline 2
+Runways:05R-23L:extended centerline 2 left base
+Runways:05R-23L:extended centerline 2 left ticks
+Runways:05R-23L:extended centerline 2 left vectoring
+Runways:05R-23L:extended centerline 2 right base
+Runways:05R-23L:extended centerline 2 right ticks
+Runways:05R-23L:extended centerline 2 right vectoring
+Runways:05R-23L:name
+Runways:06-24:centerline
+Runways:06-24:extended centerline 1
+Runways:06-24:extended centerline 1 left base
+Runways:06-24:extended centerline 1 left ticks
+Runways:06-24:extended centerline 1 left vectoring
+Runways:06-24:extended centerline 1 right base
+Runways:06-24:extended centerline 1 right ticks
+Runways:06-24:extended centerline 1 right vectoring
+Runways:06-24:extended centerline 2
+Runways:06-24:extended centerline 2 left base
+Runways:06-24:extended centerline 2 left ticks
+Runways:06-24:extended centerline 2 left vectoring
+Runways:06-24:extended centerline 2 right base
+Runways:06-24:extended centerline 2 right ticks
+Runways:06-24:extended centerline 2 right vectoring
+Runways:06-24:name
+Runways:06L-24R:centerline
+Runways:06L-24R:extended centerline 1
+Runways:06L-24R:extended centerline 1 left base
+Runways:06L-24R:extended centerline 1 left ticks
+Runways:06L-24R:extended centerline 1 left vectoring
+Runways:06L-24R:extended centerline 1 right base
+Runways:06L-24R:extended centerline 1 right ticks
+Runways:06L-24R:extended centerline 1 right vectoring
+Runways:06L-24R:extended centerline 2
+Runways:06L-24R:extended centerline 2 left base
+Runways:06L-24R:extended centerline 2 left ticks
+Runways:06L-24R:extended centerline 2 left vectoring
+Runways:06L-24R:extended centerline 2 right base
+Runways:06L-24R:extended centerline 2 right ticks
+Runways:06L-24R:extended centerline 2 right vectoring
+Runways:06L-24R:name
+Runways:06R-24L:centerline
+Runways:06R-24L:extended centerline 1
+Runways:06R-24L:extended centerline 1 left base
+Runways:06R-24L:extended centerline 1 left ticks
+Runways:06R-24L:extended centerline 1 left vectoring
+Runways:06R-24L:extended centerline 1 right base
+Runways:06R-24L:extended centerline 1 right ticks
+Runways:06R-24L:extended centerline 1 right vectoring
+Runways:06R-24L:extended centerline 2
+Runways:06R-24L:extended centerline 2 left base
+Runways:06R-24L:extended centerline 2 left ticks
+Runways:06R-24L:extended centerline 2 left vectoring
+Runways:06R-24L:extended centerline 2 right base
+Runways:06R-24L:extended centerline 2 right ticks
+Runways:06R-24L:extended centerline 2 right vectoring
+Runways:06R-24L:name
+Runways:07-25:centerline
+Runways:07-25:extended centerline 1
+Runways:07-25:extended centerline 1 left base
+Runways:07-25:extended centerline 1 left ticks
+Runways:07-25:extended centerline 1 left vectoring
+Runways:07-25:extended centerline 1 right base
+Runways:07-25:extended centerline 1 right ticks
+Runways:07-25:extended centerline 1 right vectoring
+Runways:07-25:extended centerline 2
+Runways:07-25:extended centerline 2 left base
+Runways:07-25:extended centerline 2 left ticks
+Runways:07-25:extended centerline 2 left vectoring
+Runways:07-25:extended centerline 2 right base
+Runways:07-25:extended centerline 2 right ticks
+Runways:07-25:extended centerline 2 right vectoring
+Runways:07-25:name
+Runways:08-26:centerline
+Runways:08-26:extended centerline 1
+Runways:08-26:extended centerline 1 left base
+Runways:08-26:extended centerline 1 left ticks
+Runways:08-26:extended centerline 1 left vectoring
+Runways:08-26:extended centerline 1 right base
+Runways:08-26:extended centerline 1 right ticks
+Runways:08-26:extended centerline 1 right vectoring
+Runways:08-26:extended centerline 2
+Runways:08-26:extended centerline 2 left base
+Runways:08-26:extended centerline 2 left ticks
+Runways:08-26:extended centerline 2 left vectoring
+Runways:08-26:extended centerline 2 right base
+Runways:08-26:extended centerline 2 right ticks
+Runways:08-26:extended centerline 2 right vectoring
+Runways:08-26:name
+Runways:08L-26R:centerline
+Runways:08L-26R:extended centerline 1
+Runways:08L-26R:extended centerline 1 left base
+Runways:08L-26R:extended centerline 1 left ticks
+Runways:08L-26R:extended centerline 1 left vectoring
+Runways:08L-26R:extended centerline 1 right base
+Runways:08L-26R:extended centerline 1 right ticks
+Runways:08L-26R:extended centerline 1 right vectoring
+Runways:08L-26R:extended centerline 2
+Runways:08L-26R:extended centerline 2 left base
+Runways:08L-26R:extended centerline 2 left ticks
+Runways:08L-26R:extended centerline 2 left vectoring
+Runways:08L-26R:extended centerline 2 right base
+Runways:08L-26R:extended centerline 2 right ticks
+Runways:08L-26R:extended centerline 2 right vectoring
+Runways:08L-26R:name
+Runways:08R-26L:centerline
+Runways:08R-26L:extended centerline 1
+Runways:08R-26L:extended centerline 1 left base
+Runways:08R-26L:extended centerline 1 left ticks
+Runways:08R-26L:extended centerline 1 left vectoring
+Runways:08R-26L:extended centerline 1 right base
+Runways:08R-26L:extended centerline 1 right ticks
+Runways:08R-26L:extended centerline 1 right vectoring
+Runways:08R-26L:extended centerline 2
+Runways:08R-26L:extended centerline 2 left base
+Runways:08R-26L:extended centerline 2 left ticks
+Runways:08R-26L:extended centerline 2 left vectoring
+Runways:08R-26L:extended centerline 2 right base
+Runways:08R-26L:extended centerline 2 right ticks
+Runways:08R-26L:extended centerline 2 right vectoring
+Runways:08R-26L:name
+Runways:09-27:centerline
+Runways:09-27:extended centerline 1
+Runways:09-27:extended centerline 1 left base
+Runways:09-27:extended centerline 1 left ticks
+Runways:09-27:extended centerline 1 left vectoring
+Runways:09-27:extended centerline 1 right base
+Runways:09-27:extended centerline 1 right ticks
+Runways:09-27:extended centerline 1 right vectoring
+Runways:09-27:extended centerline 2
+Runways:09-27:extended centerline 2 left base
+Runways:09-27:extended centerline 2 left ticks
+Runways:09-27:extended centerline 2 left vectoring
+Runways:09-27:extended centerline 2 right base
+Runways:09-27:extended centerline 2 right ticks
+Runways:09-27:extended centerline 2 right vectoring
+Runways:09-27:name
+Runways:10-28:centerline
+Runways:10-28:extended centerline 1
+Runways:10-28:extended centerline 1 left base
+Runways:10-28:extended centerline 1 left ticks
+Runways:10-28:extended centerline 1 left vectoring
+Runways:10-28:extended centerline 1 right base
+Runways:10-28:extended centerline 1 right ticks
+Runways:10-28:extended centerline 1 right vectoring
+Runways:10-28:extended centerline 2
+Runways:10-28:extended centerline 2 left base
+Runways:10-28:extended centerline 2 left ticks
+Runways:10-28:extended centerline 2 left vectoring
+Runways:10-28:extended centerline 2 right base
+Runways:10-28:extended centerline 2 right ticks
+Runways:10-28:extended centerline 2 right vectoring
+Runways:10-28:name
+Runways:11-29:centerline
+Runways:11-29:extended centerline 1
+Runways:11-29:extended centerline 1 left base
+Runways:11-29:extended centerline 1 left ticks
+Runways:11-29:extended centerline 1 left vectoring
+Runways:11-29:extended centerline 1 right base
+Runways:11-29:extended centerline 1 right ticks
+Runways:11-29:extended centerline 1 right vectoring
+Runways:11-29:extended centerline 2
+Runways:11-29:extended centerline 2 left base
+Runways:11-29:extended centerline 2 left ticks
+Runways:11-29:extended centerline 2 left vectoring
+Runways:11-29:extended centerline 2 right base
+Runways:11-29:extended centerline 2 right ticks
+Runways:11-29:extended centerline 2 right vectoring
+Runways:11-29:name
+Runways:12-30:centerline
+Runways:12-30:extended centerline 1
+Runways:12-30:extended centerline 1 left base
+Runways:12-30:extended centerline 1 left ticks
+Runways:12-30:extended centerline 1 left vectoring
+Runways:12-30:extended centerline 1 right base
+Runways:12-30:extended centerline 1 right ticks
+Runways:12-30:extended centerline 1 right vectoring
+Runways:12-30:extended centerline 2
+Runways:12-30:extended centerline 2 left base
+Runways:12-30:extended centerline 2 left ticks
+Runways:12-30:extended centerline 2 left vectoring
+Runways:12-30:extended centerline 2 right base
+Runways:12-30:extended centerline 2 right ticks
+Runways:12-30:extended centerline 2 right vectoring
+Runways:12-30:name
+Runways:13-31:centerline
+Runways:13-31:extended centerline 1
+Runways:13-31:extended centerline 1 left base
+Runways:13-31:extended centerline 1 left ticks
+Runways:13-31:extended centerline 1 left vectoring
+Runways:13-31:extended centerline 1 right base
+Runways:13-31:extended centerline 1 right ticks
+Runways:13-31:extended centerline 1 right vectoring
+Runways:13-31:extended centerline 2
+Runways:13-31:extended centerline 2 left base
+Runways:13-31:extended centerline 2 left ticks
+Runways:13-31:extended centerline 2 left vectoring
+Runways:13-31:extended centerline 2 right base
+Runways:13-31:extended centerline 2 right ticks
+Runways:13-31:extended centerline 2 right vectoring
+Runways:13-31:name
+Runways:14-32:centerline
+Runways:14-32:extended centerline 1
+Runways:14-32:extended centerline 1 left base
+Runways:14-32:extended centerline 1 left ticks
+Runways:14-32:extended centerline 1 left vectoring
+Runways:14-32:extended centerline 1 right base
+Runways:14-32:extended centerline 1 right ticks
+Runways:14-32:extended centerline 1 right vectoring
+Runways:14-32:extended centerline 2
+Runways:14-32:extended centerline 2 left base
+Runways:14-32:extended centerline 2 left ticks
+Runways:14-32:extended centerline 2 left vectoring
+Runways:14-32:extended centerline 2 right base
+Runways:14-32:extended centerline 2 right ticks
+Runways:14-32:extended centerline 2 right vectoring
+Runways:14-32:name
+Runways:14L-32R:centerline
+Runways:14L-32R:extended centerline 1
+Runways:14L-32R:extended centerline 1 left base
+Runways:14L-32R:extended centerline 1 left ticks
+Runways:14L-32R:extended centerline 1 left vectoring
+Runways:14L-32R:extended centerline 1 right base
+Runways:14L-32R:extended centerline 1 right ticks
+Runways:14L-32R:extended centerline 1 right vectoring
+Runways:14L-32R:extended centerline 2
+Runways:14L-32R:extended centerline 2 left base
+Runways:14L-32R:extended centerline 2 left ticks
+Runways:14L-32R:extended centerline 2 left vectoring
+Runways:14L-32R:extended centerline 2 right base
+Runways:14L-32R:extended centerline 2 right ticks
+Runways:14L-32R:extended centerline 2 right vectoring
+Runways:14L-32R:name
+Runways:14R-32L:centerline
+Runways:14R-32L:extended centerline 1
+Runways:14R-32L:extended centerline 1 left base
+Runways:14R-32L:extended centerline 1 left ticks
+Runways:14R-32L:extended centerline 1 left vectoring
+Runways:14R-32L:extended centerline 1 right base
+Runways:14R-32L:extended centerline 1 right ticks
+Runways:14R-32L:extended centerline 1 right vectoring
+Runways:14R-32L:extended centerline 2
+Runways:14R-32L:extended centerline 2 left base
+Runways:14R-32L:extended centerline 2 left ticks
+Runways:14R-32L:extended centerline 2 left vectoring
+Runways:14R-32L:extended centerline 2 right base
+Runways:14R-32L:extended centerline 2 right ticks
+Runways:14R-32L:extended centerline 2 right vectoring
+Runways:14R-32L:name
+Runways:15-33:centerline
+Runways:15-33:extended centerline 1
+Runways:15-33:extended centerline 1 left base
+Runways:15-33:extended centerline 1 left ticks
+Runways:15-33:extended centerline 1 left vectoring
+Runways:15-33:extended centerline 1 right base
+Runways:15-33:extended centerline 1 right ticks
+Runways:15-33:extended centerline 1 right vectoring
+Runways:15-33:extended centerline 2
+Runways:15-33:extended centerline 2 left base
+Runways:15-33:extended centerline 2 left ticks
+Runways:15-33:extended centerline 2 left vectoring
+Runways:15-33:extended centerline 2 right base
+Runways:15-33:extended centerline 2 right ticks
+Runways:15-33:extended centerline 2 right vectoring
+Runways:15-33:name
+Runways:16-34:centerline
+Runways:16-34:extended centerline 1
+Runways:16-34:extended centerline 1 left base
+Runways:16-34:extended centerline 1 left ticks
+Runways:16-34:extended centerline 1 left vectoring
+Runways:16-34:extended centerline 1 right base
+Runways:16-34:extended centerline 1 right ticks
+Runways:16-34:extended centerline 1 right vectoring
+Runways:16-34:extended centerline 2
+Runways:16-34:extended centerline 2 left base
+Runways:16-34:extended centerline 2 left ticks
+Runways:16-34:extended centerline 2 left vectoring
+Runways:16-34:extended centerline 2 right base
+Runways:16-34:extended centerline 2 right ticks
+Runways:16-34:extended centerline 2 right vectoring
+Runways:16-34:name
+Runways:16L-34R:centerline
+Runways:16L-34R:extended centerline 1
+Runways:16L-34R:extended centerline 1 left base
+Runways:16L-34R:extended centerline 1 left ticks
+Runways:16L-34R:extended centerline 1 left vectoring
+Runways:16L-34R:extended centerline 1 right base
+Runways:16L-34R:extended centerline 1 right ticks
+Runways:16L-34R:extended centerline 1 right vectoring
+Runways:16L-34R:extended centerline 2
+Runways:16L-34R:extended centerline 2 left base
+Runways:16L-34R:extended centerline 2 left ticks
+Runways:16L-34R:extended centerline 2 left vectoring
+Runways:16L-34R:extended centerline 2 right base
+Runways:16L-34R:extended centerline 2 right ticks
+Runways:16L-34R:extended centerline 2 right vectoring
+Runways:16L-34R:name
+Runways:16R-34L:centerline
+Runways:16R-34L:extended centerline 1
+Runways:16R-34L:extended centerline 1 left base
+Runways:16R-34L:extended centerline 1 left ticks
+Runways:16R-34L:extended centerline 1 left vectoring
+Runways:16R-34L:extended centerline 1 right base
+Runways:16R-34L:extended centerline 1 right ticks
+Runways:16R-34L:extended centerline 1 right vectoring
+Runways:16R-34L:extended centerline 2
+Runways:16R-34L:extended centerline 2 left base
+Runways:16R-34L:extended centerline 2 left ticks
+Runways:16R-34L:extended centerline 2 left vectoring
+Runways:16R-34L:extended centerline 2 right base
+Runways:16R-34L:extended centerline 2 right ticks
+Runways:16R-34L:extended centerline 2 right vectoring
+Runways:16R-34L:name
+Runways:17-35:centerline
+Runways:17-35:extended centerline 1
+Runways:17-35:extended centerline 1 left base
+Runways:17-35:extended centerline 1 left ticks
+Runways:17-35:extended centerline 1 left vectoring
+Runways:17-35:extended centerline 1 right base
+Runways:17-35:extended centerline 1 right ticks
+Runways:17-35:extended centerline 1 right vectoring
+Runways:17-35:extended centerline 2
+Runways:17-35:extended centerline 2 left base
+Runways:17-35:extended centerline 2 left ticks
+Runways:17-35:extended centerline 2 left vectoring
+Runways:17-35:extended centerline 2 right base
+Runways:17-35:extended centerline 2 right ticks
+Runways:17-35:extended centerline 2 right vectoring
+Runways:17-35:name
+Runways:18-36:centerline
+Runways:18-36:extended centerline 1
+Runways:18-36:extended centerline 1 left base
+Runways:18-36:extended centerline 1 left ticks
+Runways:18-36:extended centerline 1 left vectoring
+Runways:18-36:extended centerline 1 right base
+Runways:18-36:extended centerline 1 right ticks
+Runways:18-36:extended centerline 1 right vectoring
+Runways:18-36:extended centerline 2
+Runways:18-36:extended centerline 2 left base
+Runways:18-36:extended centerline 2 left ticks
+Runways:18-36:extended centerline 2 left vectoring
+Runways:18-36:extended centerline 2 right base
+Runways:18-36:extended centerline 2 right ticks
+Runways:18-36:extended centerline 2 right vectoring
+Runways:18-36:name
+Runways:18L-36R:centerline
+Runways:18L-36R:extended centerline 1
+Runways:18L-36R:extended centerline 1 left base
+Runways:18L-36R:extended centerline 1 left ticks
+Runways:18L-36R:extended centerline 1 left vectoring
+Runways:18L-36R:extended centerline 1 right base
+Runways:18L-36R:extended centerline 1 right ticks
+Runways:18L-36R:extended centerline 1 right vectoring
+Runways:18L-36R:extended centerline 2
+Runways:18L-36R:extended centerline 2 left base
+Runways:18L-36R:extended centerline 2 left ticks
+Runways:18L-36R:extended centerline 2 left vectoring
+Runways:18L-36R:extended centerline 2 right base
+Runways:18L-36R:extended centerline 2 right ticks
+Runways:18L-36R:extended centerline 2 right vectoring
+Runways:18L-36R:name
+Runways:18R-36L:centerline
+Runways:18R-36L:extended centerline 1
+Runways:18R-36L:extended centerline 1 left base
+Runways:18R-36L:extended centerline 1 left ticks
+Runways:18R-36L:extended centerline 1 left vectoring
+Runways:18R-36L:extended centerline 1 right base
+Runways:18R-36L:extended centerline 1 right ticks
+Runways:18R-36L:extended centerline 1 right vectoring
+Runways:18R-36L:extended centerline 2
+Runways:18R-36L:extended centerline 2 left base
+Runways:18R-36L:extended centerline 2 left ticks
+Runways:18R-36L:extended centerline 2 left vectoring
+Runways:18R-36L:extended centerline 2 right base
+Runways:18R-36L:extended centerline 2 right ticks
+Runways:18R-36L:extended centerline 2 right vectoring
+Runways:18R-36L:name
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -2432,4 +3402,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-283226173.483951:-350869348.863487:279204456.562371:294553128.056971
+WINDOWAREA:0.000000:0.000000:0.000000:0.000000
