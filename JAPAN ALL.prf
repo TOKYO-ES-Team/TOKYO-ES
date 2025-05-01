@@ -58,7 +58,19 @@ LastSession	callsign	RJOA_I_TWR
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 RecentFiles	Recent1	\All\ASRs\JAPAN.asr
+<<<<<<< HEAD
 RecentFiles	Recent3	\All\Sectors\RJTG.sct
+=======
+RecentFiles	Recent2	\All\ASRs\ALL.asr
+RecentFiles	Recent3	\All\ASRs\TOKYO_ES.asr
+RecentFiles	Recent4	\All\ASRs\RJFK_APP.asr
+RecentFiles	Recent5	\All\ASRs\RJTG_CTR.asr
+RecentFiles	Recent6	\All\ASRs\RJTT_APP.asr
+RecentFiles	Recent7	\All\ASRs\RJTG_FSS.asr
+RecentFiles	Recent8	\All\ASRs\RJBG_T_CTR.asr
+RecentFiles	Recent9	\All\ASRs\RJDG_CTR.asr
+RecentFiles	Recent10	\All\ASRs\RJFF_APP.asr
+>>>>>>> 2cb35c1701123dfdb968f8d1bb1fa020ffb84cd0
 LastSession	server	AUTOMATIC
 LastSession	atis_freq4	118000
 LastSession	atis_freq3	118000
