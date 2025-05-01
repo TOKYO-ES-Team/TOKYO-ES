@@ -1,8 +1,3 @@
-;Mika ES Japan
-;VATSIM Japan
-;VRC and EuroScope ATC sector file for VATSIM Japan
-;AIRAC cycle 2504(2025-04 - 23)
-
 #define AGATE-C 16711680
 #define AQUA 16776960
 #define BLACK 0
@@ -47,6 +42,12 @@
 #define YELLOW 65535
 #define ZLAHI-C 4144959
 #define ZLALO-C 5592405
+
+[INFO]
+;Mika ES Japan
+;VATSIM Japan
+;VRC and EuroScope ATC sector file for VATSIM Japan
+;AIRAC cycle 2504(2025-04 - 23)
 
 
 [AIRPORT]
