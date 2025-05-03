@@ -28,7 +28,7 @@ m_Column:ASSR:5:1:60:31:31:1::::1:0.0
 END
 SEL
 m_Visible:1
-m_X:770
+m_X:343
 m_Y:1060
 m_LineNumber:20
 m_Resizable:1

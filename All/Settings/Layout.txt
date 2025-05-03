@@ -31,13 +31,13 @@ m_ConnectSELtoSIL:0
 m_ConnectDEPtoSEL:0
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
-m_ScreenPosition:1
+m_ScreenPosition:5
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1271
 m_PlanesListY:24
-m_MetarListX:1112
-m_MetarListY:953
+m_MetarListX:685
+m_MetarListY:888
 m_VoiceListX:1027
 m_VoiceListY:380
 m_ControllerListX:1147

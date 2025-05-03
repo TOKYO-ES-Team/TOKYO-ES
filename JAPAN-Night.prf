@@ -45,16 +45,16 @@ Sounds	Sound16	\All\Sounds\handoff_refused.wav
 Sounds	Sound17	\All\Sounds\pointout.wav
 Sounds	Sound18	\All\Sounds\startup.wav
 LastSession	connecttype	0
-LastSession	facility	4
-LastSession	rating	1
+LastSession	facility	5
+LastSession	rating	4
 LastSession	tovatsim	1
-LastSession	range	50
+LastSession	range	150
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 LastSession	atis_letter	67
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Standard ES radar screen
-LastSession	callsign	RJOA_I_TWR
+LastSession	callsign	RJFU_I_APP
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 RecentFiles	Recent1	\All\ASRs\JAPAN.asr
