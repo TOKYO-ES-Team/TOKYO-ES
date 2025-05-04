@@ -2254,6 +2254,23 @@ Free Text:RJSS\6:freetext
 Free Text:RJSS\7:freetext
 Free Text:RJSS\8:freetext
 Free Text:RJSS\9:freetext
+Free Text:RJSS\A1:freetext
+Free Text:RJSS\A2:freetext
+Free Text:RJSS\A3:freetext
+Free Text:RJSS\A4:freetext
+Free Text:RJSS\B1:freetext
+Free Text:RJSS\B2:freetext
+Free Text:RJSS\B3:freetext
+Free Text:RJSS\B4:freetext
+Free Text:RJSS\B5:freetext
+Free Text:RJSS\B6:freetext
+Free Text:RJSS\C1:freetext
+Free Text:RJSS\C2:freetext
+Free Text:RJSS\C3:freetext
+Free Text:RJSS\C4:freetext
+Free Text:RJSS\C5:freetext
+Free Text:RJSS\C6:freetext
+Free Text:RJSS\D1:freetext
 Free Text:RJSY\1:freetext
 Free Text:RJSY\2:freetext
 Free Text:RJSY\3:freetext
@@ -2806,6 +2823,8 @@ Free Text:RORS\S7L:freetext
 Free Text:RORS\S7R:freetext
 Free Text:RORT\1:freetext
 Free Text:RORT\2:freetext
+Geo:GEO:
+Geo:JAPANCoastline:
 Geo:RJAA:
 Geo:RJAW:
 Geo:RJBB @yuuki_hj:
@@ -2824,6 +2843,7 @@ Geo:RJOM:
 Geo:RJOO:
 Geo:RJOR:
 Geo:RJSI @Ryo Matsuno:
+Geo:RJSS:
 Geo:RJTT:
 Geo:RJTY:
 Geo:ROAH:
@@ -2846,6 +2866,7 @@ Regions:RJOM:polygon
 Regions:RJOO:polygon
 Regions:RJOR:polygon
 Regions:RJSI @Ryo Matsuno:polygon
+Regions:RJSS:polygon
 Regions:RJTT:polygon
 Regions:RJTY:polygon
 Regions:ROAH:polygon
@@ -5263,4 +5284,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-7.055207:112.550234:69.080326:170.774172
+WINDOWAREA:9.540137:118.097513:55.838250:153.503563
