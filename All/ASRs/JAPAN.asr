@@ -2831,6 +2831,7 @@ Geo:RJBB @yuuki_hj:
 Geo:RJBE:
 Geo:RJCC:
 Geo:RJCN:
+Geo:RJCW:
 Geo:RJFF:
 Geo:RJFK:
 Geo:RJFM:
@@ -2854,6 +2855,7 @@ Regions:RJBB @yuuki_hj:polygon
 Regions:RJBE:polygon
 Regions:RJCC:polygon
 Regions:RJCN:polygon
+Regions:RJCW:polygon
 Regions:RJFF:polygon
 Regions:RJFK:polygon
 Regions:RJFM:polygon
@@ -5284,4 +5286,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:26.240724:124.052554:38.377497:137.980220
+WINDOWAREA:5.112342:99.112693:62.984985:165.524981
