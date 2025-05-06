@@ -1,0 +1,4 @@
+;-FIND
+^ROAH_ACA\s+(N\d+\.\d+\.\d+\.\d+)\s+E(\d+\.\d+\.\d+\.\d+)\s+(N\d+\.\d+\.\d+\.\d+)\s+E(\d+\.\d+\.\d+\.\d+)
+;-CHANGE
+COORD:$1 :E$2\nCOORD:$3:E$4
