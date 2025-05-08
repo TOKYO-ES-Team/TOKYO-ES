@@ -2800,6 +2800,15 @@ Free Text:ROIG\6:freetext
 Free Text:ROIG\7:freetext
 Free Text:ROIG\8:freetext
 Free Text:ROIG\9:freetext
+Free Text:ROIG\P1:freetext
+Free Text:ROIG\P2:freetext
+Free Text:ROIG\P3:freetext
+Free Text:ROIG\P4:freetext
+Free Text:ROIG\T1:freetext
+Free Text:ROIG\T2:freetext
+Free Text:ROIG\T3:freetext
+Free Text:ROIG\T4:freetext
+Free Text:ROIG\T5:freetext
 Free Text:ROKJ\1:freetext
 Free Text:ROKJ\2:freetext
 Free Text:ROKJ\3:freetext
@@ -2848,6 +2857,7 @@ Geo:RJSS:
 Geo:RJTT:
 Geo:RJTY:
 Geo:ROAH:
+Geo:ROIG:
 Geo:ROKJ @Ryo Matsuno:
 Regions:RJAA:polygon
 Regions:RJAW:polygon
@@ -2872,6 +2882,7 @@ Regions:RJSS:polygon
 Regions:RJTT:polygon
 Regions:RJTY:polygon
 Regions:ROAH:polygon
+Regions:ROIG:polygon
 Regions:ROKJ @Ryo Matsuno:polygon
 Runways:RJAA 16L-34R:centerline
 Runways:RJAA 16L-34R:extended centerline 1
@@ -5286,4 +5297,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:5.112342:99.112693:62.984985:165.524981
+WINDOWAREA:14.099781:118.182981:51.138272:160.686845
