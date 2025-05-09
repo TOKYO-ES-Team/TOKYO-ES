@@ -1,4 +1,4 @@
-m_ShowControllers:1
+m_ShowControllers:0
 m_ShowAircraft:0
 m_ShowTextMessages:0
 m_ShowTitle:1
