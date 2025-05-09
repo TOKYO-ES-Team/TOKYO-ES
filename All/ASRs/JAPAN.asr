@@ -2855,7 +2855,6 @@ Geo:RJTY:
 Geo:ROAH:
 Geo:ROIG:
 Geo:ROKJ @Ryo Matsuno:
-Regions:5658198:polygon
 Regions:RJAA:polygon
 Regions:RJAW:polygon
 Regions:RJBB @yuuki_hj:polygon
@@ -2881,6 +2880,8 @@ Regions:RJTY:polygon
 Regions:ROAH:polygon
 Regions:ROIG:polygon
 Regions:ROKJ @Ryo Matsuno:polygon
+Regions:ROYN:polygon
+Regions:noname:polygon
 Runways:RJAA 16L-34R:centerline
 Runways:RJAA 16L-34R:extended centerline 1
 Runways:RJAA 16L-34R:extended centerline 1 left base
@@ -5294,4 +5295,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:33.546859:130.356136:33.636413:130.561672
+WINDOWAREA:33.563552:130.400238:33.609403:130.505473
