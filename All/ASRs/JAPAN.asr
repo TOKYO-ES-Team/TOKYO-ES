@@ -838,11 +838,7 @@ Free Text:INFO_TOKYO_MVA\36 :freetext
 Free Text:INFO_TOKYO_MVA\40 :freetext
 Free Text:INFO_TOKYO_MVA\50 :freetext
 Free Text:INFO_TOKYO_MVA\60 :freetext
-Free Text:INFO_TOKYO_MVA\60　:freetext
 Free Text:INFO_TOKYO_MVA\70 :freetext
-Free Text:INFO_TOKYO_MVA\70　:freetext
-Free Text:INFO_TOKYO_MVA\80　:freetext
-Free Text:INFO_TOKYO_MVA\90　:freetext
 Free Text:RJAA\100A:freetext
 Free Text:RJAA\100B:freetext
 Free Text:RJAA\100C:freetext
@@ -2859,6 +2855,7 @@ Geo:RJTY:
 Geo:ROAH:
 Geo:ROIG:
 Geo:ROKJ @Ryo Matsuno:
+Regions:5658198:polygon
 Regions:RJAA:polygon
 Regions:RJAW:polygon
 Regions:RJBB @yuuki_hj:polygon
@@ -5297,4 +5294,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:14.099781:118.182981:51.138272:160.686845
+WINDOWAREA:33.546859:130.356136:33.636413:130.561672
