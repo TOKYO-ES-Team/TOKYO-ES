@@ -5310,7 +5310,7 @@ Runways:ROYN 08-26:extended centerline 2 right ticks
 Runways:ROYN 08-26:extended centerline 2 right vectoring
 Runways:ROYN 08-26:name
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:5

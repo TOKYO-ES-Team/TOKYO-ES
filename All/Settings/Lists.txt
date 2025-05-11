@@ -29,7 +29,7 @@ END
 SEL
 m_Visible:1
 m_X:770
-m_Y:976
+m_Y:964
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:5
@@ -49,9 +49,9 @@ m_Column:A/S:4:1:60:31:31:1::::1:0.0
 m_Column:S/Pad:7:1:19:29:0:1::::1:0.0
 END
 DEP
-m_Visible:0
-m_X:228
-m_Y:950
+m_Visible:1
+m_X:0
+m_Y:24
 m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1
