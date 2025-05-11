@@ -838,7 +838,11 @@ Free Text:INFO_TOKYO_MVA\36 :freetext
 Free Text:INFO_TOKYO_MVA\40 :freetext
 Free Text:INFO_TOKYO_MVA\50 :freetext
 Free Text:INFO_TOKYO_MVA\60 :freetext
+Free Text:INFO_TOKYO_MVA\60　:freetext
 Free Text:INFO_TOKYO_MVA\70 :freetext
+Free Text:INFO_TOKYO_MVA\70　:freetext
+Free Text:INFO_TOKYO_MVA\80　:freetext
+Free Text:INFO_TOKYO_MVA\90　:freetext
 Free Text:RJAA\100A:freetext
 Free Text:RJAA\100B:freetext
 Free Text:RJAA\100C:freetext
@@ -2177,6 +2181,24 @@ Free Text:RJOR\EAST APRON:freetext
 Free Text:RJOR\EAST TWY:freetext
 Free Text:RJOR\SMALL APRON:freetext
 Free Text:RJOR\WEST TWY:freetext
+Free Text:RJOS\1:freetext
+Free Text:RJOS\2:freetext
+Free Text:RJOS\3:freetext
+Free Text:RJOS\4:freetext
+Free Text:RJOS\N-1:freetext
+Free Text:RJOS\N-2:freetext
+Free Text:RJOS\N-3:freetext
+Free Text:RJOS\N-4:freetext
+Free Text:RJOS\N-5:freetext
+Free Text:RJOS\N-6:freetext
+Free Text:RJOS\NORTH PARALLEL:freetext
+Free Text:RJOS\SOUTH PARALLEL:freetext
+Free Text:RJOS\SOUTH-1:freetext
+Free Text:RJOS\SOUTH-2:freetext
+Free Text:RJOS\SOUTH-3:freetext
+Free Text:RJOS\SOUTH-4:freetext
+Free Text:RJOS\SOUTH-5:freetext
+Free Text:RJOS\SOUTH-6:freetext
 Free Text:RJOT\P1:freetext
 Free Text:RJOT\P2:freetext
 Free Text:RJOT\P3:freetext
@@ -2848,6 +2870,7 @@ Geo:RJOK:
 Geo:RJOM:
 Geo:RJOO:
 Geo:RJOR:
+Geo:RJOS:
 Geo:RJSI @Ryo Matsuno:
 Geo:RJSS:
 Geo:RJTT:
@@ -2855,6 +2878,8 @@ Geo:RJTY:
 Geo:ROAH:
 Geo:ROIG:
 Geo:ROKJ @Ryo Matsuno:
+Geo:RORH:
+Regions:3421236:polygon
 Regions:RJAA:polygon
 Regions:RJAW:polygon
 Regions:RJBB @yuuki_hj:polygon
@@ -2873,6 +2898,7 @@ Regions:RJOK:polygon
 Regions:RJOM:polygon
 Regions:RJOO:polygon
 Regions:RJOR:polygon
+Regions:RJOS:polygon
 Regions:RJSI @Ryo Matsuno:polygon
 Regions:RJSS:polygon
 Regions:RJTT:polygon
@@ -2880,6 +2906,7 @@ Regions:RJTY:polygon
 Regions:ROAH:polygon
 Regions:ROIG:polygon
 Regions:ROKJ @Ryo Matsuno:polygon
+Regions:RORH:polygon
 Regions:ROYN:polygon
 Regions:noname:polygon
 Runways:RJAA 16L-34R:centerline
@@ -5295,4 +5322,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:33.569890:130.403908:33.606571:130.488096
+WINDOWAREA:13.732067:117.420819:51.659673:160.944995
