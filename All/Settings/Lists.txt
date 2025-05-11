@@ -16,7 +16,7 @@ m_Column:ETN:5:1:50:0:0:1::::1:0.0
 m_Column:PEL:4:1:49:23:23:1::::1:0.0
 m_Column:ETA:5:1:54:0:0:1::::1:0.0
 m_Column:ADEP:4:1:61:0:0:1::::1:0.0
-m_Column:™:1:1:62:0:0:1::::1:0.0
+m_Column:ï¿½:1:1:62:0:0:1::::1:0.0
 m_Column:FR:2:1:63:0:0:1::::1:0.0
 m_Column:ADES:4:1:17:7:0:1::::1:0.0
 m_Column:COPX:5:0:51:22:22:1::::1:0.0
@@ -28,8 +28,8 @@ m_Column:ASSR:5:1:60:31:31:1::::1:0.0
 END
 SEL
 m_Visible:1
-m_X:173
-m_Y:50
+m_X:770
+m_Y:964
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:-13
@@ -52,9 +52,9 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:49
-m_LineNumber:0
-m_Resizable:1
+m_Y:24
+m_LineNumber:6
+m_Resizable:0
 m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column:C/S:7:1:9:8:0:1::::0:0.0

@@ -1,6 +1,7 @@
 version.txt
 *.rwy
+ipaddr.txt
 
-# Config files
-TopSky.prf
+# TopSky
 TopSky/
+TopSky.prf
