@@ -1,0 +1,2 @@
+.pdc $aircraft -PRE DEPATRUE CLEARANCE- $aircraft CLRD TO $arr via $sid OFF RWY $deprwy. MAINTAIN $1, EXPECT $cruise. DEP FREQ $3. SQ $asquawk. REPORT WHEN READY TO PUSH AND STARTUP.
+.tdc -TEXT CLEARANCE- $aircraft CLRD TO $arr via $1 RWY $2. CLIMB AND MAINTAIN $cruise. DEP FREQ $3. SQ $squawk. REPORT WHEN READY TO PUSH AND STARTUP.

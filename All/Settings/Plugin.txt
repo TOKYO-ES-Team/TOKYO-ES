@@ -76,4 +76,28 @@ TopSky plugin:ACList/Traffic Management List 2/m_Resizable:1
 TopSky plugin:ACList/Traffic Management List 2/m_OrderingColumn:1
 TopSky plugin:ACList/Traffic Management List 2/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 2/m_Column_1: CFL:5:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
+TopSky plugin:ACList/PREACTIVATION LIST/m_Visible:0
+TopSky plugin:ACList/PREACTIVATION LIST/m_X:20
+TopSky plugin:ACList/PREACTIVATION LIST/m_Y:20
+TopSky plugin:ACList/PREACTIVATION LIST/m_LineNumber:1
+TopSky plugin:ACList/PREACTIVATION LIST/m_Resizable:1
+TopSky plugin:ACList/PREACTIVATION LIST/m_OrderingColumn:1
+TopSky plugin:ACList/PREACTIVATION LIST/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/PREACTIVATION LIST/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
+TopSky plugin:ACList/Main VFR List/m_Visible:0
+TopSky plugin:ACList/Main VFR List/m_X:20
+TopSky plugin:ACList/Main VFR List/m_Y:20
+TopSky plugin:ACList/Main VFR List/m_LineNumber:1
+TopSky plugin:ACList/Main VFR List/m_Resizable:1
+TopSky plugin:ACList/Main VFR List/m_OrderingColumn:1
+TopSky plugin:ACList/Main VFR List/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Main VFR List/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
+TopSky plugin:ACList/Secondary VFR List/m_Visible:0
+TopSky plugin:ACList/Secondary VFR List/m_X:20
+TopSky plugin:ACList/Secondary VFR List/m_Y:20
+TopSky plugin:ACList/Secondary VFR List/m_LineNumber:1
+TopSky plugin:ACList/Secondary VFR List/m_Resizable:1
+TopSky plugin:ACList/Secondary VFR List/m_OrderingColumn:1
+TopSky plugin:ACList/Secondary VFR List/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Secondary VFR List/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 END

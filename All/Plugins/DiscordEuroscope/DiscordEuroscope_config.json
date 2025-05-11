@@ -1,0 +1,84 @@
+{
+    "discord_appid": "1370374704401219604",
+    "discord_presence_large_image_key" : "jal",
+    "discord_presence_small_image_key" : "verified",
+    "sweatbox_bypass" : false,
+    "states" : {
+        "idle": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "",
+            "state" : "",
+            "details" : "Idle",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : "Idle"
+        },
+        "playback": {
+            "presence_small_image_key": "green",
+            "presence_large_image_key" : "",
+            "state" : "Playing back a logfile",
+            "details" : "Playback",
+            "presence_small_image_text" : "Playback",
+            "presence_large_image_text" : "{callsign}"
+        },
+        "sweatbox": {
+            "presence_small_image_key": "orange",
+            "presence_large_image_key" : "",
+            "state" : "sweating someone sweat",
+            "details" : "Sweatbox",
+            "presence_small_image_text" : "Sweatbox",
+            "presence_large_image_text" : ""
+        },
+        "direct": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "",
+            "state" : "",
+            "details" : "",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : "",
+            
+            "if_observer" : {
+                "presence_small_image_key": "green",
+                "presence_large_image_key" : "",
+                "state" : "Aircraft in range: {total_inrange}",
+                "details" : "Observing as {callsign}",
+                "presence_small_image_text" : "Observing",
+                "presence_large_image_text" : ""
+            },
+            
+            "if_controller": {
+                "presence_small_image_key": "",
+                "presence_large_image_key" : "",
+                "state" : "Controlling ({current_tracked} of {total_inrange})",
+                "details" : "{rcallsign} on {frequency}MHz",
+                "presence_small_image_text" : "Total tracks: {total_tracked}",
+                "presence_large_image_text" : "{callsign}",
+                "buttons": [
+                    {
+                        "label": "Tokyo ES Team",
+                        "url" : "https://github.com/TOKYO-ES-Team"
+                    }
+                ]
+            },
+            
+            "if_supervisor": {
+                "presence_small_image_key": "",
+                "presence_large_image_key" : "",
+                "state" : "",
+                "details" : "",
+                "presence_small_image_text" : "",
+                "presence_large_image_text" : ""
+            }
+        }
+    },
+    "radio_callsigns": {
+        "config": {
+            "load_from_ese": false,
+            "path_to_ese" : "..\\..\\Sectors"
+        },
+        "custom_callsigns": {
+            "^RJFK_TWR$": "Kagoshima Tower",
+            "^RJFF_TWR$": "Fukuoka Tower"
+        }
+    }
+}
+    

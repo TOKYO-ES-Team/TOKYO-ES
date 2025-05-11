@@ -63,3 +63,5 @@ LastSession	server	AUTOMATIC
 LastSession	atis_freq4	118000
 LastSession	atis_freq3	118000
 RecentFiles	Recent2	\All\Sectors\RJTG.sct
+Plugins	Plugin2	\All\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin3	\All\Plugins\VCH.dll

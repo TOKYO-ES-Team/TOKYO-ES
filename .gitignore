@@ -1,2 +1,6 @@
 version.txt
 *.rwy
+
+# Config files
+TopSky.prf
+TopSky/

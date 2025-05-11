@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\TOKYO-ES\All\Sectors\RJTG.sct
+SECTORFILE:C:\Users\im\Documents\VATSIM&ASN\TOKYO-ES\All\Sectors\RJTG.sct
 SECTORTITLE:RJTG.sct
 ARTCC boundary:A01:
 ARTCC boundary:A02:
@@ -5286,7 +5286,7 @@ Runways:ROYN 08-26:extended centerline 2 right vectoring
 Runways:ROYN 08-26:name
 SHOWC:1
 SHOWSB:0
-BELOW:0
+BELOW:1000
 ABOVE:0
 LEADER:5
 SHOWLEADER:1
@@ -5296,5 +5296,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:14.099781:118.182981:51.138272:160.686845
+TAGFAMILY:Topsky-JHLHK
+WINDOWAREA:18.659722:108.770390:48.290515:168.222351
