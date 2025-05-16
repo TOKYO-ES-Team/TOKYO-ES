@@ -2062,6 +2062,10 @@ Free Text:RJOC\3:freetext
 Free Text:RJOC\4:freetext
 Free Text:RJOC\4W:freetext
 Free Text:RJOC\5:freetext
+Free Text:RJOC\JGSDF APRON:freetext
+Free Text:RJOC\MIDDLE:freetext
+Free Text:RJOC\NR1:freetext
+Free Text:RJOC\NR2:freetext
 Free Text:RJOH\1:freetext
 Free Text:RJOH\2:freetext
 Free Text:RJOH\3:freetext
@@ -2858,6 +2862,7 @@ Geo:RJBB @yuuki_hj:
 Geo:RJBE:
 Geo:RJCC:
 Geo:RJCN:
+Geo:RJCO:
 Geo:RJCW:
 Geo:RJFF:
 Geo:RJFK:
@@ -2886,6 +2891,7 @@ Regions:RJBB @yuuki_hj:polygon
 Regions:RJBE:polygon
 Regions:RJCC:polygon
 Regions:RJCN:polygon
+Regions:RJCO:polygon
 Regions:RJCW:polygon
 Regions:RJFF:polygon
 Regions:RJFK:polygon
@@ -2908,7 +2914,6 @@ Regions:ROIG:polygon
 Regions:ROKJ @Ryo Matsuno:polygon
 Regions:RORH:polygon
 Regions:ROYN:polygon
-Regions:noname:polygon
 Runways:RJAA 16L-34R:centerline
 Runways:RJAA 16L-34R:extended centerline 1
 Runways:RJAA 16L-34R:extended centerline 1 left base

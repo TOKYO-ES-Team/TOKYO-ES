@@ -31,8 +31,8 @@ m_ConnectSELtoSIL:0
 m_ConnectDEPtoSEL:0
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
-m_ScreenPosition:4
-m_ScreenMaximized:1
+m_ScreenPosition:1
+m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1271
 m_PlanesListY:24
@@ -56,3 +56,5 @@ m_ShowTsVccsMiniControl:0
 ScenarioEditorX:1800
 ScenarioEditorY:581
 m_ShowSTARControllers:1
+MessageLinesNumber:4
+BackgroundGrphicsInThread:1
